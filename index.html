@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Entreprises françaises — Offres d'emploi Mid-Atlantique</title>
+  <style>
+    /* ── Reset & Base ─────────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --fr-blue:   #002395;
+      --fr-red:    #ED2939;
+      --fr-white:  #FFFFFF;
+      --accent:    #002395;
+      --bg:        #f5f6fa;
+      --surface:   #ffffff;
+      --border:    #dde1ea;
+      --text:      #1a1d2e;
+      --muted:     #6b7280;
+      --tag-bg:    #eef1fb;
+      --tag-color: #002395;
+      --radius:    10px;
+      --shadow:    0 2px 8px rgba(0,35,149,.08);
+      --shadow-hover: 0 6px 20px rgba(0,35,149,.15);
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    a {
+  color: inherit;          /* Inherits color from the parent text */
+  text-decoration: none;   /* Removes the default underline */
+  transition: color .15s; /* Smooth color transition on hover */
+    } 
+
+    /* ── Header ───────────────────────────────────────────────────────── */
+    .header {
+      background: var(--fr-blue);
+      color: white;
+      padding: 28px 32px 24px;
+      position: relative;
+      overflow: hidden;
+    }
+    .header::before {
+      content: "";
+      position: absolute;
+      top: 0; right: 0; bottom: 0;
+      width: 8px;
+      background: linear-gradient(to bottom, var(--fr-blue) 33%, white 33% 66%, var(--fr-red) 66%);
+    }
+    .header-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; gap: 20px; }
+    .header-logo { height: 60px; width: auto; flex-shrink: 0; }
+    .header-text { flex: 1; }
+    .header h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      letter-spacing: -.02em;
+      line-height: 1.2;
+    }
+    .header h1 span { color: #a8b8ff; }
+    .header p {
+      margin-top: 6px;
+      font-size: .95rem;
+      opacity: .85;
+    }
+    .header-meta {
+      margin-top: 12px;
+      font-size: .8rem;
+      opacity: .7;
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    .header-meta strong { color: white; }
+
+    /* ── Layout ───────────────────────────────────────────────────────── */
+    .layout {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 24px 20px;
+      display: grid;
+      grid-template-columns: 260px 1fr;
+      gap: 24px;
+      align-items: start;
+    }
+    @media (max-width: 768px) {
+      .layout { grid-template-columns: 1fr; }
+      .sidebar { position: static !important; }
+    }
+
+    /* ── Sidebar / Filters ────────────────────────────────────────────── */
+    .sidebar {
+      position: sticky;
+      top: 16px;
+    }
+    .filter-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 20px;
+    }
+    .filter-card h2 {
+      font-size: .85rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      color: var(--muted);
+      margin-bottom: 16px;
+    }
+    .filter-group { margin-bottom: 18px; }
+    .filter-group label {
+      display: block;
+      font-size: .8rem;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .05em;
+      margin-bottom: 6px;
+    }
+    .filter-group input,
+    .filter-group select {
+      width: 100%;
+      padding: 8px 10px;
+      border: 1px solid var(--border);
+      border-radius: 7px;
+      font-size: .9rem;
+      background: var(--bg);
+      color: var(--text);
+      outline: none;
+      transition: border-color .15s;
+    }
+    .filter-group input:focus,
+    .filter-group select:focus { border-color: var(--fr-blue); }
+
+    .checkbox-group { display: flex; flex-direction: column; gap: 6px; }
+    .checkbox-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+      font-size: .9rem;
+    }
+    .checkbox-item input[type="checkbox"] {
+      width: 15px; height: 15px;
+      cursor: pointer;
+      accent-color: var(--fr-blue);
+    }
+    .state-badge {
+      display: inline-block;
+      padding: 1px 7px;
+      border-radius: 4px;
+      font-size: .75rem;
+      font-weight: 700;
+      background: var(--tag-bg);
+      color: var(--tag-color);
+      min-width: 30px;
+      text-align: center;
+    }
+
+    .btn-reset {
+      width: 100%;
+      padding: 9px;
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: 7px;
+      font-size: .85rem;
+      color: var(--muted);
+      cursor: pointer;
+      transition: all .15s;
+      margin-top: 4px;
+    }
+    .btn-reset:hover { border-color: var(--fr-red); color: var(--fr-red); }
+
+    /* ── Main Content ─────────────────────────────────────────────────── */
+    .main {}
+
+    .results-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .results-count {
+      font-size: .9rem;
+      color: var(--muted);
+    }
+    .results-count strong { color: var(--text); font-size: 1rem; }
+
+    .sort-select {
+      padding: 6px 10px;
+      border: 1px solid var(--border);
+      border-radius: 7px;
+      font-size: .85rem;
+      background: var(--surface);
+      color: var(--text);
+      cursor: pointer;
+      outline: none;
+    }
+
+    /* ── Job Cards ────────────────────────────────────────────────────── */
+    .jobs-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .job-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 18px 20px;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 10px;
+      align-items: start;
+      transition: box-shadow .15s, transform .15s, border-color .15s;
+      text-decoration: none;
+      color: inherit;
+    }
+    .job-card:hover {
+      box-shadow: var(--shadow-hover);
+      transform: translateY(-1px);
+      border-color: var(--fr-blue);
+    }
+    .job-card.manual-link {
+      border-left: 4px solid var(--fr-red);
+      opacity: .9;
+    }
+
+    .job-info {}
+    .job-company {
+      font-size: .78rem;
+      font-weight: 700;
+      color: var(--fr-blue);
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      margin-bottom: 3px;
+    }
+    .job-title {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1.35;
+      margin-bottom: 8px;
+    }
+    .job-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+    }
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      padding: 3px 9px;
+      border-radius: 20px;
+      font-size: .75rem;
+      font-weight: 500;
+    }
+    .tag-state {
+      background: var(--fr-blue);
+      color: white;
+      font-weight: 700;
+    }
+    .tag-location { background: var(--tag-bg); color: var(--tag-color); }
+    .tag-sector   { background: #f0f9f0; color: #1a6b3a; }
+    .tag-seniority { background: #fff4e6; color: #b45309; }
+    .tag-date     { background: #fafafa; color: var(--muted); border: 1px solid var(--border); }
+    .tag-source   { background: #f8f0ff; color: #7c3aed; font-size: .68rem; }
+
+    .job-action {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 8px;
+    }
+    .btn-apply {
+      display: inline-block;
+      padding: 8px 18px;
+      background: var(--fr-blue);
+      color: white;
+      border-radius: 7px;
+      font-size: .85rem;
+      font-weight: 600;
+      text-decoration: none;
+      white-space: nowrap;
+      transition: background .15s, transform .1s;
+    }
+    .btn-apply:hover {
+      background: #001a7a;
+      transform: scale(1.03);
+    }
+    .job-card.manual-link .btn-apply { background: var(--fr-red); }
+    .job-card.manual-link .btn-apply:hover { background: #b81e2b; }
+
+    /* ── States ───────────────────────────────────────────────────────── */
+    .loading, .empty, .error {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+    }
+    .loading-spinner {
+      width: 36px; height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--fr-blue);
+      border-radius: 50%;
+      animation: spin .7s linear infinite;
+      margin: 0 auto 16px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .empty-icon { font-size: 2.5rem; margin-bottom: 12px; }
+    .empty h3 { color: var(--text); margin-bottom: 6px; }
+
+    /* ── Section dividers (by state) ─────────────────────────────────── */
+    .state-section { margin-bottom: 8px; }
+    .state-divider {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin: 20px 0 10px;
+    }
+    .state-divider-label {
+      font-size: .8rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: var(--fr-blue);
+      white-space: nowrap;
+    }
+    .state-divider-line {
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+    .state-job-count {
+      font-size: .75rem;
+      color: var(--muted);
+    }
+
+    /* ── Footer ───────────────────────────────────────────────────────── */
+    .footer {
+      text-align: center;
+      padding: 32px 20px;
+      font-size: .78rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+      margin-top: 32px;
+    }
+    .footer a { color: var(--fr-blue); text-decoration: none; }
+
+    /* ── Accessibility ─────────────────────────────────────────────────── */
+    .sr-only {
+      position: absolute; width: 1px; height: 1px;
+      padding: 0; margin: -1px; overflow: hidden;
+      clip: rect(0,0,0,0); white-space: nowrap; border: 0;
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Header ──────────────────────────────────────────────────────────── -->
+<header class="header">
+  <div class="header-inner">
+    <img src="logo.png" alt="Job FR" class="header-logo" />
+    <div class="header-text">
+    <h1>Job FR <span> · Offres d'emploi dans les entreprises françaises</span></h1>
+    <p>DC · Maryland · Virginie · Pennsylvanie · Virginie-Occidentale · Delaware | <a href="https://bealeydier.com/eco" target="_blank">Plus d'infos</a></p>
+    <div class="header-meta">
+      <span id="header-total">Loading…</span>
+      <span id="header-updated"></span>
+      <span id="header-companies"></span>
+    </div>
+    </div>
+  </div>
+</header>
+
+<!-- ── Main layout ──────────────────────────────────────────────────────── -->
+<div class="layout">
+
+  <!-- Filters -->
+  <aside class="sidebar" role="complementary" aria-label="Filtres">
+    <div class="filter-card">
+      <h2>Filtrer les offres</h2>
+
+      <div class="filter-group">
+        <label for="search-input">Recherche</label>
+        <input type="search" id="search-input" placeholder="Poste, entreprise…" autocomplete="off" />
+      </div>
+
+      <div class="filter-group">
+        <label>État</label>
+        <div class="checkbox-group" id="state-filters">
+          <!-- populated by JS -->
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <label for="company-filter">Entreprise</label>
+        <select id="company-filter">
+          <option value="">Toutes les entreprises</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="sector-filter">Secteur</label>
+        <select id="sector-filter">
+          <option value="">Tous les secteurs</option>
+        </select>
+      </div>
+
+      <button class="btn-reset" id="reset-btn" type="button">Réinitialiser les filtres</button>
+    </div>
+  </aside>
+
+  <!-- Results -->
+  <main class="main" role="main">
+    <div class="info-banner" style="background:#eef1fb;border:1px solid #c7d0f0;border-radius:var(--radius);padding:14px 18px;margin-bottom:16px;font-size:.85rem;color:#1a1d2e;line-height:1.6;">
+      Liste mise à jour automatiquement chaque lundi avec les offres d'emploi publiées sur les sites des entreprises françaises de la région (liste d'entreprises selon le rapport du SER 2025). Pour les entreprises dont les sites ne sont pas compatibles avec notre méthode de scraping des données, un lien vers le site carrière est inclus plutôt que les offres individuelles. Ainsi, le nombre d'offres trouvées sous-estime le total d'offres publiées, et nous vous invitons à visiter les sites carrière de chaque entreprise qui vous intéresse et dont les offres d'emploi ne sont pas reflétées individuellement.
+    </div>
+    <div class="results-bar">
+      <p class="results-count" id="results-count">Loading…</p>
+      <select class="sort-select" id="sort-select">
+        <option value="state">Trier par état</option>
+        <option value="company">Trier par entreprise</option>
+        <option value="title">Trier par poste</option>
+        <option value="seniority">Trier par niveau</option>
+      </select>
+    </div>
+    <div id="jobs-container"></div>
+  </main>
+
+</div>
+
+<footer class="footer">
+  Données issues des portails carrières publics des entreprises françaises répertoriées dans le
+  <em>Rapport économique France &amp; États-Unis — 2025</em>.
+  Mise à jour automatique · Sans affiliation avec les entreprises listées.
+</footer>
+
+<!-- ── JavaScript ──────────────────────────────────────────────────────── -->
+<script>
+// ---------------------------------------------------------------------------
+// Configuration — update JOBS_URL after hosting jobs.json on GitHub Pages
+// ---------------------------------------------------------------------------
+const JOBS_URL = "./data/jobs.json";
+
+// State metadata
+const STATE_NAMES = {
+  DC: "District of Columbia",
+  MD: "Maryland",
+  VA: "Virginia",
+  PA: "Pennsylvania",
+  WV: "West Virginia",
+  DE: "Delaware",
+};
+const STATE_ORDER = ["DC", "MD", "VA", "PA", "WV", "DE"];
+
+const SENIORITY_ORDER = [
+  "Internship", "Entry Level", "Mid-level", "Senior",
+  "Lead/Principal", "Manager", "Director/VP", "Executive", "N/A",
+];
+
+// ---------------------------------------------------------------------------
+// App state
+// ---------------------------------------------------------------------------
+let allJobs = [];
+let lastUpdated = "";
+
+const state = {
+  search: "",
+  states: new Set(STATE_ORDER),   // all selected by default
+  company: "",
+  sector: "",
+  seniority: "",
+  sort: "state",
+};
+
+// ---------------------------------------------------------------------------
+// Bootstrap
+// ---------------------------------------------------------------------------
+document.addEventListener("DOMContentLoaded", init);
+
+async function init() {
+  buildStateCheckboxes();
+  attachListeners();
+  await loadJobs();
+}
+
+// ---------------------------------------------------------------------------
+// Data loading
+// ---------------------------------------------------------------------------
+async function loadJobs() {
+  showLoading();
+  try {
+    const resp = await fetch(JOBS_URL + "?_=" + Date.now());
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const data = await resp.json();
+    allJobs = data.jobs || [];
+    lastUpdated = data.last_updated || "";
+    populateFilters();
+    updateHeaderMeta(data);
+    render();
+  } catch (err) {
+    showError(err.message);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Header meta
+// ---------------------------------------------------------------------------
+function updateHeaderMeta(data) {
+  const total = data.total || data.jobs?.length || 0;
+  document.getElementById("header-total").textContent =
+    `${total.toLocaleString()} offre${total !== 1 ? "s" : ""} d'emploi`;
+
+  if (lastUpdated) {
+    const d = new Date(lastUpdated);
+    document.getElementById("header-updated").textContent =
+      `Mis à jour le ${d.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}`;
+  }
+
+  const companies = new Set(allJobs.map(j => j.company));
+  document.getElementById("header-companies").textContent =
+    `${companies.size} entreprise${companies.size !== 1 ? "s" : ""}`;
+}
+
+// ---------------------------------------------------------------------------
+// Filter population
+// ---------------------------------------------------------------------------
+function populateFilters() {
+  // Companies
+  const companies = [...new Set(allJobs.map(j => j.company))].sort();
+  const compSel = document.getElementById("company-filter");
+  companies.forEach(c => {
+    const opt = document.createElement("option");
+    opt.value = c;
+    opt.textContent = c;
+    compSel.appendChild(opt);
+  });
+
+  // Sectors
+  const sectors = [...new Set(allJobs.map(j => j.sector).filter(Boolean))].sort();
+  const secSel = document.getElementById("sector-filter");
+  sectors.forEach(s => {
+    const opt = document.createElement("option");
+    opt.value = s;
+    opt.textContent = s;
+    secSel.appendChild(opt);
+  });
+}
+
+function buildStateCheckboxes() {
+  const container = document.getElementById("state-filters");
+  STATE_ORDER.forEach(code => {
+    const label = document.createElement("label");
+    label.className = "checkbox-item";
+
+    const cb = document.createElement("input");
+    cb.type = "checkbox";
+    cb.checked = true;
+    cb.dataset.state = code;
+    cb.addEventListener("change", () => {
+      if (cb.checked) state.states.add(code);
+      else state.states.delete(code);
+      render();
+    });
+
+    const badge = document.createElement("span");
+    badge.className = "state-badge";
+    badge.textContent = code;
+
+    const name = document.createElement("span");
+    name.textContent = STATE_NAMES[code];
+
+    label.appendChild(cb);
+    label.appendChild(badge);
+    label.appendChild(name);
+    container.appendChild(label);
+  });
+}
+
+// ---------------------------------------------------------------------------
+// Event listeners
+// ---------------------------------------------------------------------------
+function attachListeners() {
+  document.getElementById("search-input").addEventListener("input", e => {
+    state.search = e.target.value.trim().toLowerCase();
+    render();
+  });
+  document.getElementById("company-filter").addEventListener("change", e => {
+    state.company = e.target.value;
+    render();
+  });
+  document.getElementById("sector-filter").addEventListener("change", e => {
+    state.sector = e.target.value;
+    render();
+  });
+  document.getElementById("sort-select").addEventListener("change", e => {
+    state.sort = e.target.value;
+    render();
+  });
+  document.getElementById("reset-btn").addEventListener("click", resetFilters);
+}
+
+function resetFilters() {
+  state.search = "";
+  state.company = "";
+  state.sector = "";
+  state.seniority = "";
+  state.states = new Set(STATE_ORDER);
+  state.sort = "state";
+
+  document.getElementById("search-input").value = "";
+  document.getElementById("company-filter").value = "";
+  document.getElementById("sector-filter").value = "";
+  document.getElementById("sort-select").value = "state";
+  document.querySelectorAll("#state-filters input[type=checkbox]")
+    .forEach(cb => { cb.checked = true; });
+
+  render();
+}
+
+// ---------------------------------------------------------------------------
+// Filtering & sorting
+// ---------------------------------------------------------------------------
+function filterJobs() {
+  return allJobs.filter(job => {
+    if (!state.states.has(job.state)) return false;
+    if (state.company && job.company !== state.company) return false;
+    if (state.sector && job.sector !== state.sector) return false;
+    if (state.seniority && job.seniority !== state.seniority) return false;
+    if (state.search) {
+      const haystack = `${job.title} ${job.company} ${job.location} ${job.sector}`.toLowerCase();
+      if (!haystack.includes(state.search)) return false;
+    }
+    return true;
+  });
+}
+
+function sortJobs(jobs) {
+  const copy = [...jobs];
+  switch (state.sort) {
+    case "company":
+      return copy.sort((a, b) => a.company.localeCompare(b.company) || a.title.localeCompare(b.title));
+    case "title":
+      return copy.sort((a, b) => a.title.localeCompare(b.title));
+    case "seniority":
+      return copy.sort((a, b) =>
+        SENIORITY_ORDER.indexOf(a.seniority) - SENIORITY_ORDER.indexOf(b.seniority) ||
+        a.company.localeCompare(b.company)
+      );
+    case "state":
+    default:
+      return copy.sort((a, b) =>
+        STATE_ORDER.indexOf(a.state) - STATE_ORDER.indexOf(b.state) ||
+        a.company.localeCompare(b.company) ||
+        a.title.localeCompare(b.title)
+      );
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Rendering
+// ---------------------------------------------------------------------------
+function render() {
+  const filtered = filterJobs();
+  const sorted = sortJobs(filtered);
+
+  document.getElementById("results-count").innerHTML =
+    `<strong>${sorted.length.toLocaleString()}</strong> offre${sorted.length !== 1 ? "s" : ""} trouvée${sorted.length !== 1 ? "s" : ""}`;
+
+  const container = document.getElementById("jobs-container");
+
+  if (sorted.length === 0) {
+    container.innerHTML = `
+      <div class="empty">
+        <div class="empty-icon">🔍</div>
+        <h3>Aucune offre ne correspond à vos critères</h3>
+        <p>Élargissez votre recherche ou <button class="btn-reset" style="display:inline;border:none;background:none;color:var(--fr-blue);cursor:pointer;font-size:1rem;padding:0" onclick="resetFilters()">réinitialisez les filtres</button>.</p>
+      </div>`;
+    return;
+  }
+
+  if (state.sort === "state") {
+    // Group by state
+    const byState = {};
+    sorted.forEach(job => {
+      (byState[job.state] = byState[job.state] || []).push(job);
+    });
+
+    container.innerHTML = STATE_ORDER
+      .filter(s => byState[s])
+      .map(s => {
+        const jobs = byState[s];
+        return `
+          <div class="state-section">
+            <div class="state-divider">
+              <span class="state-divider-label">${s} — ${STATE_NAMES[s]}</span>
+              <div class="state-divider-line"></div>
+              <span class="state-job-count">${jobs.length} offre${jobs.length !== 1 ? "s" : ""}</span>
+            </div>
+            <div class="jobs-grid">${jobs.map(renderCard).join("")}</div>
+          </div>`;
+      })
+      .join("");
+  } else {
+    container.innerHTML = `<div class="jobs-grid">${sorted.map(renderCard).join("")}</div>`;
+  }
+}
+
+function renderCard(job) {
+  const isManual = job.source === "manual_link";
+  const title = escHtml(job.title);
+  const company = escHtml(job.company);
+  const location = escHtml(job.location || job.state);
+  const sector = escHtml(job.sector || "");
+  const seniority = escHtml(job.seniority || "");
+  const date = job.posted_date ? `<span class="tag tag-date">📅 ${escHtml(job.posted_date)}</span>` : "";
+  const sourceTag = isManual
+    ? `<span class="tag tag-source">🔗 Visit site</span>`
+    : `<span class="tag tag-source">${escHtml(job.source || "")}</span>`;
+
+  return `
+    <a class="job-card${isManual ? " manual-link" : ""}"
+       href="${escAttr(job.url)}"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="${title} at ${company}">
+      <div class="job-info">
+        <div class="job-company">${company}</div>
+        <div class="job-title">${title}</div>
+        <div class="job-tags">
+          <span class="tag tag-state">${escHtml(job.state)}</span>
+          <span class="tag tag-location">📍 ${location}</span>
+          ${sector ? `<span class="tag tag-sector">${sector}</span>` : ""}
+          ${seniority && seniority !== "N/A" ? `<span class="tag tag-seniority">${seniority}</span>` : ""}
+          ${date}
+          ${sourceTag}
+        </div>
+      </div>
+      <div class="job-action">
+        <span class="btn-apply">${isManual ? "Voir les offres →" : "Postuler →"}</span>
+      </div>
+    </a>`;
+}
+
+// ---------------------------------------------------------------------------
+// Loading / Error states
+// ---------------------------------------------------------------------------
+function showLoading() {
+  document.getElementById("jobs-container").innerHTML = `
+    <div class="loading">
+      <div class="loading-spinner"></div>
+      <p>Chargement des offres d'emploi…</p>
+    </div>`;
+  document.getElementById("results-count").textContent = "Chargement…";
+}
+
+function showError(msg) {
+  document.getElementById("jobs-container").innerHTML = `
+    <div class="error">
+      <div class="empty-icon">⚠️</div>
+      <h3>Impossible de charger les offres</h3>
+      <p style="margin-top:8px;font-size:.9rem">${escHtml(msg)}</p>
+      <p style="margin-top:12px;font-size:.85rem">
+        Vérifiez que <code>data/jobs.json</code> existe et lancez <code>python scraper.py</code>.
+      </p>
+    </div>`;
+  document.getElementById("results-count").textContent = "Erreur";
+}
+
+// ---------------------------------------------------------------------------
+// Utilities
+// ---------------------------------------------------------------------------
+function escHtml(str) {
+  return String(str)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+function escAttr(str) {
+  return String(str).replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+}
+</script>
+</body>
+</html>

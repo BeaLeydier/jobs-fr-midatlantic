@@ -1,0 +1,605 @@
+[
+  {
+    "id": "accor",
+    "name": "Accor",
+    "sector": "Hospitality & Services",
+    "states": ["DC", "PA"],
+    "careers_url": "https://careers.accor.com",
+    "scraper_type": "smartrecruiters",
+    "scraper_config": { "company_id": "AccorHotel" }
+  },
+  {
+    "id": "addev-materials",
+    "name": "Addev Materials",
+    "sector": "Manufacturing & Materials",
+    "states": ["PA"],
+    "careers_url": "https://www.addevmaterials.com/en/careers/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "air-liquide",
+    "name": "Air Liquide",
+    "sector": "Industrials & Chemicals",
+    "states": ["DE", "MD", "PA"],
+    "careers_url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "airliquidehr",
+      "instance": "wd3",
+      "board": "AirLiquideExternalCareer"
+    }
+  },
+  {
+    "id": "airbus",
+    "name": "Airbus",
+    "sector": "Aerospace & Defense",
+    "states": ["DC", "VA"],
+    "careers_url": "https://ag.wd3.myworkdayjobs.com/Airbus",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "ag",
+      "instance": "wd3",
+      "board": "Airbus"
+    }
+  },
+  {
+    "id": "alstom",
+    "name": "Alstom",
+    "sector": "Transportation & Rail",
+    "states": ["DE"],
+    "careers_url": "https://jobsearch.alstom.com/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "arbiom",
+    "name": "Arbiom",
+    "sector": "Biotechnology",
+    "states": ["VA"],
+    "careers_url": "https://arbiom.com/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "arcelormittal",
+    "name": "ArcelorMittal",
+    "sector": "Manufacturing & Materials",
+    "states": ["DC"],
+    "careers_url": "https://najobs.arcelormittal.com/northamerica/go/ArcelorMittal-North-America-Careers/9542300/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "arianespace",
+    "name": "Arianespace",
+    "sector": "Aerospace & Defense",
+    "states": ["DC"],
+    "careers_url": "https://www.arianespace.com/careers/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "arkema",
+    "name": "Arkema",
+    "sector": "Industrials & Chemicals",
+    "states": ["PA", "VA"],
+    "careers_url": "https://jobs.arkema.com/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "atos",
+    "name": "Atos / Eviden",
+    "sector": "Technology & IT",
+    "states": ["VA"],
+    "careers_url": "https://eviden.com/careers/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "axens",
+    "name": "Axens",
+    "sector": "Energy & Environment",
+    "states": ["WV"],
+    "careers_url": "https://www.axens.net/careers",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "beneteau",
+    "name": "Beneteau",
+    "sector": "Marine & Recreation",
+    "states": ["MD"],
+    "careers_url": "https://www.beneteau.com/en/group/careers",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "bnp-paribas",
+    "name": "BNP Paribas",
+    "sector": "Financial Services",
+    "states": ["DC", "MD", "PA"],
+    "careers_url": "https://group.bnpparibas/en/careers",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "capgemini",
+    "name": "Capgemini",
+    "sector": "Technology & IT",
+    "states": ["DE", "MD", "PA", "VA"],
+    "careers_url": "https://www.capgemini.com/us-en/careers/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "certainteed",
+    "name": "CertainTeed (Saint-Gobain)",
+    "sector": "Construction & Infrastructure",
+    "states": ["WV"],
+    "careers_url": "https://www.certainteed.com/about-us/careers/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "ceva-logistics",
+    "name": "Ceva Logistics",
+    "sector": "Transportation & Logistics",
+    "states": ["VA"],
+    "careers_url": "https://www.cevalogistics.com/en/about-us/careers",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "cma-cgm",
+    "name": "CMA CGM",
+    "sector": "Transportation & Logistics",
+    "states": ["VA"],
+    "careers_url": "https://jobs.cmacgm-group.com/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "constellium",
+    "name": "Constellium",
+    "sector": "Manufacturing & Materials",
+    "states": ["MD", "WV"],
+    "careers_url": "https://jobs.constellium.com/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "danone",
+    "name": "Danone",
+    "sector": "Food & Beverage",
+    "states": ["PA", "VA"],
+    "careers_url": "https://enusapply-danone.icims.com/jobs/search?ss=1",
+    "scraper_type": "icims",
+    "scraper_config": { "portal": "enusapply-danone" }
+  },
+  {
+    "id": "dassault-aviation",
+    "name": "Dassault Aviation",
+    "sector": "Aerospace & Defense",
+    "states": ["DE", "PA"],
+    "careers_url": "https://www.dassault-aviation.com/en/group/careers/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "dassault-systemes",
+    "name": "Dassault Systèmes",
+    "sector": "Technology & IT",
+    "states": ["PA"],
+    "careers_url": "https://www.3ds.com/careers/jobs",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "descours-cabaud",
+    "name": "Descours & Cabaud",
+    "sector": "Industrial Distribution",
+    "states": ["VA"],
+    "careers_url": "https://en.descours-cabaud-carrieres.com/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "edf",
+    "name": "EDF Renewables",
+    "sector": "Energy & Environment",
+    "states": ["DE", "MD", "PA", "VA", "WV"],
+    "careers_url": "https://careers-edf-re.icims.com/jobs/search?ss=1",
+    "scraper_type": "icims",
+    "scraper_config": { "portal": "careers-edf-re" }
+  },
+  {
+    "id": "engie",
+    "name": "Engie",
+    "sector": "Energy & Environment",
+    "states": ["DE", "DC", "MD", "PA", "VA", "WV"],
+    "careers_url": "https://jobs.engie.com/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "esi-group",
+    "name": "ESI Group (Keysight)",
+    "sector": "Technology & IT",
+    "states": ["MD"],
+    "careers_url": "https://jobs.keysight.com/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "eurovia",
+    "name": "Eurovia (Vinci)",
+    "sector": "Construction & Infrastructure",
+    "states": ["PA", "VA"],
+    "careers_url": "https://jobs.ourcareerpages.com/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "fareva",
+    "name": "Fareva",
+    "sector": "Pharmaceuticals & Healthcare",
+    "states": ["VA"],
+    "careers_url": "https://www.fareva.com/en/your-future/our-jobs",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "fives",
+    "name": "Fives",
+    "sector": "Industrial Engineering",
+    "states": ["MD"],
+    "careers_url": "https://www.fivesgroup.com/careers",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "framatome",
+    "name": "Framatome",
+    "sector": "Energy & Environment",
+    "states": ["DC", "MD", "PA", "VA"],
+    "careers_url": "https://careers-framatome.icims.com/jobs/search?ss=1",
+    "scraper_type": "icims",
+    "scraper_config": { "portal": "careers-framatome" }
+  },
+  {
+    "id": "free2move",
+    "name": "Free2Move",
+    "sector": "Technology & Mobility",
+    "states": ["DC"],
+    "careers_url": "https://jobs.free2move.com/jobs",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "hachette",
+    "name": "Hachette Book Group",
+    "sector": "Publishing & Media",
+    "states": ["PA"],
+    "careers_url": "https://jobs.jobvite.com/hachette-book-group/jobs",
+    "scraper_type": "jobvite",
+    "scraper_config": { "company_id": "hachette-book-group" }
+  },
+  {
+    "id": "idemia",
+    "name": "IDEMIA",
+    "sector": "Technology & Security",
+    "states": ["VA"],
+    "careers_url": "https://uscareers-idemia.icims.com/jobs/search?ss=1",
+    "scraper_type": "icims",
+    "scraper_config": { "portal": "uscareers-idemia" }
+  },
+  {
+    "id": "imerys",
+    "name": "Imerys",
+    "sector": "Mining & Materials",
+    "states": ["MD", "VA", "WV"],
+    "careers_url": "https://imerys.wd3.myworkdayjobs.com/IMERYS-Careers",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "imerys",
+      "instance": "wd3",
+      "board": "IMERYS-Careers"
+    }
+  },
+  {
+    "id": "keolis",
+    "name": "Keolis",
+    "sector": "Transportation & Logistics",
+    "states": ["DC", "VA"],
+    "careers_url": "https://careers.keolis.com/?locale=en_US",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "legrand",
+    "name": "Legrand",
+    "sector": "Manufacturing & Materials",
+    "states": ["PA"],
+    "careers_url": "https://jobs-legrand.icims.com/jobs/search?ss=1",
+    "scraper_type": "icims",
+    "scraper_config": { "portal": "jobs-legrand" }
+  },
+  {
+    "id": "ligne-roset",
+    "name": "Ligne Roset",
+    "sector": "Retail & Design",
+    "states": ["DC"],
+    "careers_url": "https://www.ligne-roset.com/us/careers",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "mazars",
+    "name": "Forvis Mazars",
+    "sector": "Consulting & Professional Services",
+    "states": ["PA"],
+    "careers_url": "https://jobs.forvismazars.us/jobs",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "mersen",
+    "name": "Mersen",
+    "sector": "Manufacturing & Materials",
+    "states": ["VA"],
+    "careers_url": "https://www.mersen.com/en/careers",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "michelin",
+    "name": "Michelin",
+    "sector": "Manufacturing & Materials",
+    "states": ["PA"],
+    "careers_url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "michelinhr",
+      "instance": "wd3",
+      "board": "Michelin"
+    }
+  },
+  {
+    "id": "novares",
+    "name": "Novares",
+    "sector": "Manufacturing & Materials",
+    "states": ["PA"],
+    "careers_url": "https://www.novares.com/en/join-us/careers/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "orange",
+    "name": "Orange Business",
+    "sector": "Telecommunications",
+    "states": ["VA"],
+    "careers_url": "https://jobs.digital.orange-business.com/jobs",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "orano",
+    "name": "Orano",
+    "sector": "Energy & Environment",
+    "states": ["MD", "VA"],
+    "careers_url": "https://www.orano.group/en/careers",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "ovhcloud",
+    "name": "OVHcloud",
+    "sector": "Technology & IT",
+    "states": ["VA"],
+    "careers_url": "https://ovhus.applytojob.com/apply",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "pernod-ricard",
+    "name": "Pernod Ricard",
+    "sector": "Food & Beverage",
+    "states": ["DC"],
+    "careers_url": "https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "pernodricard",
+      "instance": "wd3",
+      "board": "pernod-ricard"
+    }
+  },
+  {
+    "id": "ratp-dev",
+    "name": "RATP Dev USA",
+    "sector": "Transportation & Logistics",
+    "states": ["DC"],
+    "careers_url": "https://careers.ratpdevusa.com/en/annonces",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "roquette",
+    "name": "Roquette",
+    "sector": "Food Ingredients",
+    "states": ["PA"],
+    "careers_url": "https://roquette.wd3.myworkdayjobs.com/External",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "roquette",
+      "instance": "wd3",
+      "board": "External"
+    }
+  },
+  {
+    "id": "roullier",
+    "name": "Roullier",
+    "sector": "Agriculture & Chemicals",
+    "states": ["PA"],
+    "careers_url": "https://rh.roullier.com/en/jobs/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "safran",
+    "name": "Safran",
+    "sector": "Aerospace & Defense",
+    "states": ["MD", "PA", "VA"],
+    "careers_url": "https://safran.profils.org/job/list-of-all-jobs.aspx?changefacet=1&facet_JobCountry=76",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "saint-gobain",
+    "name": "Saint-Gobain",
+    "sector": "Construction & Infrastructure",
+    "states": ["MD", "PA", "VA", "WV"],
+    "careers_url": "https://joinus.saint-gobain.com/en",
+    "scraper_type": "smartrecruiters",
+    "scraper_config": { "company_id": "SaintGobain" }
+  },
+  {
+    "id": "sanofi",
+    "name": "Sanofi",
+    "sector": "Pharmaceuticals & Healthcare",
+    "states": ["DE", "PA"],
+    "careers_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "sanofi",
+      "instance": "wd3",
+      "board": "SanofiCareers"
+    }
+  },
+  {
+    "id": "savencia",
+    "name": "Savencia",
+    "sector": "Food & Beverage",
+    "states": ["PA"],
+    "careers_url": "https://www.savenciacheeseusa.com/careers/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "schneider-electric",
+    "name": "Schneider Electric",
+    "sector": "Technology & Energy",
+    "states": ["DE", "MD", "PA", "VA"],
+    "careers_url": "https://careers.se.com/jobs",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "snf",
+    "name": "SNF",
+    "sector": "Industrials & Chemicals",
+    "states": ["PA", "WV"],
+    "careers_url": "https://www.snf.com/en/careers/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "sodexo",
+    "name": "Sodexo",
+    "sector": "Hospitality & Services",
+    "states": ["DE", "DC", "MD", "PA", "VA", "WV"],
+    "careers_url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
+    "scraper_type": "icims",
+    "scraper_config": { "portal": "external-careers-sodexo" }
+  },
+  {
+    "id": "sonepar",
+    "name": "Sonepar",
+    "sector": "Industrial Distribution",
+    "states": ["PA"],
+    "careers_url": "https://career.sonepar.com/content/?locale=en_US",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "st-microelectronics",
+    "name": "STMicroelectronics",
+    "sector": "Technology & Semiconductors",
+    "states": ["PA"],
+    "careers_url": "https://stmicroelectronics.eightfold.ai/careers",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "technip-energies",
+    "name": "Technip Energies",
+    "sector": "Energy & Environment",
+    "states": ["MD"],
+    "careers_url": "https://www.technipenergies.com/careers/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "texcell",
+    "name": "Texcell",
+    "sector": "Biotechnology",
+    "states": ["MD"],
+    "careers_url": "https://texcell.com/join-us/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "thales",
+    "name": "Thales",
+    "sector": "Aerospace & Defense",
+    "states": ["PA", "VA"],
+    "careers_url": "https://thales.wd3.myworkdayjobs.com/Careers",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "thales",
+      "instance": "wd3",
+      "board": "Careers"
+    }
+  },
+  {
+    "id": "transdev",
+    "name": "Transdev",
+    "sector": "Transportation & Logistics",
+    "states": ["MD", "PA", "VA"],
+    "careers_url": "https://transdevna.jobs/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "valeo",
+    "name": "Valeo",
+    "sector": "Automotive",
+    "states": ["VA"],
+    "careers_url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "valeo",
+      "instance": "wd3",
+      "board": "valeo_jobs"
+    }
+  },
+  {
+    "id": "veolia",
+    "name": "Veolia",
+    "sector": "Energy & Environment",
+    "states": ["DE", "PA", "VA", "WV"],
+    "careers_url": "https://careers.veolianorthamerica.com/",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  },
+  {
+    "id": "vinci",
+    "name": "Vinci",
+    "sector": "Construction & Infrastructure",
+    "states": ["DE", "DC", "MD", "PA", "VA", "WV"],
+    "careers_url": "https://jobs.vinci.com/en",
+    "scraper_type": "generic",
+    "scraper_config": {}
+  }
+]
