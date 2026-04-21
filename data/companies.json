@@ -84,9 +84,13 @@
     "name": "Arkema",
     "sector": "Industrials & Chemicals",
     "states": ["PA", "VA"],
-    "careers_url": "https://jobs.arkema.com/",
-    "scraper_type": "generic",
-    "scraper_config": {}
+    "careers_url": "https://arkema.wd3.myworkdayjobs.com/External",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "arkema",
+      "instance": "wd3",
+      "board": "External"
+    }
   },
   {
     "id": "atos",
@@ -156,18 +160,26 @@
     "name": "CMA CGM",
     "sector": "Transportation & Logistics",
     "states": ["VA"],
-    "careers_url": "https://jobs.cmacgm-group.com/",
-    "scraper_type": "generic",
-    "scraper_config": {}
+    "careers_url": "https://cmacgm.wd3.myworkdayjobs.com/External",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "cmacgm",
+      "instance": "wd3",
+      "board": "External"
+    }
   },
   {
     "id": "constellium",
     "name": "Constellium",
     "sector": "Manufacturing & Materials",
     "states": ["MD", "WV"],
-    "careers_url": "https://jobs.constellium.com/",
-    "scraper_type": "generic",
-    "scraper_config": {}
+    "careers_url": "https://constellium.wd1.myworkdayjobs.com/External",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "constellium",
+      "instance": "wd1",
+      "board": "External"
+    }
   },
   {
     "id": "danone",
@@ -219,9 +231,13 @@
     "name": "Engie",
     "sector": "Energy & Environment",
     "states": ["DE", "DC", "MD", "PA", "VA", "WV"],
-    "careers_url": "https://jobs.engie.com/",
-    "scraper_type": "generic",
-    "scraper_config": {}
+    "careers_url": "https://engie.wd3.myworkdayjobs.com/External",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "engie",
+      "instance": "wd3",
+      "board": "External"
+    }
   },
   {
     "id": "esi-group",
@@ -313,9 +329,13 @@
     "name": "Keolis",
     "sector": "Transportation & Logistics",
     "states": ["DC", "VA"],
-    "careers_url": "https://careers.keolis.com/?locale=en_US",
-    "scraper_type": "generic",
-    "scraper_config": {}
+    "careers_url": "https://keolis.wd3.myworkdayjobs.com/External",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "keolis",
+      "instance": "wd3",
+      "board": "External"
+    }
   },
   {
     "id": "legrand",
@@ -349,9 +369,13 @@
     "name": "Mersen",
     "sector": "Manufacturing & Materials",
     "states": ["VA"],
-    "careers_url": "https://www.mersen.com/en/careers",
-    "scraper_type": "generic",
-    "scraper_config": {}
+    "careers_url": "https://mersen.wd3.myworkdayjobs.com/External",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "mersen",
+      "instance": "wd3",
+      "board": "External"
+    }
   },
   {
     "id": "michelin",
@@ -500,9 +524,9 @@
     "name": "SNF",
     "sector": "Industrials & Chemicals",
     "states": ["PA", "WV"],
-    "careers_url": "https://www.snf.com/en/careers/",
-    "scraper_type": "generic",
-    "scraper_config": {}
+    "careers_url": "https://uscareers-snf.icims.com/jobs/search?ss=1",
+    "scraper_type": "icims",
+    "scraper_config": { "portal": "uscareers-snf" }
   },
   {
     "id": "sodexo",
@@ -518,9 +542,13 @@
     "name": "Sonepar",
     "sector": "Industrial Distribution",
     "states": ["PA"],
-    "careers_url": "https://career.sonepar.com/content/?locale=en_US",
-    "scraper_type": "generic",
-    "scraper_config": {}
+    "careers_url": "https://sonepar.wd3.myworkdayjobs.com/External",
+    "scraper_type": "workday",
+    "scraper_config": {
+      "tenant": "sonepar",
+      "instance": "wd3",
+      "board": "External"
+    }
   },
   {
     "id": "st-microelectronics",
@@ -567,9 +595,9 @@
     "name": "Transdev",
     "sector": "Transportation & Logistics",
     "states": ["MD", "PA", "VA"],
-    "careers_url": "https://transdevna.jobs/",
-    "scraper_type": "generic",
-    "scraper_config": {}
+    "careers_url": "https://dottalent-transdevna.icims.com/jobs/search?ss=1",
+    "scraper_type": "icims",
+    "scraper_config": { "portal": "dottalent-transdevna" }
   },
   {
     "id": "valeo",
