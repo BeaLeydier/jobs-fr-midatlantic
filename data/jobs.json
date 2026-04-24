@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T03:14:00.208400+00:00",
-  "total": 541,
+  "last_updated": "2026-04-24T08:24:05.065039+00:00",
+  "total": 544,
   "jobs": [
     {
       "id": "sr-744000109353195",
@@ -302,15 +302,15 @@
       "source": "engie"
     },
     {
-      "id": "engie-55551-DC",
+      "id": "engie-64222-DC",
       "company": "Engie",
       "company_id": "engie",
-      "title": "Facilities Engineer",
-      "location": "Washington, DC",
+      "title": "Energy Procurement Manager",
+      "location": "Remote (DC)",
       "state": "DC",
       "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Facilities%20Engineer",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -523,6 +523,19 @@
       "source": "engie"
     },
     {
+      "id": "engie-64222-DE",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Energy Procurement Manager",
+      "location": "Remote (DE)",
+      "state": "DE",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "ic-uscareers-idemia-jobs-8442-enrollment-agent-i-job",
       "company": "IDEMIA",
       "company_id": "idemia",
@@ -688,6 +701,19 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Account%20Executive",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-64222-MD",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Energy Procurement Manager",
+      "location": "Remote (MD)",
+      "state": "MD",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -2577,6 +2603,19 @@
       "source": "engie"
     },
     {
+      "id": "engie-64222-PA",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Energy Procurement Manager",
+      "location": "Remote (PA)",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-62966-PA",
       "company": "Engie",
       "company_id": "engie",
@@ -4072,19 +4111,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-245e153903773133",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Técnico(a) de Manutenção Eletricista - Loures",
-      "location": "Trevose, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/loures/tecnico-a-de-manutencao-eletricista-loures/3091/30081959232",
-      "posted_date": "2025-10-07",
-      "source": "indeed"
-    },
-    {
       "id": "profils-vinci-PA",
       "company": "Vinci",
       "company_id": "vinci",
@@ -4653,7 +4679,7 @@
       "sector": "Technology & IT",
       "seniority": "Mid-level",
       "url": "https://recruiting.ultipro.com/CAP1009CAPGE/JobBoard/5178abe8-537c-41a6-96cc-fce9104c8f2f/OpportunityDetail?opportunityId=4a21a49b-5ea0-4fce-b811-d94d978e3718&postingId=3b7a3f3b-a106-40af-8cee-3293cd1ceb19",
-      "posted_date": "2026-04-10",
+      "posted_date": "2026-04-11",
       "source": "indeed"
     },
     {
@@ -4822,6 +4848,19 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Account%20Executive",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-64222-VA",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Energy Procurement Manager",
+      "location": "Remote (VA)",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -5658,19 +5697,6 @@
       "source": "manual_link"
     },
     {
-      "id": "wd-sanofi-/job/Winchester-VA/Area-Business-Manager--Roanoke--VA_R2844618-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Area Business Manager, Roanoke, VA",
-      "location": "Winchester, Va",
-      "state": "VA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Manager",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Winchester-VA/Area-Business-Manager--Roanoke--VA_R2844618-1",
-      "posted_date": "2026-03-05",
-      "source": "workday"
-    },
-    {
       "id": "jsp-schneider-electric-in-c70d6a9d346c4d09",
       "company": "Schneider Electric",
       "company_id": "schneider-electric",
@@ -6162,6 +6188,19 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/0543FBC575744364BB59D14E04D2B6EE/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-03-16",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-bf480cb8f8cb98b1",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Maintenance Manager",
+      "location": "Arlington, VA",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Manager",
+      "url": "https://transdevna.jobs/179E85687AFA454E809E001ED4C57EB6/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-04-23",
       "source": "indeed"
     },
     {
@@ -6958,15 +6997,15 @@
       "source": "engie"
     },
     {
-      "id": "engie-63371-WV",
+      "id": "engie-64222-WV",
       "company": "Engie",
       "company_id": "engie",
-      "title": "Associate Energy Analyst",
+      "title": "Energy Procurement Manager",
       "location": "Remote (WV)",
       "state": "WV",
       "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Associate%20Energy%20Analyst",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
       "posted_date": "",
       "source": "engie"
     },
