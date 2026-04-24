@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .DS_Store
 2025_Economic_Report.pdf
+.env
+.claude/

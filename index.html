@@ -426,7 +426,7 @@
   <!-- Results -->
   <main class="main" role="main">
     <div class="info-banner" style="background:#eef1fb;border:1px solid #c7d0f0;border-radius:var(--radius);padding:14px 18px;margin-bottom:16px;font-size:.85rem;color:#1a1d2e;line-height:1.6;">
-      Liste mise à jour automatiquement chaque lundi avec les offres d'emploi publiées sur les sites des entreprises françaises de la région (liste d'entreprises selon le rapport du SER 2025). Pour les entreprises dont les sites ne sont pas compatibles avec notre méthode de scraping des données, un lien vers le site carrière est inclus plutôt que les offres individuelles. Ainsi, le nombre d'offres trouvées sous-estime le total d'offres publiées, et nous vous invitons à visiter les sites carrière de chaque entreprise qui vous intéresse et dont les offres d'emploi ne sont pas reflétées individuellement.
+      Liste mise à jour automatiquement chaque matin avec les offres d'emploi publiées sur les sites des entreprises françaises de la région (liste d'entreprises selon le rapport du SER 2025). Pour les entreprises qui n'ont aucune offre postée dans la région, et/ou dont les sites ne sont pas compatibles avec notre méthode de scraping des données, un lien vers le site carrière est inclus plutôt que les offres individuelles. Ainsi, le nombre d'offres trouvées peut sous-estimer le total d'offres publiées, et nous vous invitons à visiter les sites carrière de chaque entreprise qui vous intéresse et dont les offres d'emploi ne sont pas reflétées individuellement.
     </div>
     <div class="results-bar">
       <p class="results-count" id="results-count">Loading…</p>
@@ -445,15 +445,15 @@
 <footer class="footer">
   Données issues des portails carrières publics des entreprises françaises répertoriées dans le
   <em>Rapport économique France &amp; États-Unis — 2025</em>.
-  Mise à jour automatique · Sans affiliation avec les entreprises listées.
+  Mise à jour automatique quotidienne · Sans affiliation avec les entreprises listées.
 </footer>
 
 <!-- ── JavaScript ──────────────────────────────────────────────────────── -->
 <script>
 // ---------------------------------------------------------------------------
-// Link to jobs.json hosted on GitHub Pages
+// Path to jobs.json — relative so it works both locally and on GitHub Pages
 // ---------------------------------------------------------------------------
-const JOBS_URL = "https://bealeydier.github.io/jobs-fr-midatlantic/data/jobs.json";
+const JOBS_URL = "./data/jobs.json";
 
 // State metadata
 const STATE_NAMES = {

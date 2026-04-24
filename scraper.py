@@ -23,7 +23,11 @@ from scrapers import (
     scrape_smartrecruiters,
     scrape_icims,
     scrape_jobvite,
-    scrape_successfactors,
+    scrape_j2w,
+    scrape_engie,
+    scrape_teamtailor,
+    scrape_profilsorg,
+    scrape_jobspy,
     scrape_generic,
 )
 
@@ -36,7 +40,11 @@ SCRAPER_MAP = {
     "smartrecruiters": scrape_smartrecruiters,
     "icims": scrape_icims,
     "jobvite": scrape_jobvite,
-    "successfactors": scrape_successfactors,
+    "j2w": scrape_j2w,
+    "engie": scrape_engie,
+    "teamtailor": scrape_teamtailor,
+    "profilsorg": scrape_profilsorg,
+    "jobspy": scrape_jobspy,
     "generic": scrape_generic,
     "manual": scrape_generic,
 }

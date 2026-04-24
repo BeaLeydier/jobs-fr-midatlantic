@@ -27,7 +27,7 @@ _CITY_KEYWORDS: dict[str, list[str]] = {
         "virginia",
         "arlington", "alexandria", "falls church", "mclean", "tysons",
         "richmond", "norfolk", "virginia beach", "charlottesville",
-        "lynchburg", "reston", "herndon", "sterling", "fairfax",
+        "lynchburg", "reston", "herndon", "sterling, va", "fairfax",
         "manassas", "leesburg", "ashburn", "chantilly", "dulles",
         "annandale", "springfield",
         "northern virginia", "nova area",
