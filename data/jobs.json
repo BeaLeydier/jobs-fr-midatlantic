@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-25T07:48:42.211396+00:00",
-  "total": 531,
+  "last_updated": "2026-04-26T07:57:35.282926+00:00",
+  "total": 537,
   "jobs": [
     {
       "id": "sr-744000109353195",
@@ -289,6 +289,19 @@
       "source": "manual_link"
     },
     {
+      "id": "engie-62965-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Account Executive",
+      "location": "Remote (DC)",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Account%20Executive",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-64222-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -311,6 +324,45 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Facilities%20Engineer",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-62837-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Operating Engineer",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Operating%20Engineer",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-58082-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Power Plant Maintenance Mechanic",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Power%20Plant%20Maintenance%20Mechanic",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-58310-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Sales Manager",
+      "location": "Remote (DC)",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -456,6 +508,19 @@
       "url": "https://www.dassault-aviation.com/en/group/careers/",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "engie-62965-DE",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Account Executive",
+      "location": "Remote (DE)",
+      "state": "DE",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Account%20Executive",
+      "posted_date": "",
+      "source": "engie"
     },
     {
       "id": "engie-64222-DE",
@@ -614,6 +679,19 @@
       "source": "indeed"
     },
     {
+      "id": "engie-62965-MD",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Account Executive",
+      "location": "Remote (MD)",
+      "state": "MD",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Account%20Executive",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-64222-MD",
       "company": "Engie",
       "company_id": "engie",
@@ -623,6 +701,19 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-58310-MD",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Sales Manager",
+      "location": "Remote (MD)",
+      "state": "MD",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -2434,6 +2525,19 @@
       "source": "manual_link"
     },
     {
+      "id": "engie-62965-PA",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Account Executive",
+      "location": "Remote (PA)",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Account%20Executive",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-64222-PA",
       "company": "Engie",
       "company_id": "engie",
@@ -2447,7 +2551,7 @@
       "source": "engie"
     },
     {
-      "id": "engie-65084-PA",
+      "id": "engie-58310-PA",
       "company": "Engie",
       "company_id": "engie",
       "title": "Sales Manager",
@@ -3513,6 +3617,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-1f6d28ae01aa7685",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Agent travaux / Canalisateur en alternance F/H",
+      "location": "Trevose, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.veolia.com/fr/emploi/maromme/agent-travaux-canalisateur-en-alternance-f-h/3091/36498228096",
+      "posted_date": "2026-03-24",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-3afb0ff9ee52b27f",
       "company": "Veolia",
       "company_id": "veolia",
@@ -3523,19 +3640,6 @@
       "seniority": "Manager",
       "url": "https://jobs.veolia.com/fr/emploi/trevose/area-manager/3091/34554489024",
       "posted_date": "2026-01-26",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-cffacbb89f4961a9",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Attaché d'exploitation F/H",
-      "location": "Trevose, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/le-petit-quevilly/attache-d-exploitation-f-h/3091/31657468416",
-      "posted_date": "2025-11-11",
       "source": "indeed"
     },
     {
@@ -3562,19 +3666,6 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122512702-commissioning-field-service-representative-water-technologies",
       "posted_date": "2026-04-23",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-f8deabf0fdb7af98",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Directeur de Flotte F/H",
-      "location": "Boothwyn, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/vaulx-en-velin/directeur-de-flotte-f-h/3091/34532942016",
-      "posted_date": "2026-01-26",
       "source": "indeed"
     },
     {
@@ -3721,7 +3812,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-031f30daa021558c",
+      "id": "jsp-veolia-in-56f2bfa869f04393",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Regional Training & Operations Technician",
@@ -3729,8 +3820,8 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000116480534-regional-training-operations-technician",
-      "posted_date": "2026-03-24",
+      "url": "https://jobs.veolia.com/fr/emploi/allentown/regional-training-and-operations-technician/3091/36506880384",
+      "posted_date": "2026-03-25",
       "source": "indeed"
     },
     {
@@ -3952,6 +4043,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.veolia.com/fr/emploi/trevose/traveling-field-service-representative-plc-technician/3091/36328629056",
       "posted_date": "2026-03-19",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-c0b27a9ccd1d0897",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Técnico/a de Mantenimiento de Calderas Industriales",
+      "location": "Trevose, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.veolia.com/fr/emploi/madrid/tecnico-a-de-mantenimiento-de-calderas-industriales/3091/35484578496",
+      "posted_date": "2026-02-23",
       "source": "indeed"
     },
     {
@@ -4720,6 +4824,19 @@
       "url": "https://en.descours-cabaud-carrieres.com/",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "engie-62965-VA",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Account Executive",
+      "location": "Remote (VA)",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Account%20Executive",
+      "posted_date": "",
+      "source": "engie"
     },
     {
       "id": "engie-64222-VA",
@@ -6191,32 +6308,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-1206ec40d4d3194b",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Area Manager - Chemical Water Treatment Solutions",
-      "location": "Richmond, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.veolia.com/fr/emploi/richmond/area-manager-chemical-water-treatment-solutions/3091/37589013760",
-      "posted_date": "2026-04-22",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-909bab15c8538b10",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Asset Manager",
-      "location": "Richmond, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.veolia.com/fr/emploi/richmond/asset-manager/3091/37280292480",
-      "posted_date": "2026-04-14",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-veolia-in-bc6ee5b43461924f",
       "company": "Veolia",
       "company_id": "veolia",
@@ -6227,19 +6318,6 @@
       "seniority": "Mid-level",
       "url": "https://jobs.veolia.com/fr/emploi/norfolk/associate-engineer-mechanical-design/3091/36830782528",
       "posted_date": "2026-04-02",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-50c026c8e32c8c9e",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Chargée de Support Client et Opérations (H/F)",
-      "location": "North Chesterfield, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/lyon/chargee-de-support-client-et-operations-h-f/3091/35810203904",
-      "posted_date": "2026-03-05",
       "source": "indeed"
     },
     {
@@ -6279,19 +6357,6 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122005386-electrical-technician",
       "posted_date": "2026-04-21",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-cdeba2dff1da5f70",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Engineer (chief)",
-      "location": "North Chesterfield, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Executive",
-      "url": "https://jobs.veolia.com/fr/emploi/hong-kong/engineer-chief/3091/35505246016",
-      "posted_date": "2026-02-24",
       "source": "indeed"
     },
     {
@@ -6360,7 +6425,20 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-8bf69175f63413ae",
+      "id": "jsp-veolia-in-6f33785edca1f8b6",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Lead Engineer - Electrical Components",
+      "location": "Norfolk, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Senior",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000114371963-lead-engineer-electrical-components",
+      "posted_date": "2026-03-12",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-ca1e919437fcfde3",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Mechanical Commissioning Engineer (Data Center)",
@@ -6368,7 +6446,7 @@
       "state": "VA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000106902844-mechanical-commissioning-engineer-data-center-",
+      "url": "https://jobs.veolia.com/fr/emploi/ashburn/mechanical-commissioning-engineer-data-center/3091/34776799744",
       "posted_date": "2026-02-02",
       "source": "indeed"
     },
@@ -6841,6 +6919,19 @@
       "source": "j2w"
     },
     {
+      "id": "engie-62965-WV",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Account Executive",
+      "location": "Remote (WV)",
+      "state": "WV",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Account%20Executive",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-64222-WV",
       "company": "Engie",
       "company_id": "engie",
@@ -6865,19 +6956,6 @@
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Charleston-WV/Strategic-Account-Manager-Vaccines-Charleston-and-West-Virginia_R2841303",
       "posted_date": "2026-04-06",
       "source": "workday"
-    },
-    {
-      "id": "jsp-veolia-in-59e5e62685bcfc22",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Account Associate (RISE)- Water Treatment",
-      "location": "Parkersburg, WV",
-      "state": "WV",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/parkersburg/account-associate-rise-water-treatment/3091/35836408960",
-      "posted_date": "2026-03-05",
-      "source": "indeed"
     },
     {
       "id": "jsp-veolia-in-655ccf854de28c6a",
