@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-26T07:57:35.282926+00:00",
-  "total": 537,
+  "last_updated": "2026-04-27T08:47:55.350973+00:00",
+  "total": 532,
   "jobs": [
     {
       "id": "sr-744000109353195",
@@ -302,19 +302,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-64222-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Energy Procurement Manager",
-      "location": "Remote (DC)",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "engie-55551-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -363,6 +350,19 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-59240-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Senior Construction Manager",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Senior%20Construction%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -523,19 +523,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-64222-DE",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Energy Procurement Manager",
-      "location": "Remote (DE)",
-      "state": "DE",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "ic-uscareers-idemia-jobs-8442-enrollment-agent-i-job",
       "company": "IDEMIA",
       "company_id": "idemia",
@@ -688,19 +675,6 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Account%20Executive",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-64222-MD",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Energy Procurement Manager",
-      "location": "Remote (MD)",
-      "state": "MD",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -2538,19 +2512,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-64222-PA",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Energy Procurement Manager",
-      "location": "Remote (PA)",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "engie-58310-PA",
       "company": "Engie",
       "company_id": "engie",
@@ -2590,15 +2551,15 @@
       "source": "manual_link"
     },
     {
-      "id": "ic-careers-framatome-jobs-2947-i-26c-safety-system-architect-job",
+      "id": "ic-careers-framatome-jobs-2851-i-26c-safety-system-software-engineer-job",
       "company": "Framatome",
       "company_id": "framatome",
-      "title": "I&C Safety System Architect",
+      "title": "I&C Safety System Software Engineer",
       "location": "Cranberry Township, PA",
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://careers-framatome.icims.com/jobs/2947/i%26c-safety-system-architect/job",
+      "url": "https://careers-framatome.icims.com/jobs/2851/i%26c-safety-system-software-engineer/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -2867,7 +2828,7 @@
       "company": "SNF",
       "company_id": "snf",
       "title": "Nurse Practitioner NP or Physician Assistant PA Skilled Nursing Facility Rounds SNF Healthcare",
-      "location": "Norristown, PA",
+      "location": "Philadelphia, PA",
       "state": "PA",
       "sector": "Industrials & Chemicals",
       "seniority": "Mid-level",
@@ -3055,19 +3016,6 @@
       "seniority": "Mid-level",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Process-Engineer--Fill-Finish-_R2848352-1",
       "posted_date": "2026-04-06",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Production-Technician_R2840732-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Production Technician",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Production-Technician_R2840732-1",
-      "posted_date": "2026-04-23",
       "source": "workday"
     },
     {
@@ -3617,19 +3565,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-1f6d28ae01aa7685",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Agent travaux / Canalisateur en alternance F/H",
-      "location": "Trevose, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/maromme/agent-travaux-canalisateur-en-alternance-f-h/3091/36498228096",
-      "posted_date": "2026-03-24",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-veolia-in-3afb0ff9ee52b27f",
       "company": "Veolia",
       "company_id": "veolia",
@@ -4043,19 +3978,6 @@
       "seniority": "Mid-level",
       "url": "https://jobs.veolia.com/fr/emploi/trevose/traveling-field-service-representative-plc-technician/3091/36328629056",
       "posted_date": "2026-03-19",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-c0b27a9ccd1d0897",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Técnico/a de Mantenimiento de Calderas Industriales",
-      "location": "Trevose, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/madrid/tecnico-a-de-mantenimiento-de-calderas-industriales/3091/35484578496",
-      "posted_date": "2026-02-23",
       "source": "indeed"
     },
     {
@@ -4839,19 +4761,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-64222-VA",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Energy Procurement Manager",
-      "location": "Remote (VA)",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "jsp-eurovia-VA",
       "company": "Eurovia (Vinci)",
       "company_id": "eurovia",
@@ -5138,19 +5047,6 @@
       "source": "icims"
     },
     {
-      "id": "ic-careers-framatome-jobs-2895-finance-intern--28project-controls--26-invoicing-29-job",
-      "company": "Framatome",
-      "company_id": "framatome",
-      "title": "Finance Intern (Project Controls & Invoicing)",
-      "location": "Lynchburg, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Internship",
-      "url": "https://careers-framatome.icims.com/jobs/2895/finance-intern-%28project-controls-%26-invoicing%29/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
       "id": "ic-careers-framatome-jobs-2854-fracture-mechanics-engineer-job",
       "company": "Framatome",
       "company_id": "framatome",
@@ -5199,6 +5095,19 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://careers-framatome.icims.com/jobs/2946/growth-market-sales-manager/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
+      "id": "ic-careers-framatome-jobs-2852-hr-talent-management-intern-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "HR Talent Management Intern",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Internship",
+      "url": "https://careers-framatome.icims.com/jobs/2852/hr-talent-management-intern/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -6308,6 +6217,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-1206ec40d4d3194b",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Area Manager - Chemical Water Treatment Solutions",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.veolia.com/fr/emploi/richmond/area-manager-chemical-water-treatment-solutions/3091/37589013760",
+      "posted_date": "2026-04-22",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-bc6ee5b43461924f",
       "company": "Veolia",
       "company_id": "veolia",
@@ -6386,7 +6308,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-5c6d33e2e1fe9157",
+      "id": "jsp-veolia-in-996d5fe55819bb16",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Field Service Representative",
@@ -6394,7 +6316,7 @@
       "state": "VA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000118877736-field-service-representative-",
+      "url": "https://jobs.veolia.com/fr/emploi/richmond/field-service-representative/3091/36975139200",
       "posted_date": "2026-04-06",
       "source": "indeed"
     },
@@ -6642,6 +6564,19 @@
       "sector": "Manufacturing & Materials",
       "seniority": "Mid-level",
       "url": "https://jobs.constellium.com/job/Ravenswood-Air-Conditioning-Specialist-WV-26164-0068/1201936101/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-jobs-1387669133",
+      "company": "Constellium",
+      "company_id": "constellium",
+      "title": "Communications & Public Relations Manager",
+      "location": "Ravenswood, WV",
+      "state": "WV",
+      "sector": "Manufacturing & Materials",
+      "seniority": "Manager",
+      "url": "https://jobs.constellium.com/job/Ravenswood-Communications-&-Public-Relations-Manager-WV-26164-0068/1387669133/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6932,15 +6867,15 @@
       "source": "engie"
     },
     {
-      "id": "engie-64222-WV",
+      "id": "engie-63371-WV",
       "company": "Engie",
       "company_id": "engie",
-      "title": "Energy Procurement Manager",
+      "title": "Associate Energy Analyst",
       "location": "Remote (WV)",
       "state": "WV",
       "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Associate%20Energy%20Analyst",
       "posted_date": "",
       "source": "engie"
     },
