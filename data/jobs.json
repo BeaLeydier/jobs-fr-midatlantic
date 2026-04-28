@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-27T08:47:55.350973+00:00",
-  "total": 532,
+  "last_updated": "2026-04-28T08:45:10.330356+00:00",
+  "total": 542,
   "jobs": [
     {
       "id": "sr-744000109353195",
@@ -78,6 +78,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/AccorHotel/744000108294915",
       "posted_date": "2026-02-09",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "sr-744000123211738",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "Cocktail Server (on-call)",
+      "location": "Washington, Dc, Us",
+      "state": "DC",
+      "sector": "Hospitality & Services",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000123211738",
+      "posted_date": "2026-04-27",
       "source": "smartrecruiters"
     },
     {
@@ -302,15 +315,15 @@
       "source": "engie"
     },
     {
-      "id": "engie-55551-DC",
+      "id": "engie-64222-DC",
       "company": "Engie",
       "company_id": "engie",
-      "title": "Facilities Engineer",
-      "location": "Washington, DC",
+      "title": "Energy Procurement Manager",
+      "location": "Remote (DC)",
       "state": "DC",
       "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Facilities%20Engineer",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -354,19 +367,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-59240-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Senior Construction Manager",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Senior%20Construction%20Manager",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "tt-free2move-DC",
       "company": "Free2Move",
       "company_id": "free2move",
@@ -402,6 +402,19 @@
       "sector": "Transportation & Logistics",
       "seniority": "N/A",
       "url": "https://careers.ratpdevusa.com/en/annonces",
+      "posted_date": "",
+      "source": "manual_link"
+    },
+    {
+      "id": "ic-sodexo-DC",
+      "company": "Sodexo",
+      "company_id": "sodexo",
+      "title": "Voir les offres d'emploi →",
+      "location": "DC",
+      "state": "DC",
+      "sector": "Hospitality & Services",
+      "seniority": "N/A",
+      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
       "posted_date": "",
       "source": "manual_link"
     },
@@ -471,6 +484,19 @@
       "source": "workday"
     },
     {
+      "id": "jsp-alstom-in-dfac167a187618b2",
+      "company": "Alstom",
+      "company_id": "alstom",
+      "title": "Manager of Production - P&CRO Center of Excellence",
+      "location": "New Castle, DE",
+      "state": "DE",
+      "sector": "Transportation & Rail",
+      "seniority": "Manager",
+      "url": "https://jobsearch.alstom.com/job/New-Castle-Manager-of-Production-P&CRO-Center-of-Excellence-DE/1388068933/",
+      "posted_date": "2026-04-27",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-alstom-in-2371f2cd806cbcad",
       "company": "Alstom",
       "company_id": "alstom",
@@ -481,19 +507,6 @@
       "seniority": "Manager",
       "url": "https://jobsearch.alstom.com/job/New-Castle-NAM-Services-Business-Process-Manager-Customer-ServiceSales%2C-Component-Overhaul-&-Repairs-DE/1385168233/",
       "posted_date": "2026-04-17",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-alstom-in-9ba01411985a042a",
-      "company": "Alstom",
-      "company_id": "alstom",
-      "title": "Project Coordinator - Materials",
-      "location": "New Castle, DE",
-      "state": "DE",
-      "sector": "Transportation & Rail",
-      "seniority": "Mid-level",
-      "url": "https://jobsearch.alstom.com/job/New-Castle-Project-Coordinator-Materials-DE/1373226433/",
-      "posted_date": "2026-03-12",
       "source": "indeed"
     },
     {
@@ -523,6 +536,19 @@
       "source": "engie"
     },
     {
+      "id": "engie-64222-DE",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Energy Procurement Manager",
+      "location": "Remote (DE)",
+      "state": "DE",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "ic-uscareers-idemia-jobs-8442-enrollment-agent-i-job",
       "company": "IDEMIA",
       "company_id": "idemia",
@@ -534,6 +560,19 @@
       "url": "https://uscareers-idemia.icims.com/jobs/8442/enrollment-agent-i/job",
       "posted_date": "",
       "source": "icims"
+    },
+    {
+      "id": "ic-sodexo-DE",
+      "company": "Sodexo",
+      "company_id": "sodexo",
+      "title": "Voir les offres d'emploi →",
+      "location": "DE",
+      "state": "DE",
+      "sector": "Hospitality & Services",
+      "seniority": "N/A",
+      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
+      "posted_date": "",
+      "source": "manual_link"
     },
     {
       "id": "jsp-veolia-in-69c6a825fd1258c0",
@@ -586,32 +625,6 @@
       "url": "https://www.beneteau.com/en/group/careers",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "j2w-jobs-1368766533",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "2nd Shift Freight Handler Forklift Operator II",
-      "location": "Baltimore Md, Us",
-      "state": "MD",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Baltimore-Md-2nd-Shift-Freight-Handler-Forklift-Operator-II-MD-21201/1368766533/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "ic-careers-edf-re-jobs-4832-dsp-construction--26-engineering-intern--5bon-site-5d-job",
-      "company": "EDF Renewables",
-      "company_id": "edf",
-      "title": "DSP Construction & Engineering Intern [On-Site]",
-      "location": "Columbia, MD",
-      "state": "MD",
-      "sector": "Energy & Environment",
-      "seniority": "Internship",
-      "url": "https://careers-edf-re.icims.com/jobs/4832/dsp-construction-%26-engineering-intern-%5bon-site%5d/job",
-      "posted_date": "",
-      "source": "icims"
     },
     {
       "id": "ic-careers-edf-re-jobs-4857-scada-systems-engineer-4--28dsp-29--5bremote-5d-job",
@@ -675,6 +688,19 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Account%20Executive",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-64222-MD",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Energy Procurement Manager",
+      "location": "Remote (MD)",
+      "state": "MD",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -989,6 +1015,19 @@
       "url": "https://careers.se.com/jobs/113209/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2026-03-27",
       "source": "indeed"
+    },
+    {
+      "id": "ic-sodexo-MD",
+      "company": "Sodexo",
+      "company_id": "sodexo",
+      "title": "Voir les offres d'emploi →",
+      "location": "MD",
+      "state": "MD",
+      "sector": "Hospitality & Services",
+      "seniority": "N/A",
+      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
+      "posted_date": "",
+      "source": "manual_link"
     },
     {
       "id": "j2w-career-1381850833",
@@ -1836,7 +1875,7 @@
       "source": "smartrecruiters"
     },
     {
-      "id": "sr-744000121008927",
+      "id": "sr-744000123271999",
       "company": "Accor",
       "company_id": "accor",
       "title": "Director of Engineering and Security ",
@@ -1844,8 +1883,8 @@
       "state": "PA",
       "sector": "Hospitality & Services",
       "seniority": "Director/VP",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000121008927",
-      "posted_date": "2026-04-15",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000123271999",
+      "posted_date": "2026-04-27",
       "source": "smartrecruiters"
     },
     {
@@ -2343,6 +2382,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-jobs-1388033033",
+      "company": "Arkema",
+      "company_id": "arkema",
+      "title": "Integration Analyst",
+      "location": "Radnor, PA",
+      "state": "PA",
+      "sector": "Industrials & Chemicals",
+      "seniority": "Mid-level",
+      "url": "https://jobs.arkema.com/job/Radnor-Integration-Analyst-Job-PA/1388033033/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-jobs-1245642801",
       "company": "Arkema",
       "company_id": "arkema",
@@ -2508,6 +2560,19 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Account%20Executive",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-64222-PA",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Energy Procurement Manager",
+      "location": "Remote (PA)",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -2837,6 +2902,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-snf-in-ea34f8bbc54d9e0a",
+      "company": "SNF",
+      "company_id": "snf",
+      "title": "Production Operator - 1",
+      "location": "Lock Haven, PA",
+      "state": "PA",
+      "sector": "Industrials & Chemicals",
+      "seniority": "Mid-level",
+      "url": "https://uscareers.snf.com/jobs/2088/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "posted_date": "2026-04-27",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-st-microelectronics-PA",
       "company": "STMicroelectronics",
       "company_id": "st-microelectronics",
@@ -2912,19 +2990,6 @@
       "seniority": "Manager",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Philadelphia-PA/Area-Business-Manager--Allergy-ENT--PA_R2848863-1",
       "posted_date": "2026-03-27",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Swiftwater-PA/BSA-Lead-Production-Technician_R2849436-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "BSA Lead Production Technician",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Senior",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/BSA-Lead-Production-Technician_R2849436-1",
-      "posted_date": "2026-04-07",
       "source": "workday"
     },
     {
@@ -3042,6 +3107,19 @@
       "seniority": "Manager",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Senior-Laboratory-Manager-for-Ligand-Binding-Assays_R2851823-1",
       "posted_date": "2026-04-18",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Senior-Nonclinical-Statistician_R2853310-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Senior Nonclinical Statistician",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Senior",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Senior-Nonclinical-Statistician_R2853310-1",
+      "posted_date": "2026-04-28",
       "source": "workday"
     },
     {
@@ -3214,6 +3292,19 @@
       "source": "indeed"
     },
     {
+      "id": "ic-sodexo-PA",
+      "company": "Sodexo",
+      "company_id": "sodexo",
+      "title": "Voir les offres d'emploi →",
+      "location": "PA",
+      "state": "PA",
+      "sector": "Hospitality & Services",
+      "seniority": "N/A",
+      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
+      "posted_date": "",
+      "source": "manual_link"
+    },
+    {
       "id": "j2w-career-1378492733",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -3288,6 +3379,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Northhampton-Material-Handler-PA-18067/1383259033/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1388093033",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Sales Tax Analyst II",
+      "location": "Philadelphia, PA",
+      "state": "PA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Philadelphia-Sales-Tax-Analyst-II-PA-19106/1388093033/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -3565,6 +3669,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-a5255a1e9ffeb652",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Alternance – Technicien Monteur CVC H/F",
+      "location": "Trevose, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.veolia.com/fr/emploi/longeville-les-metz/alternance-technicien-monteur-cvc-h-f/3091/36757365056",
+      "posted_date": "2026-03-31",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-3afb0ff9ee52b27f",
       "company": "Veolia",
       "company_id": "veolia",
@@ -3747,7 +3864,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-56f2bfa869f04393",
+      "id": "jsp-veolia-in-031f30daa021558c",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Regional Training & Operations Technician",
@@ -3755,8 +3872,8 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/allentown/regional-training-and-operations-technician/3091/36506880384",
-      "posted_date": "2026-03-25",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123282328-regional-training-operations-technician",
+      "posted_date": "2026-04-27",
       "source": "indeed"
     },
     {
@@ -3955,6 +4072,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-f91294b860fde33d",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Technicien de maintenance industrielle (H/F)",
+      "location": "Boothwyn, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.veolia.com/fr/emploi/halluin/technicien-de-maintenance-industrielle-h-f/3091/33706169600",
+      "posted_date": "2025-12-31",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-6dd7910581893783",
       "company": "Veolia",
       "company_id": "veolia",
@@ -3968,7 +4098,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-8e40d63fe8de1675",
+      "id": "jsp-veolia-in-1ddfdff0fe21d3d8",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Traveling Field Service Representative - PLC Technician",
@@ -3976,8 +4106,8 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/trevose/traveling-field-service-representative-plc-technician/3091/36328629056",
-      "posted_date": "2026-03-19",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000109772444-traveling-field-service-representative-plc-technician",
+      "posted_date": "2026-02-17",
       "source": "indeed"
     },
     {
@@ -4056,32 +4186,6 @@
       "seniority": "Senior",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/External-Manufacturing-Product-Team-Lead_R2852853",
       "posted_date": "2026-04-17",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Pittsburgh-PA/Medical-Science-Liaison---Vaccines--Ohio---Western-PA_R2851379-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Medical Science Liaison - Vaccines- Ohio & Western PA",
-      "location": "2 Locations",
-      "state": "US",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Pittsburgh-PA/Medical-Science-Liaison---Vaccines--Ohio---Western-PA_R2851379-1",
-      "posted_date": "2026-04-20",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Cambridge-MA/Project-Coordinator--Immunology--Cambridge--MA_R2850954-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Project Coordinator, Immunology, Cambridge, MA",
-      "location": "2 Locations",
-      "state": "US",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Project-Coordinator--Immunology--Cambridge--MA_R2850954-1",
-      "posted_date": "2026-04-07",
       "source": "workday"
     },
     {
@@ -4354,19 +4458,6 @@
       "sector": "Aerospace & Defense",
       "seniority": "Manager",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/VIE-USA-Strategy-and-competitive-intelligence-project-manager--h-f-_JR10402418",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
-      "id": "wd-ag-/job/Herndon-Area-VA/VIE-2026-USA-Business-operations-improvement-Analyst---H-F_JR10402966",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "VIE-2026-USA-Business operations improvement Analyst - H/F",
-      "location": "Herndon Area, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Mid-level",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/VIE-2026-USA-Business-operations-improvement-Analyst---H-F_JR10402966",
       "posted_date": "",
       "source": "workday"
     },
@@ -4761,6 +4852,19 @@
       "source": "engie"
     },
     {
+      "id": "engie-64222-VA",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Energy Procurement Manager",
+      "location": "Remote (VA)",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "jsp-eurovia-VA",
       "company": "Eurovia (Vinci)",
       "company_id": "eurovia",
@@ -5112,6 +5216,19 @@
       "source": "icims"
     },
     {
+      "id": "ic-careers-framatome-jobs-2974-ib-sales-manager---engineering-sales-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "IB Sales Manager - Engineering Sales",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://careers-framatome.icims.com/jobs/2974/ib-sales-manager---engineering-sales/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
       "id": "ic-careers-framatome-jobs-2941-marketing-assistant--28temporary-29-job",
       "company": "Framatome",
       "company_id": "framatome",
@@ -5393,8 +5510,8 @@
       "state": "VA",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://recruiting.ultipro.com/KEO1000KCS/JobBoard/1e6b743f-ed4b-4dd4-9c03-44d18e048af1/OpportunityDetail?opportunityId=6773d095-f850-4979-98d1-7fbf182cd5a9&postingId=4dae60df-5ba1-465a-ada9-5818fa4edd2a",
-      "posted_date": "2026-04-23",
+      "url": "https://recruiting.ultipro.com/KEO1000KCS/JobBoard/ccad237c-56de-492a-9526-bfb48d0ecbc4/OpportunityDetail?opportunityId=6773d095-f850-4979-98d1-7fbf182cd5a9&postingId=4dae60df-5ba1-465a-ada9-5818fa4edd2a",
+      "posted_date": "2026-04-27",
       "source": "indeed"
     },
     {
@@ -5538,19 +5655,6 @@
       "seniority": "Mid-level",
       "url": "https://ovhus.applytojob.com/apply/doeoUP1kUq/Cloud-Support-Agent?source=INDE&~",
       "posted_date": "2026-04-08",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-ovhcloud-in-c5e8990cc3736d5e",
-      "company": "OVHcloud",
-      "company_id": "ovhcloud",
-      "title": "Data Center Construction Site Manager",
-      "location": "Warrenton, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Manager",
-      "url": "https://ovhus.applytojob.com/apply/6EkfIXmvZN/Data-Center-Construction-Site-Manager?source=INDE&~",
-      "posted_date": "2026-04-07",
       "source": "indeed"
     },
     {
@@ -5723,33 +5827,20 @@
       "source": "indeed"
     },
     {
-      "id": "ic-external-careers-sodexo-jobs-988046-airline-lounges-district-manager-job",
+      "id": "ic-sodexo-VA",
       "company": "Sodexo",
       "company_id": "sodexo",
-      "title": "Airline Lounges District Manager",
-      "location": "Arlington, VA",
+      "title": "Voir les offres d'emploi →",
+      "location": "VA",
       "state": "VA",
       "sector": "Hospitality & Services",
-      "seniority": "Manager",
-      "url": "https://external-careers-sodexo.icims.com/jobs/988046/airline-lounges-district-manager/job",
+      "seniority": "N/A",
+      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
       "posted_date": "",
-      "source": "icims"
+      "source": "manual_link"
     },
     {
-      "id": "ic-external-careers-sodexo-jobs-988048-airline-lounges-district-manager-job",
-      "company": "Sodexo",
-      "company_id": "sodexo",
-      "title": "Airline Lounges District Manager",
-      "location": "Newark, NJ",
-      "state": "VA",
-      "sector": "Hospitality & Services",
-      "seniority": "Manager",
-      "url": "https://external-careers-sodexo.icims.com/jobs/988048/airline-lounges-district-manager/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
-      "id": "j2w-career-1381761033",
+      "id": "j2w-career-1379085733",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Account Manager",
@@ -5757,7 +5848,7 @@
       "state": "VA",
       "sector": "Industrial Distribution",
       "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Richmond-Account-Manager-VA-23230/1381761033/",
+      "url": "https://career.sonepar.com/job/Richmond-Account-Manager-VA-23230/1379085733/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5810,19 +5901,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Manager",
       "url": "https://career.sonepar.com/job/Virginia-Beach-Manager-Logistics-VA-23455/1267111801/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1293710501",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Warehouse Associate",
-      "location": "Virginia Beach, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Virginia-Beach-Warehouse-Associate-VA-23455/1293710501/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6217,6 +6295,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-e5ba02ffba980d14",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Account Manager - Water Treatment Chemicals",
+      "location": "Harrisonburg, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.veolia.com/fr/emploi/harrisonburg/account-manager-water-treatment-chemicals/3091/37519516864",
+      "posted_date": "2026-04-21",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-1206ec40d4d3194b",
       "company": "Veolia",
       "company_id": "veolia",
@@ -6253,19 +6344,6 @@
       "seniority": "Mid-level",
       "url": "https://jobs.veolia.com/fr/emploi/richmond/collection-system-technician/3091/37280290688",
       "posted_date": "2026-04-14",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-fd7c134550310d7e",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Customer Service Representative - Billing",
-      "location": "Norfolk, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122315348-customer-service-representative-billing",
-      "posted_date": "2026-04-22",
       "source": "indeed"
     },
     {
@@ -6360,7 +6438,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-ca1e919437fcfde3",
+      "id": "jsp-veolia-in-8bf69175f63413ae",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Mechanical Commissioning Engineer (Data Center)",
@@ -6368,7 +6446,7 @@
       "state": "VA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/ashburn/mechanical-commissioning-engineer-data-center/3091/34776799744",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000106902844-mechanical-commissioning-engineer-data-center-",
       "posted_date": "2026-02-02",
       "source": "indeed"
     },
@@ -6425,7 +6503,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-d9eeffbd8443c56e",
+      "id": "jsp-veolia-in-3199ca1ff2d46203",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Regional Training & Operations Technician",
@@ -6433,12 +6511,25 @@
       "state": "VA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/norfolk/regional-training-and-operations-technician/3091/36506880832",
-      "posted_date": "2026-03-24",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123281433-regional-training-operations-technician",
+      "posted_date": "2026-04-27",
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-60604c3068d58e18",
+      "id": "jsp-veolia-in-36c588fd4a3540ee",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Senior Account Manager - Industrial Water Treatment",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123273328-senior-account-manager-industrial-water-treatment",
+      "posted_date": "2026-04-27",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-afb223a47948f388",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Senior Category Manager - Raw Chemicals",
@@ -6446,8 +6537,8 @@
       "state": "VA",
       "sector": "Energy & Environment",
       "seniority": "Manager",
-      "url": "https://jobs.veolia.com/fr/emploi/norfolk/senior-category-manager-raw-chemicals/3091/34876600704",
-      "posted_date": "2026-02-05",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000107353415-senior-category-manager-raw-chemicals",
+      "posted_date": "2026-02-04",
       "source": "indeed"
     },
     {
@@ -6474,6 +6565,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.veolia.com/fr/emploi/glen-allen/service-technician-aftermarket-water-treatment/3091/35722717696",
       "posted_date": "2026-03-02",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-b2634d1f2b64137e",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Technicien(ne) TP- Plomberie/ Electricité (F/H)",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.veolia.com/fr/emploi/gazeran/technicien-ne-tp-plomberie-electricite-f-h/3091/35810208448",
+      "posted_date": "2026-03-05",
       "source": "indeed"
     },
     {
@@ -6737,6 +6841,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-jobs-1387957833",
+      "company": "Constellium",
+      "company_id": "constellium",
+      "title": "Metal & Inventory Manager",
+      "location": "Ravenswood, WV",
+      "state": "WV",
+      "sector": "Manufacturing & Materials",
+      "seniority": "Manager",
+      "url": "https://jobs.constellium.com/job/Ravenswood-Metal-&-Inventory-Manager-WV-26164-0068/1387957833/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-jobs-1036922601",
       "company": "Constellium",
       "company_id": "constellium",
@@ -6880,17 +6997,30 @@
       "source": "engie"
     },
     {
-      "id": "wd-sanofi-/job/Charleston-WV/Strategic-Account-Manager-Vaccines-Charleston-and-West-Virginia_R2841303",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Strategic Account Manager-Vaccines-West Virginia",
-      "location": "Charleston, Wv",
+      "id": "engie-64222-WV",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Energy Procurement Manager",
+      "location": "Remote (WV)",
       "state": "WV",
-      "sector": "Pharmaceuticals & Healthcare",
+      "sector": "Energy & Environment",
       "seniority": "Manager",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Charleston-WV/Strategic-Account-Manager-Vaccines-Charleston-and-West-Virginia_R2841303",
-      "posted_date": "2026-04-06",
-      "source": "workday"
+      "url": "https://jobs.engie.com/search/?q=Energy%20Procurement%20Manager",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "ic-sodexo-WV",
+      "company": "Sodexo",
+      "company_id": "sodexo",
+      "title": "Voir les offres d'emploi →",
+      "location": "WV",
+      "state": "WV",
+      "sector": "Hospitality & Services",
+      "seniority": "N/A",
+      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
+      "posted_date": "",
+      "source": "manual_link"
     },
     {
       "id": "jsp-veolia-in-655ccf854de28c6a",
