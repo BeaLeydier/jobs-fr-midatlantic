@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-02T08:03:55.532495+00:00",
-  "total": 518,
+  "last_updated": "2026-05-03T08:17:26.343274+00:00",
+  "total": 512,
   "jobs": [
     {
       "id": "sr-744000109353195",
@@ -302,19 +302,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-62837-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Operating Engineer",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Operating%20Engineer",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "engie-58310-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -380,17 +367,17 @@
       "source": "manual_link"
     },
     {
-      "id": "ic-sodexo-DC",
+      "id": "ic-external-careers-sodexo-jobs-988292-administrative-assistant-2-job",
       "company": "Sodexo",
       "company_id": "sodexo",
-      "title": "Voir les offres d'emploi →",
-      "location": "DC",
+      "title": "Administrative Assistant 2",
+      "location": "Washington, DC",
       "state": "DC",
       "sector": "Hospitality & Services",
-      "seniority": "N/A",
-      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
+      "seniority": "Mid-level",
+      "url": "https://external-careers-sodexo.icims.com/jobs/988292/administrative-assistant-2/job",
       "posted_date": "",
-      "source": "manual_link"
+      "source": "icims"
     },
     {
       "id": "profils-vinci-DC",
@@ -484,6 +471,19 @@
       "source": "manual_link"
     },
     {
+      "id": "engie-65512-DE",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Solar Technician II - Solidago Solar Site",
+      "location": "Dover, DE",
+      "state": "DE",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II%20-%20Solidago%20Solar%20Site",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "ic-uscareers-idemia-jobs-8442-enrollment-agent-i-job",
       "company": "IDEMIA",
       "company_id": "idemia",
@@ -495,19 +495,6 @@
       "url": "https://uscareers-idemia.icims.com/jobs/8442/enrollment-agent-i/job",
       "posted_date": "",
       "source": "icims"
-    },
-    {
-      "id": "ic-sodexo-DE",
-      "company": "Sodexo",
-      "company_id": "sodexo",
-      "title": "Voir les offres d'emploi →",
-      "location": "DE",
-      "state": "DE",
-      "sector": "Hospitality & Services",
-      "seniority": "N/A",
-      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
-      "posted_date": "",
-      "source": "manual_link"
     },
     {
       "id": "jsp-veolia-in-b8d47ec81507f5ce",
@@ -859,19 +846,6 @@
       "url": "https://careers.se.com/jobs/113209/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2026-03-27",
       "source": "indeed"
-    },
-    {
-      "id": "ic-sodexo-MD",
-      "company": "Sodexo",
-      "company_id": "sodexo",
-      "title": "Voir les offres d'emploi →",
-      "location": "MD",
-      "state": "MD",
-      "sector": "Hospitality & Services",
-      "seniority": "N/A",
-      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
-      "posted_date": "",
-      "source": "manual_link"
     },
     {
       "id": "j2w-career-1381850833",
@@ -3097,19 +3071,6 @@
       "source": "indeed"
     },
     {
-      "id": "ic-sodexo-PA",
-      "company": "Sodexo",
-      "company_id": "sodexo",
-      "title": "Voir les offres d'emploi →",
-      "location": "PA",
-      "state": "PA",
-      "sector": "Hospitality & Services",
-      "seniority": "N/A",
-      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
-      "posted_date": "",
-      "source": "manual_link"
-    },
-    {
       "id": "j2w-career-1378492733",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -3487,19 +3448,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-3afb0ff9ee52b27f",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Area Manager",
-      "location": "Trevose, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.veolia.com/fr/emploi/trevose/area-manager/3091/34554489024",
-      "posted_date": "2026-01-26",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-veolia-in-60bdaf2606556ff4",
       "company": "Veolia",
       "company_id": "veolia",
@@ -3630,7 +3578,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-164da9f9888bbfd8",
+      "id": "jsp-veolia-in-4728a75c3db4f209",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Microelectronics Growth Leader - Integrated Services",
@@ -3638,7 +3586,7 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/trevose/microelectronics-growth-leader-integrated-services/3091/37589013824",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122290668-microelectronics-growth-leader-integrated-services",
       "posted_date": "2026-04-22",
       "source": "indeed"
     },
@@ -3877,7 +3825,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-8e40d63fe8de1675",
+      "id": "jsp-veolia-in-1ddfdff0fe21d3d8",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Traveling Field Service Representative - PLC Technician",
@@ -3885,8 +3833,8 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/trevose/traveling-field-service-representative-plc-technician/3091/36328629056",
-      "posted_date": "2026-03-19",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000109772444-traveling-field-service-representative-plc-technician",
+      "posted_date": "2026-02-17",
       "source": "indeed"
     },
     {
@@ -5580,19 +5528,6 @@
       "source": "indeed"
     },
     {
-      "id": "ic-sodexo-VA",
-      "company": "Sodexo",
-      "company_id": "sodexo",
-      "title": "Voir les offres d'emploi →",
-      "location": "VA",
-      "state": "VA",
-      "sector": "Hospitality & Services",
-      "seniority": "N/A",
-      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
-      "posted_date": "",
-      "source": "manual_link"
-    },
-    {
       "id": "j2w-career-1381761033",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6139,7 +6074,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-3f0b082cdecbb2b7",
+      "id": "jsp-veolia-in-eb0015980a76352b",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Instrument & Electrical Technician",
@@ -6147,7 +6082,7 @@
       "state": "VA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000111633575-instrument-electrical-technician",
+      "url": "https://jobs.veolia.com/fr/emploi/richmond/instrument-and-electrical-technician/3091/35588217344",
       "posted_date": "2026-02-26",
       "source": "indeed"
     },
@@ -6269,7 +6204,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-d02d4e4c3707eabd",
+      "id": "jsp-veolia-in-36c588fd4a3540ee",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Senior Account Manager - Industrial Water Treatment",
@@ -6277,7 +6212,7 @@
       "state": "VA",
       "sector": "Energy & Environment",
       "seniority": "Manager",
-      "url": "https://jobs.veolia.com/fr/emploi/richmond/senior-account-manager-industrial-water-treatment/3091/37519516992",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123537688-senior-account-manager-industrial-water-treatment",
       "posted_date": "2026-04-28",
       "source": "indeed"
     },
@@ -6295,7 +6230,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-a623c368b67efc9a",
+      "id": "jsp-veolia-in-bf34b44e0239b8ff",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Senior Wastewater Operations Travel Technician",
@@ -6303,7 +6238,7 @@
       "state": "VA",
       "sector": "Energy & Environment",
       "seniority": "Senior",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000116194256-senior-wastewater-operations-travel-technician",
+      "url": "https://jobs.veolia.com/fr/emploi/norfolk/senior-wastewater-operations-travel-technician/3091/36460453504",
       "posted_date": "2026-03-23",
       "source": "indeed"
     },
@@ -6672,19 +6607,6 @@
       "source": "j2w"
     },
     {
-      "id": "ic-sodexo-WV",
-      "company": "Sodexo",
-      "company_id": "sodexo",
-      "title": "Voir les offres d'emploi →",
-      "location": "WV",
-      "state": "WV",
-      "sector": "Hospitality & Services",
-      "seniority": "N/A",
-      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
-      "posted_date": "",
-      "source": "manual_link"
-    },
-    {
       "id": "jsp-veolia-in-356d4925b5afad65",
       "company": "Veolia",
       "company_id": "veolia",
@@ -6711,7 +6633,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-5e25697dd9a7023b",
+      "id": "jsp-veolia-in-000814f66f0c4095",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Senior Account Manager - Industrial Water Treatment",
@@ -6719,7 +6641,7 @@
       "state": "WV",
       "sector": "Energy & Environment",
       "seniority": "Manager",
-      "url": "https://jobs.veolia.com/fr/emploi/parkersburg/senior-account-manager-industrial-water-treatment/3091/37519516800",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123750830-senior-account-manager-industrial-water-treatment",
       "posted_date": "2026-04-29",
       "source": "indeed"
     },
