@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T08:17:26.343274+00:00",
+  "last_updated": "2026-05-04T08:48:42.278516+00:00",
   "total": 512,
   "jobs": [
     {
@@ -104,6 +104,19 @@
       "seniority": "Director/VP",
       "url": "https://jobs.smartrecruiters.com/AccorHotel/744000120543997",
       "posted_date": "2026-04-13",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "sr-744000124303209",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "Director of Diplomatic Sales",
+      "location": "Washington, Dc, Us",
+      "state": "DC",
+      "sector": "Hospitality & Services",
+      "seniority": "Director/VP",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000124303209",
+      "posted_date": "2026-05-03",
       "source": "smartrecruiters"
     },
     {
@@ -302,6 +315,32 @@
       "source": "engie"
     },
     {
+      "id": "engie-62837-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Operating Engineer",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Operating%20Engineer",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-58082-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Power Plant Maintenance Mechanic",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Power%20Plant%20Maintenance%20Mechanic",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-58310-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -469,19 +508,6 @@
       "url": "https://www.dassault-aviation.com/en/group/careers/",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "engie-65512-DE",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Solar Technician II - Solidago Solar Site",
-      "location": "Dover, DE",
-      "state": "DE",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II%20-%20Solidago%20Solar%20Site",
-      "posted_date": "",
-      "source": "engie"
     },
     {
       "id": "ic-uscareers-idemia-jobs-8442-enrollment-agent-i-job",
@@ -2824,19 +2850,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Production-Technician---Vaccines_R2845467",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Production Technician - Vaccines",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Production-Technician---Vaccines_R2845467",
-      "posted_date": "2026-04-29",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Swiftwater-PA/Production-Technician-3rd-Shift-Filling_R2853637-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -3578,7 +3591,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-4728a75c3db4f209",
+      "id": "jsp-veolia-in-164da9f9888bbfd8",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Microelectronics Growth Leader - Integrated Services",
@@ -3586,7 +3599,7 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122290668-microelectronics-growth-leader-integrated-services",
+      "url": "https://jobs.veolia.com/fr/emploi/trevose/microelectronics-growth-leader-integrated-services/3091/37589013824",
       "posted_date": "2026-04-22",
       "source": "indeed"
     },
@@ -3721,19 +3734,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-a0c23258dfac90f9",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Senior Sales Manager – MicroElectronics and High Tech Sales",
-      "location": "Trevose, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.veolia.com/fr/emploi/trevose/senior-sales-manager-microelectronics-and-high-tech-sales/3091/36488890176",
-      "posted_date": "2026-03-24",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-veolia-in-a2cf77d05bf8dcf8",
       "company": "Veolia",
       "company_id": "veolia",
@@ -3825,7 +3825,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-1ddfdff0fe21d3d8",
+      "id": "jsp-veolia-in-8e40d63fe8de1675",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Traveling Field Service Representative - PLC Technician",
@@ -3833,8 +3833,8 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000109772444-traveling-field-service-representative-plc-technician",
-      "posted_date": "2026-02-17",
+      "url": "https://jobs.veolia.com/fr/emploi/trevose/traveling-field-service-representative-plc-technician/3091/36328629056",
+      "posted_date": "2026-03-19",
       "source": "indeed"
     },
     {
@@ -4770,19 +4770,6 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://careers-framatome.icims.com/jobs/2872/experienced-core-design---neutronics-engineer/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
-      "id": "ic-careers-framatome-jobs-2869-experienced-relap-safety-analysis-engineer-job",
-      "company": "Framatome",
-      "company_id": "framatome",
-      "title": "Experienced RELAP Safety Analysis Engineer",
-      "location": "Lynchburg, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://careers-framatome.icims.com/jobs/2869/experienced-relap-safety-analysis-engineer/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -5983,6 +5970,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-1206ec40d4d3194b",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Area Manager - Chemical Water Treatment Solutions",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.veolia.com/fr/emploi/richmond/area-manager-chemical-water-treatment-solutions/3091/37589013760",
+      "posted_date": "2026-04-22",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-bc6ee5b43461924f",
       "company": "Veolia",
       "company_id": "veolia",
@@ -6204,7 +6204,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-36c588fd4a3540ee",
+      "id": "jsp-veolia-in-d02d4e4c3707eabd",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Senior Account Manager - Industrial Water Treatment",
@@ -6212,7 +6212,7 @@
       "state": "VA",
       "sector": "Energy & Environment",
       "seniority": "Manager",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123537688-senior-account-manager-industrial-water-treatment",
+      "url": "https://jobs.veolia.com/fr/emploi/richmond/senior-account-manager-industrial-water-treatment/3091/37519516992",
       "posted_date": "2026-04-28",
       "source": "indeed"
     },
@@ -6633,7 +6633,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-000814f66f0c4095",
+      "id": "jsp-veolia-in-5e25697dd9a7023b",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Senior Account Manager - Industrial Water Treatment",
@@ -6641,7 +6641,7 @@
       "state": "WV",
       "sector": "Energy & Environment",
       "seniority": "Manager",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123750830-senior-account-manager-industrial-water-treatment",
+      "url": "https://jobs.veolia.com/fr/emploi/parkersburg/senior-account-manager-industrial-water-treatment/3091/37519516800",
       "posted_date": "2026-04-29",
       "source": "indeed"
     },
