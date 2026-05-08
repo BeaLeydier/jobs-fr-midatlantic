@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T08:53:02.385818+00:00",
-  "total": 504,
+  "last_updated": "2026-05-08T07:59:05.581161+00:00",
+  "total": 520,
   "jobs": [
     {
       "id": "sr-744000109353195",
@@ -497,19 +497,6 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-65512-DE",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Solar Technician II - Solidago Solar Site",
-      "location": "Dover, DE",
-      "state": "DE",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II%20-%20Solidago%20Solar%20Site",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "ic-uscareers-idemia-jobs-8442-enrollment-agent-i-job",
       "company": "IDEMIA",
       "company_id": "idemia",
@@ -521,6 +508,19 @@
       "url": "https://uscareers-idemia.icims.com/jobs/8442/enrollment-agent-i/job",
       "posted_date": "",
       "source": "icims"
+    },
+    {
+      "id": "wd-roquette-/job/Wilmington/Senior-Financial-Controller_R0025844-1",
+      "company": "Roquette",
+      "company_id": "roquette",
+      "title": "Senior Financial Controller",
+      "location": "Wilmington",
+      "state": "DE",
+      "sector": "Food Ingredients",
+      "seniority": "Senior",
+      "url": "https://roquette.wd3.myworkdayjobs.com/External/job/Wilmington/Senior-Financial-Controller_R0025844-1",
+      "posted_date": "",
+      "source": "workday"
     },
     {
       "id": "jsp-veolia-in-b8d47ec81507f5ce",
@@ -696,7 +696,7 @@
       "company": "Orano",
       "company_id": "orano",
       "title": "Design Project Engineer II-III",
-      "location": "Md, MD",
+      "location": "Columbia, MD",
       "state": "MD",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
@@ -709,7 +709,7 @@
       "company": "Orano",
       "company_id": "orano",
       "title": "Mechanical / Structural Engineer",
-      "location": "Md, MD",
+      "location": "Columbia, MD",
       "state": "MD",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
@@ -722,7 +722,7 @@
       "company": "Orano",
       "company_id": "orano",
       "title": "Nuclear Market Research Intern",
-      "location": "Md, MD",
+      "location": "Bethesda, MD",
       "state": "MD",
       "sector": "Energy & Environment",
       "seniority": "Internship",
@@ -735,7 +735,7 @@
       "company": "Orano",
       "company_id": "orano",
       "title": "Project Management Summer Intern",
-      "location": "Md, MD",
+      "location": "Bethesda, MD",
       "state": "MD",
       "sector": "Energy & Environment",
       "seniority": "Internship",
@@ -1069,6 +1069,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-career-1391390333",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Supply Chain Analyst",
+      "location": "Upper Marlboro, MD",
+      "state": "MD",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Upper-Marlboro-Supply-Chain-Analyst-MD-20774/1391390333/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-career-1388521933",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -1104,6 +1117,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Upper-Marlboro-Warehouse-Associate-MD-20774/1365497433/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1391372833",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Wire Cutter",
+      "location": "Upper Marlboro, MD",
+      "state": "MD",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Upper-Marlboro-Wire-Cutter-MD-20774/1391372833/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -1170,6 +1196,19 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/5AC4831F89404CDC8FB60A409A3D3C51/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-03-17",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-ad3e9f6f981d9556",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "CDL Bus Driver - BWI Airport",
+      "location": "Baltimore, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/572CA88C308E463098CCFEFA20C6834B/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-01-22",
       "source": "indeed"
     },
     {
@@ -1290,6 +1329,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-transdev-in-6702889ffa8a6ce7",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "General Manager",
+      "location": "Baltimore, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Manager",
+      "url": "https://transdevna.jobs/33CC0237EB484A87802400F6252E96F5/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-05-07",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-transdev-in-90fdaf6984627c8d",
       "company": "Transdev",
       "company_id": "transdev",
@@ -1300,6 +1352,19 @@
       "seniority": "Manager",
       "url": "https://transdevna.jobs/887EDF0E0C3A42089C8D1AB934417A3D/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-05-05",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-e750a7457e590855",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "IT Manager",
+      "location": "Baltimore, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Manager",
+      "url": "https://transdevna.jobs/D18E5E1C47524523957A54C5CA62A0D0/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-05-07",
       "source": "indeed"
     },
     {
@@ -1417,6 +1482,19 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/CF255DCEB90447018E38A5D7BFE60817/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-04-23",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-219e5a775504cbcf",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "QA Manager",
+      "location": "Baltimore, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Manager",
+      "url": "https://transdevna.jobs/B61F7FED059A49CCB9A1E07A63321F46/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-05-07",
       "source": "indeed"
     },
     {
@@ -1586,6 +1664,19 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/F9008FC0841741AAAC91EDBDA2AF5CD7/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2025-12-02",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-53cb5c8e75ed99d9",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Training Manager",
+      "location": "Baltimore, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Manager",
+      "url": "https://transdevna.jobs/42E9959939D045FBB539315836D2699C/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-05-07",
       "source": "indeed"
     },
     {
@@ -2447,17 +2538,17 @@
       "source": "manual_link"
     },
     {
-      "id": "ic-legrand-PA",
+      "id": "ic-jobs-legrand-jobs-10049-global-controller-job",
       "company": "Legrand",
       "company_id": "legrand",
-      "title": "Voir les offres d'emploi →",
-      "location": "PA",
+      "title": "Global Controller",
+      "location": "Canonsburg, PA",
       "state": "PA",
       "sector": "Manufacturing & Materials",
-      "seniority": "N/A",
-      "url": "https://jobs-legrand.icims.com/jobs/search?ss=1",
+      "seniority": "Mid-level",
+      "url": "https://jobs-legrand.icims.com/jobs/10049/global-controller/job",
       "posted_date": "",
-      "source": "manual_link"
+      "source": "icims"
     },
     {
       "id": "j2w-jobs-1345872555",
@@ -2521,19 +2612,6 @@
       "sector": "Manufacturing & Materials",
       "seniority": "Mid-level",
       "url": "https://jobs.mersen.com/job/St-Marys-Process-Engineer-PA-15857/1345167855/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1337445355",
-      "company": "Mersen",
-      "company_id": "mersen",
-      "title": "Yard Operator (Forklift)",
-      "location": "Topton, PA",
-      "state": "PA",
-      "sector": "Manufacturing & Materials",
-      "seniority": "Mid-level",
-      "url": "https://jobs.mersen.com/job/Topton-Yard-Operator-%28Forklift%29-PA-19562/1337445355/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2746,19 +2824,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Automation-Project-Leader_R2829492",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Automation Project Leader",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Automation-Project-Leader_R2829492",
-      "posted_date": "2026-05-06",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Swiftwater-PA/Clinical-Operations-Leader---VIE-Contract_R2849584",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -2850,19 +2915,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Production-Technician---Vaccines_R2845467",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Production Technician - Vaccines",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Production-Technician---Vaccines_R2845467",
-      "posted_date": "2026-05-06",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Swiftwater-PA/Production-Technician-3rd-Shift-Filling_R2853637-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -2886,6 +2938,19 @@
       "seniority": "Manager",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Project-manager-CI-Inspection_R2847163",
       "posted_date": "2026-04-23",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Regional-Lead--Construction-and-Jobsite-Safety_R2827974-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Regional Lead, Construction & Facilities",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Senior",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Regional-Lead--Construction-and-Jobsite-Safety_R2827974-1",
+      "posted_date": "2026-05-07",
       "source": "workday"
     },
     {
@@ -2938,19 +3003,6 @@
       "seniority": "Senior",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Senior-Scientist---Vaccines_R2847173-1",
       "posted_date": "2026-03-27",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Staging-Logistics-Technician_R2851932-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Staging Logistics Technician",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Staging-Logistics-Technician_R2851932-1",
-      "posted_date": "2026-05-06",
       "source": "workday"
     },
     {
@@ -3149,6 +3201,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-career-1391391533",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Driver",
+      "location": "York, PA",
+      "state": "PA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/York-Driver-PA-17402/1391391533/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-career-1281080101",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -3184,6 +3249,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Philadelphia-Sales-Tax-Analyst-II-PA-19106/1388093033/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1391482733",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Strategic Accounts Associate",
+      "location": "Northhampton, PA",
+      "state": "PA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Northhampton-Strategic-Accounts-Associate-PA-18067/1391482733/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -3448,16 +3526,29 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-70a4c6e10c7373cf",
+      "id": "jsp-veolia-in-6e851058633cb6cb",
       "company": "Veolia",
       "company_id": "veolia",
-      "title": "Alternance Canalisateur (H/F)",
+      "title": "Alternant administratif F/H",
       "location": "Trevose, PA",
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/pluneret/alternance-canalisateur-h-f/3091/35848893120",
-      "posted_date": "2026-03-06",
+      "url": "https://jobs.veolia.com/fr/emploi/meyzieux/alternant-administratif-f-h/3091/37227532096",
+      "posted_date": "2026-04-13",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-b7babf8e83b18fa3",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Becario/a de Ingeniería - Mantenimiento de Instalaciones",
+      "location": "Trevose, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.veolia.com/fr/emploi/madrid/becario-a-de-ingenieria-mantenimiento-de-instalaciones/3091/37611761344",
+      "posted_date": "2026-04-23",
       "source": "indeed"
     },
     {
@@ -3601,19 +3692,6 @@
       "seniority": "Mid-level",
       "url": "https://jobs.veolia.com/fr/emploi/trevose/microelectronics-growth-leader-integrated-services/3091/37589013824",
       "posted_date": "2026-04-22",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-a0ce14d950c7e3e5",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Mécanicien(ne) PL (F/H)",
-      "location": "Pottstown, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/gonesse/mecanicien-ne-pl-f-h/3091/35789678464",
-      "posted_date": "2026-03-04",
       "source": "indeed"
     },
     {
@@ -3799,6 +3877,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-20c9078b15b306e9",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Technical Sales Account Manager – Mobile Water",
+      "location": "Trevose, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.veolia.com/fr/emploi/trevose/technical-sales-account-manager-mobile-water/3091/36015039296",
+      "posted_date": "2026-03-10",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-6dd7910581893783",
       "company": "Veolia",
       "company_id": "veolia",
@@ -3822,6 +3913,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.veolia.com/fr/emploi/trevose/traveling-field-service-representative-plc-technician/3091/36328629056",
       "posted_date": "2026-03-19",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-6689668e43870807",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Veolia - MASTER JOB TEMPLATE",
+      "location": "King Of Prussia, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000125160829-veolia-master-job-template",
+      "posted_date": "2026-05-07",
       "source": "indeed"
     },
     {
@@ -3900,6 +4004,19 @@
       "seniority": "Director/VP",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Deputy-Director---Senior-Project-Biostatistics-Lead---Vaccines_R2842967",
       "posted_date": "2026-03-09",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Richmond-VA/Medical-Science-Liaison---Rare-Hematology--VA-NC-SC-_R2855690-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Medical Science Liaison - Rare Hematology (VA/NC/SC)",
+      "location": "3 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Richmond-VA/Medical-Science-Liaison---Rare-Hematology--VA-NC-SC-_R2855690-1",
+      "posted_date": "2026-05-07",
       "source": "workday"
     },
     {
@@ -4202,19 +4319,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-ag-/job/Herndon-Area-VA/VIE-2026-USA-Business-operations-improvement-Analyst---H-F_JR10402966",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "VIE-2026-USA-Business Operations Improvement Analyst - H/F",
-      "location": "Herndon Area, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Mid-level",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/VIE-2026-USA-Business-operations-improvement-Analyst---H-F_JR10402966",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
       "id": "jsp-arbiom-VA",
       "company": "Arbiom",
       "company_id": "arbiom",
@@ -4280,19 +4384,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-jobs-1384259833",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "DGO Representative",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-DGO-Representative-VA-23501/1384259833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-jobs-1389312133",
       "company": "CMA CGM",
       "company_id": "cma-cgm",
@@ -4319,6 +4410,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-jobs-1391457433",
+      "company": "CMA CGM",
+      "company_id": "cma-cgm",
+      "title": "Import Agent (New York FF)",
+      "location": "Springfield Gardens. Ny, Us",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Springfield-Gardens_-Ny-Import-Agent-%28New-York-FF%29-NY-11413/1391457433/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-jobs-1377465733",
       "company": "CMA CGM",
       "company_id": "cma-cgm",
@@ -4328,6 +4432,32 @@
       "sector": "Transportation & Logistics",
       "seniority": "Manager",
       "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Manager%2C-Export-Trade-VA-23501/1377465733/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-jobs-1391454233",
+      "company": "CMA CGM",
+      "company_id": "cma-cgm",
+      "title": "Manager, Motor Carrier Procurment",
+      "location": "Norfolk Va, Us",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Manager",
+      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Manager%2C-Motor-Carrier-Procurment-VA-23501/1391454233/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-jobs-1391442533",
+      "company": "CMA CGM",
+      "company_id": "cma-cgm",
+      "title": "Mgr, Accounting",
+      "location": "Norfolk Va, Us",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Mgr%2C-Accounting-VA-23501/1391442533/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -4436,6 +4566,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-capgemini-in-d65397e4b5438c50",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Jr. Technical Consultant (Hybrid - Graduate)",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Entry Level",
+      "url": "https://recruiting.ultipro.com/CAP1009CAPGE/JobBoard/5178abe8-537c-41a6-96cc-fce9104c8f2f/OpportunityDetail?opportunityId=e708dca9-c6fd-42f6-a03d-deaa9791b90f&postingId=0418559d-a565-4e58-a875-c83872ff16a8",
+      "posted_date": "2026-05-07",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-capgemini-in-682d63115a0ea0a0",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -4446,6 +4589,45 @@
       "seniority": "Senior",
       "url": "https://recruiting.ultipro.com/CAP1009CAPGE/JobBoard/5178abe8-537c-41a6-96cc-fce9104c8f2f/OpportunityDetail?opportunityId=b95a0dfc-960e-4107-bb1d-a62168f8d5f3&postingId=93190983-4b13-4cb1-b5d6-5d3b8be57602",
       "posted_date": "2026-04-22",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-52435ec09c79f181",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Senior ServiceNow Developer",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Senior",
+      "url": "https://recruiting.ultipro.com/CAP1009CAPGE/JobBoard/5178abe8-537c-41a6-96cc-fce9104c8f2f/OpportunityDetail?opportunityId=d990c67e-7ee1-4663-9188-10687652fbfb&postingId=177c0b2d-f960-4509-a5b7-ee67c5e58679",
+      "posted_date": "2026-05-07",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-29de6f70ca237d13",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "ServiceNow Architect",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://recruiting.ultipro.com/CAP1009CAPGE/JobBoard/5178abe8-537c-41a6-96cc-fce9104c8f2f/OpportunityDetail?opportunityId=72bc86bd-d675-4ee1-989f-dffb0b49c486&postingId=130c7df2-9f2d-4d4b-ba7d-2f3f67ad9067",
+      "posted_date": "2026-05-07",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-d3131ad33ccf7130",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "ServiceNow Developer",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://recruiting.ultipro.com/CAP1009CAPGE/JobBoard/5178abe8-537c-41a6-96cc-fce9104c8f2f/OpportunityDetail?opportunityId=a5c722f9-07f4-4b85-876e-d1e70b6c4ef6&postingId=b38f95e7-b0a6-4842-80e2-3ecc1e2126b4",
+      "posted_date": "2026-05-07",
       "source": "indeed"
     },
     {
@@ -4535,7 +4717,7 @@
       "state": "VA",
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Mid-level",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=32363&clientkey=7D3EA2EE793B65EA9FF580B57D7A1F2C&source=Indeed",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/32363?source=Indeed",
       "posted_date": "2026-01-16",
       "source": "indeed"
     },
@@ -4548,7 +4730,7 @@
       "state": "VA",
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Director/VP",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=50285&clientkey=7D3EA2EE793B65EA9FF580B57D7A1F2C&source=Indeed",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/50285?source=Indeed",
       "posted_date": "2026-04-16",
       "source": "indeed"
     },
@@ -4561,7 +4743,7 @@
       "state": "VA",
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Mid-level",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=45261&clientkey=7D3EA2EE793B65EA9FF580B57D7A1F2C&source=Indeed",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/45261?source=Indeed",
       "posted_date": "2026-03-19",
       "source": "indeed"
     },
@@ -4574,7 +4756,7 @@
       "state": "VA",
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Mid-level",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=35804&clientkey=7D3EA2EE793B65EA9FF580B57D7A1F2C&source=Indeed",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/35804?source=Indeed",
       "posted_date": "2026-02-04",
       "source": "indeed"
     },
@@ -4587,7 +4769,7 @@
       "state": "VA",
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Mid-level",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=21534&clientkey=7D3EA2EE793B65EA9FF580B57D7A1F2C&source=Indeed",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/21534?source=Indeed",
       "posted_date": "2025-11-14",
       "source": "indeed"
     },
@@ -4600,7 +4782,7 @@
       "state": "VA",
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Mid-level",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=45493&clientkey=7D3EA2EE793B65EA9FF580B57D7A1F2C&source=Indeed",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/45493?source=Indeed",
       "posted_date": "2026-03-20",
       "source": "indeed"
     },
@@ -4613,7 +4795,7 @@
       "state": "VA",
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Manager",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=53102&clientkey=7D3EA2EE793B65EA9FF580B57D7A1F2C&source=Indeed",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/53102?source=Indeed",
       "posted_date": "2026-05-01",
       "source": "indeed"
     },
@@ -4626,7 +4808,7 @@
       "state": "VA",
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Entry Level",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=26104&clientkey=7D3EA2EE793B65EA9FF580B57D7A1F2C&source=Indeed",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/26104?source=Indeed",
       "posted_date": "2025-12-08",
       "source": "indeed"
     },
@@ -4639,7 +4821,7 @@
       "state": "VA",
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Mid-level",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=53106&clientkey=7D3EA2EE793B65EA9FF580B57D7A1F2C&source=Indeed",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/53106?source=Indeed",
       "posted_date": "2026-05-01",
       "source": "indeed"
     },
@@ -4652,7 +4834,7 @@
       "state": "VA",
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Mid-level",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=45827&clientkey=8B9C8B7EA8A50F9FC7F49B2CA3E32504&source=Indeed",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/8B9C8B7EA8A50F9FC7F49B2CA3E32504/jobs/45827?source=Indeed",
       "posted_date": "2026-03-23",
       "source": "indeed"
     },
@@ -4665,7 +4847,7 @@
       "state": "VA",
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Mid-level",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=44221&clientkey=8B9C8B7EA8A50F9FC7F49B2CA3E32504&source=Indeed",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/8B9C8B7EA8A50F9FC7F49B2CA3E32504/jobs/44221?source=Indeed",
       "posted_date": "2026-03-13",
       "source": "indeed"
     },
@@ -4826,6 +5008,32 @@
       "source": "icims"
     },
     {
+      "id": "ic-careers-framatome-jobs-2993-manager-ii-2c-field-services--28cr-26r-29-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "Manager II, Field Services (CR&R)",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://careers-framatome.icims.com/jobs/2993/manager-ii%2c-field-services-%28cr%26r%29/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
+      "id": "ic-careers-framatome-jobs-2992-mechanic-ii-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "Mechanic II",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://careers-framatome.icims.com/jobs/2992/mechanic-ii/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
       "id": "ic-careers-framatome-jobs-2933-principal-engineer---core-neutronics-job",
       "company": "Framatome",
       "company_id": "framatome",
@@ -4874,6 +5082,19 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://careers-framatome.icims.com/jobs/2998/project-engineer/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
+      "id": "ic-careers-framatome-jobs-3007-project-engineer-i-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "Project Engineer I",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://careers-framatome.icims.com/jobs/3007/project-engineer-i/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -4952,19 +5173,6 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://careers-framatome.icims.com/jobs/2904/sales-proposal-manager-ii/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
-      "id": "ic-careers-framatome-jobs-2898-senior-project-manager--e2-80-93-pmo--28nuclear-engineering-29-job",
-      "company": "Framatome",
-      "company_id": "framatome",
-      "title": "Senior Project Manager – PMO (Nuclear/Engineering)",
-      "location": "Lynchburg, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://careers-framatome.icims.com/jobs/2898/senior-project-manager-%e2%80%93-pmo-%28nuclear-engineering%29/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -5723,6 +5931,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-transdev-in-6043ed6be469ad53",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Light Duty Mechanic",
+      "location": "Leesburg, VA",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/2DDC6191B44A49BA80DF432FC5F82096/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-05-07",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-transdev-in-bf480cb8f8cb98b1",
       "company": "Transdev",
       "company_id": "transdev",
@@ -5879,19 +6100,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-bc6ee5b43461924f",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Associate Engineer - Mechanical Design",
-      "location": "Norfolk, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/norfolk/associate-engineer-mechanical-design/3091/36830782528",
-      "posted_date": "2026-04-02",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-veolia-in-669dfdbb93a5968d",
       "company": "Veolia",
       "company_id": "veolia",
@@ -5902,6 +6110,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.veolia.com/fr/emploi/richmond/collection-system-technician/3091/37280290688",
       "posted_date": "2026-04-14",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-5f7500efd8178a62",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Conducteur de ligne d'incinération F/H",
+      "location": "Norfolk, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.veolia.com/fr/emploi/limay/conducteur-de-ligne-d-incineration-f-h/3091/19904849728",
+      "posted_date": "2025-05-21",
       "source": "indeed"
     },
     {
@@ -5980,19 +6201,6 @@
       "seniority": "Mid-level",
       "url": "https://jobs.veolia.com/fr/emploi/richmond/instrument-and-electrical-technician/3091/35588217344",
       "posted_date": "2026-02-26",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-a12c3095fbe07525",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Laboratory Intern",
-      "location": "Norfolk, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Internship",
-      "url": "https://jobs.veolia.com/fr/emploi/norfolk/laboratory-intern/3091/37519517760",
-      "posted_date": "2026-04-20",
       "source": "indeed"
     },
     {
