@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-09T08:13:26.243704+00:00",
-  "total": 520,
+  "last_updated": "2026-05-10T08:28:17.063856+00:00",
+  "total": 515,
   "jobs": [
     {
       "id": "sr-744000109353195",
@@ -302,19 +302,6 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-55551-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Facilities Engineer",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Facilities%20Engineer",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "engie-62837-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -324,19 +311,6 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Operating%20Engineer",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-58082-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Power Plant Maintenance Mechanic",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Power%20Plant%20Maintenance%20Mechanic",
       "posted_date": "",
       "source": "engie"
     },
@@ -3630,19 +3604,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-4983bb6d22b63bbe",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Key Account Commercial Coordinator - Data Centers",
-      "location": "Trevose, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/trevose/key-account-commercial-coordinator-data-centers/3091/36460383040",
-      "posted_date": "2026-03-23",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-veolia-in-1646472f3335ce2c",
       "company": "Veolia",
       "company_id": "veolia",
@@ -3825,19 +3786,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-a2cf77d05bf8dcf8",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Senior Wastewater Operations Travel Technician",
-      "location": "Trevose, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Senior",
-      "url": "https://jobs.veolia.com/fr/emploi/trevose/senior-wastewater-operations-travel-technician/3091/36460516800",
-      "posted_date": "2026-03-23",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-veolia-in-ebc667a273c38d83",
       "company": "Veolia",
       "company_id": "veolia",
@@ -3848,6 +3796,19 @@
       "seniority": "Senior",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000116196766-senior-wastewater-operations-travel-technician",
       "posted_date": "2026-03-23",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-10814f2edc3f8307",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Senior Wastewater Operations Travel Technician",
+      "location": "Trevose, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Senior",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112990911-senior-wastewater-operations-travel-technician",
+      "posted_date": "2026-03-05",
       "source": "indeed"
     },
     {
@@ -4553,19 +4514,6 @@
       "source": "j2w"
     },
     {
-      "id": "jsp-capgemini-in-c2bcca6628e51aca",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "CIS Sales Leader",
-      "location": "Mclean, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://www.capgemini.com/jobs/403840-en_US_SAPBTP/",
-      "posted_date": "2026-02-10",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-capgemini-in-2cca7bbccfc62188",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -4615,19 +4563,6 @@
       "seniority": "Entry Level",
       "url": "https://recruiting.ultipro.com/CAP1009CAPGE/JobBoard/5178abe8-537c-41a6-96cc-fce9104c8f2f/OpportunityDetail?opportunityId=e708dca9-c6fd-42f6-a03d-deaa9791b90f&postingId=0418559d-a565-4e58-a875-c83872ff16a8",
       "posted_date": "2026-05-07",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-capgemini-in-ab57761e9520d71f",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Lead Cybersecurity Engineer - Security Architect AI - Generalist 2",
-      "location": "Mclean, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Senior",
-      "url": "https://www.capgemini.com/jobs/447827-en_US_SAPBTP/",
-      "posted_date": "2026-05-08",
       "source": "indeed"
     },
     {
@@ -6204,7 +6139,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-3f0b082cdecbb2b7",
+      "id": "jsp-veolia-in-eb0015980a76352b",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Instrument & Electrical Technician",
@@ -6212,7 +6147,7 @@
       "state": "VA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000111633575-instrument-electrical-technician",
+      "url": "https://jobs.veolia.com/fr/emploi/richmond/instrument-and-electrical-technician/3091/35588217344",
       "posted_date": "2026-02-26",
       "source": "indeed"
     },
