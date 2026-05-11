@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-10T08:28:17.063856+00:00",
-  "total": 515,
+  "last_updated": "2026-05-11T10:04:01.930752+00:00",
+  "total": 520,
   "jobs": [
     {
       "id": "sr-744000109353195",
@@ -302,6 +302,19 @@
       "source": "manual_link"
     },
     {
+      "id": "engie-55551-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Facilities Engineer",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Facilities%20Engineer",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-62837-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -311,6 +324,19 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Operating%20Engineer",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-58082-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Power Plant Maintenance Mechanic",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Power%20Plant%20Maintenance%20Mechanic",
       "posted_date": "",
       "source": "engie"
     },
@@ -484,19 +510,6 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-65512-DE",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Solar Technician II - Solidago Solar Site",
-      "location": "Dover, DE",
-      "state": "DE",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II%20-%20Solidago%20Solar%20Site",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "ic-uscareers-idemia-jobs-8442-enrollment-agent-i-job",
       "company": "IDEMIA",
       "company_id": "idemia",
@@ -523,7 +536,7 @@
       "source": "workday"
     },
     {
-      "id": "jsp-veolia-in-69c6a825fd1258c0",
+      "id": "jsp-veolia-in-b8d47ec81507f5ce",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Senior Rates Counsel, Regulated Water",
@@ -531,7 +544,7 @@
       "state": "DE",
       "sector": "Energy & Environment",
       "seniority": "Senior",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000121483236-senior-rates-counsel-regulated-water",
+      "url": "https://jobs.veolia.com/fr/emploi/wilmington/senior-rates-counsel-regulated-water/3091/37406501760",
       "posted_date": "2026-04-17",
       "source": "indeed"
     },
@@ -1130,19 +1143,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Upper-Marlboro-Vendor-Returns-Specialist-MD-20774/1383339633/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1365497433",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Warehouse Associate",
-      "location": "Upper Marlboro, MD",
-      "state": "MD",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Upper-Marlboro-Warehouse-Associate-MD-20774/1365497433/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -3513,6 +3513,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-ef025985c37a0194",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Agent réseaux Eau Potable H/F",
+      "location": "Trevose, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.veolia.com/fr/emploi/melun/agent-reseaux-eau-potable-h-f/3091/36246337920",
+      "posted_date": "2026-03-17",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-b2dc1bdeeb8ad34a",
       "company": "Veolia",
       "company_id": "veolia",
@@ -3601,6 +3614,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000119658326-journeyman-electrician",
       "posted_date": "2026-04-09",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-4983bb6d22b63bbe",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Key Account Commercial Coordinator - Data Centers",
+      "location": "Trevose, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.veolia.com/fr/emploi/trevose/key-account-commercial-coordinator-data-centers/3091/36460383040",
+      "posted_date": "2026-03-23",
       "source": "indeed"
     },
     {
@@ -3786,6 +3812,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-a2cf77d05bf8dcf8",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Senior Wastewater Operations Travel Technician",
+      "location": "Trevose, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Senior",
+      "url": "https://jobs.veolia.com/fr/emploi/trevose/senior-wastewater-operations-travel-technician/3091/36460516800",
+      "posted_date": "2026-03-23",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-ebc667a273c38d83",
       "company": "Veolia",
       "company_id": "veolia",
@@ -3796,19 +3835,6 @@
       "seniority": "Senior",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000116196766-senior-wastewater-operations-travel-technician",
       "posted_date": "2026-03-23",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-10814f2edc3f8307",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Senior Wastewater Operations Travel Technician",
-      "location": "Trevose, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Senior",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112990911-senior-wastewater-operations-travel-technician",
-      "posted_date": "2026-03-05",
       "source": "indeed"
     },
     {
@@ -3838,7 +3864,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-6dd7910581893783",
+      "id": "jsp-veolia-in-9b4b0e1890ccc95a",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Traveling Field Service Representative - Mobile Water Commissioning",
@@ -3846,8 +3872,8 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.veolia.com/fr/emploi/trevose/traveling-field-service-representative-mobile-water-commissioning/3091/36328628992",
-      "posted_date": "2026-03-19",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000109772834-traveling-field-service-representative-mobile-water-commissioning",
+      "posted_date": "2026-02-17",
       "source": "indeed"
     },
     {
@@ -6061,6 +6087,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-428535d5a42834ad",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Chef de chantier assainissement H/F",
+      "location": "Norfolk, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.veolia.com/fr/emploi/saint-brice-courcelles/chef-de-chantier-assainissement-h-f/3091/36215656640",
+      "posted_date": "2026-03-19",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-669dfdbb93a5968d",
       "company": "Veolia",
       "company_id": "veolia",
@@ -6149,6 +6188,32 @@
       "seniority": "Mid-level",
       "url": "https://jobs.veolia.com/fr/emploi/richmond/instrument-and-electrical-technician/3091/35588217344",
       "posted_date": "2026-02-26",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-b581c16ca397cc2e",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Jefa/e de Obra instalaciones eléctricas Bergondo",
+      "location": "Norfolk, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.veolia.com/fr/emploi/la-corogne/jefa-e-de-obra-instalaciones-electricas-bergondo/3091/36285629440",
+      "posted_date": "2026-03-19",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-cb07ed3026dea0dc",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Lead Account Manager - Water Treatment and Process Chemicals",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.veolia.com/fr/emploi/richmond/lead-account-manager-water-treatment-and-process-chemicals/3091/37589014464",
+      "posted_date": "2026-04-22",
       "source": "indeed"
     },
     {
