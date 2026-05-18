@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-17T08:39:06.560292+00:00",
-  "total": 520,
+  "last_updated": "2026-05-18T10:28:43.330221+00:00",
+  "total": 521,
   "jobs": [
     {
       "id": "sr-744000109353195",
@@ -196,6 +196,32 @@
       "url": "https://group.bnpparibas/en/careers",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "engie-55551-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Facilities Engineer",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Facilities%20Engineer",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-58082-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Power Plant Maintenance Mechanic",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Power%20Plant%20Maintenance%20Mechanic",
+      "posted_date": "",
+      "source": "engie"
     },
     {
       "id": "engie-65513-DC",
@@ -3006,30 +3032,17 @@
       "source": "workday"
     },
     {
-      "id": "jsp-savencia-in-88ef483d27479c57",
+      "id": "jsp-savencia-PA",
       "company": "Savencia",
       "company_id": "savencia",
-      "title": "Dairy Ingredients Buyer/Materials Requirement Planner (MRP)",
-      "location": "New Holland, PA",
+      "title": "Voir les offres d'emploi →",
+      "location": "PA",
       "state": "PA",
       "sector": "Food & Beverage",
-      "seniority": "Mid-level",
-      "url": "https://www.indeed.com/viewjob?jk=88ef483d27479c57",
-      "posted_date": "2026-04-17",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-savencia-in-fd783c60182a356f",
-      "company": "Savencia",
-      "company_id": "savencia",
-      "title": "Senior Associate Brand Manager",
-      "location": "New Holland, PA",
-      "state": "PA",
-      "sector": "Food & Beverage",
-      "seniority": "Manager",
-      "url": "https://www.indeed.com/viewjob?jk=fd783c60182a356f",
-      "posted_date": "2026-04-17",
-      "source": "indeed"
+      "seniority": "N/A",
+      "url": "https://www.savenciacheeseusa.com/careers/",
+      "posted_date": "",
+      "source": "manual_link"
     },
     {
       "id": "jsp-schneider-electric-in-18a4e38124cc20c7",
