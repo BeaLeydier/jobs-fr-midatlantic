@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18T10:28:43.330221+00:00",
-  "total": 521,
+  "last_updated": "2026-05-19T10:07:45.850320+00:00",
+  "total": 523,
   "jobs": [
     {
       "id": "sr-744000109353195",
@@ -39,6 +39,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/AccorHotel/744000118914654",
       "posted_date": "2026-04-06",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "sr-744000127044301",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "Banquet Server",
+      "location": "Washington, Dc, Us",
+      "state": "DC",
+      "sector": "Hospitality & Services",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000127044301",
+      "posted_date": "2026-05-18",
       "source": "smartrecruiters"
     },
     {
@@ -224,32 +237,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-65513-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Project Controls Analyst I",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Project%20Controls%20Analyst%20I",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-58310-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Sales Manager",
-      "location": "Remote (DC)",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "engie-59240-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -324,19 +311,6 @@
       "sector": "Hospitality & Services",
       "seniority": "Mid-level",
       "url": "https://external-careers-sodexo.icims.com/jobs/988292/administrative-assistant-2/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
-      "id": "ic-external-careers-sodexo-jobs-988456-airline-lounges-director-of-culinary-services-job",
-      "company": "Sodexo",
-      "company_id": "sodexo",
-      "title": "Airline Lounges Director of Culinary Services",
-      "location": "Chicago, IL",
-      "state": "DC",
-      "sector": "Hospitality & Services",
-      "seniority": "Director/VP",
-      "url": "https://external-careers-sodexo.icims.com/jobs/988456/airline-lounges-director-of-culinary-services/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -416,19 +390,6 @@
       "seniority": "Manager",
       "url": "https://jobsearch.alstom.com/job/New-Castle-NAM-Services-Business-Process-Manager-Customer-ServiceSales%2C-Component-Overhaul-&-Repairs-DE/1385168233/",
       "posted_date": "2026-04-17",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-capgemini-in-1762020209a35a98",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Cyber Security Analyst",
-      "location": "Wilmington, DE",
-      "state": "DE",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/28ad3150-e3f9-4c22-bb78-4f3726778957",
-      "posted_date": "2026-05-14",
       "source": "indeed"
     },
     {
@@ -612,19 +573,6 @@
       "url": "https://jobs.keysight.com/jobs/51840/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2026-03-03",
       "source": "indeed"
-    },
-    {
-      "id": "engie-58310-MD",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Sales Manager",
-      "location": "Remote (MD)",
-      "state": "MD",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
-      "posted_date": "",
-      "source": "engie"
     },
     {
       "id": "jsp-fives-in-de4124eaf71c5733",
@@ -1680,19 +1628,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-f00f5157c381e137",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Transit Road Supervisor – BWI Airport",
-      "location": "Baltimore, MD",
-      "state": "MD",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/7D087E5EB04844CDA63B6F9AF7603BAF/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-02-19",
-      "source": "indeed"
-    },
-    {
       "id": "profils-vinci-MD",
       "company": "Vinci",
       "company_id": "vinci",
@@ -1911,6 +1846,19 @@
       "seniority": "Manager",
       "url": "https://jobs.smartrecruiters.com/AccorHotel/744000121055867",
       "posted_date": "2026-04-15",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "sr-744000127036015",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "Health Club Attendant Full Time",
+      "location": "Pittsburgh, Pa, Us",
+      "state": "PA",
+      "sector": "Hospitality & Services",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000127036015",
+      "posted_date": "2026-05-18",
       "source": "smartrecruiters"
     },
     {
@@ -2395,7 +2343,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-fe20ccdbad190f18",
+      "id": "jsp-capgemini-in-6c44b7e0d27a573e",
       "company": "Capgemini",
       "company_id": "capgemini",
       "title": "FullStack AWS AI Engineer",
@@ -2403,8 +2351,8 @@
       "state": "PA",
       "sector": "Technology & IT",
       "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/f050a005-d1fb-4741-ae46-c343385ea990",
-      "posted_date": "2026-05-15",
+      "url": "https://capgemini.talentnet.community/jobs/dee81eea-78f4-4c77-aad6-79471b5c2f1e",
+      "posted_date": "2026-05-14",
       "source": "indeed"
     },
     {
@@ -2551,7 +2499,7 @@
       "source": "indeed"
     },
     {
-      "id": "engie-58310-PA",
+      "id": "engie-65084-PA",
       "company": "Engie",
       "company_id": "engie",
       "title": "Sales Manager",
@@ -2889,6 +2837,19 @@
       "source": "workday"
     },
     {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Automation-Project-Leader_R2857799",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Automation Project Leader",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Automation-Project-Leader_R2857799",
+      "posted_date": "2026-05-18",
+      "source": "workday"
+    },
+    {
       "id": "wd-sanofi-/job/Swiftwater-PA/Compliance-Specialist_R2851675-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -2951,19 +2912,6 @@
       "seniority": "Mid-level",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Process-Engineer--Fill-Finish-_R2848352-1",
       "posted_date": "2026-04-06",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Production-Technician_R2856026-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Production Technician",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Production-Technician_R2856026-1",
-      "posted_date": "2026-05-15",
       "source": "workday"
     },
     {
@@ -4280,6 +4228,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-jobs-1393080133",
+      "company": "CMA CGM",
+      "company_id": "cma-cgm",
+      "title": "Cargo Flow Analyst",
+      "location": "Norfolk Va, Us",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Cargo-Flow-Analyst-VA-23501/1393080133/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-jobs-1392867733",
       "company": "CMA CGM",
       "company_id": "cma-cgm",
@@ -4387,12 +4348,12 @@
       "id": "j2w-jobs-1393856033",
       "company": "CMA CGM",
       "company_id": "cma-cgm",
-      "title": "Senior Equipment Coordinator",
+      "title": "Senior Equipment Coordinator (Empty Vessel Planning)",
       "location": "Norfolk Va, Us",
       "state": "VA",
       "sector": "Transportation & Logistics",
       "seniority": "Senior",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Senior-Equipment-Coordinator-VA-23501/1393856033/",
+      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Senior-Equipment-Coordinator-%28Empty-Vessel-Planning%29-VA-23501/1393856033/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -4449,6 +4410,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-jobs-1394712133",
+      "company": "CMA CGM",
+      "company_id": "cma-cgm",
+      "title": "Supply Chain Operations Specialist II",
+      "location": "Richmond. Va, Us",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Richmond_-Va-Supply-Chain-Operations-Specialist-II-VA-23173/1394712133/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "jsp-capgemini-in-a70b82475ae6cd52",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -4459,6 +4433,19 @@
       "seniority": "Mid-level",
       "url": "https://capgemini.talentnet.community/jobs/edc03847-544a-44d6-be81-b67c2dc7f1d4",
       "posted_date": "2026-05-14",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-ea8a4d82229b4a78",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Blue Yonder WMS Application Support L2/L3",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://capgemini.talentnet.community/jobs/e0f7c683-3ad1-46ef-aab0-e7c9a7b45679",
+      "posted_date": "2026-05-18",
       "source": "indeed"
     },
     {
@@ -4550,6 +4537,19 @@
       "seniority": "Senior",
       "url": "https://recruiting.ultipro.com/CAP1009CAPGE/JobBoard/5178abe8-537c-41a6-96cc-fce9104c8f2f/OpportunityDetail?opportunityId=d990c67e-7ee1-4663-9188-10687652fbfb&postingId=177c0b2d-f960-4509-a5b7-ee67c5e58679",
       "posted_date": "2026-05-07",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-41ad75ddbb261bc9",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Senior Solution Architect",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Senior",
+      "url": "https://www.capgemini.com/jobs/467222-en_US_SAPBTP/",
+      "posted_date": "2026-05-08",
       "source": "indeed"
     },
     {
@@ -5008,6 +5008,19 @@
       "source": "icims"
     },
     {
+      "id": "ic-careers-framatome-jobs-3033-manager-2c-site-maintenance--26-facilities-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "Manager, Site Maintenance & Facilities",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://careers-framatome.icims.com/jobs/3033/manager%2c-site-maintenance-%26-facilities/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
       "id": "ic-careers-framatome-jobs-2992-mechanic-ii-job",
       "company": "Framatome",
       "company_id": "framatome",
@@ -5216,6 +5229,32 @@
       "source": "icims"
     },
     {
+      "id": "ic-uscareers-idemia-jobs-8473-manager-proposal-management-job",
+      "company": "IDEMIA",
+      "company_id": "idemia",
+      "title": "Manager Proposal Management",
+      "location": "Us-Reston",
+      "state": "VA",
+      "sector": "Technology & Security",
+      "seniority": "Manager",
+      "url": "https://uscareers-idemia.icims.com/jobs/8473/manager-proposal-management/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
+      "id": "ic-uscareers-idemia-jobs-8474-product-owner-iii-job",
+      "company": "IDEMIA",
+      "company_id": "idemia",
+      "title": "Product Owner III",
+      "location": "Us-Va",
+      "state": "VA",
+      "sector": "Technology & Security",
+      "seniority": "Mid-level",
+      "url": "https://uscareers-idemia.icims.com/jobs/8474/product-owner-iii/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
       "id": "wd-imerys-/job/Chesapeake-Virginia-USA/Maintenance-Electrician_REQ-11363-1",
       "company": "Imerys",
       "company_id": "imerys",
@@ -5307,6 +5346,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-keolis-in-b1437034b5b91c2b",
+      "company": "Keolis",
+      "company_id": "keolis",
+      "title": "Payroll Clerk",
+      "location": "Woodbridge, VA",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://recruiting.ultipro.com/KEO1000KCS/JobBoard/1e6b743f-ed4b-4dd4-9c03-44d18e048af1/OpportunityDetail?opportunityId=01df7fd2-e91f-4cc8-8fa8-72c4ccc3bf07&postingId=b5e58cf7-99a5-4f98-9759-d8c7221d22a5",
+      "posted_date": "2026-05-18",
+      "source": "indeed"
+    },
+    {
       "id": "j2w-jobs-1352003855",
       "company": "Mersen",
       "company_id": "mersen",
@@ -5369,19 +5421,6 @@
       "seniority": "Mid-level",
       "url": "https://ovhus.applytojob.com/apply/doeoUP1kUq/Cloud-Support-Agent?source=INDE&~",
       "posted_date": "2026-04-08",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-ovhcloud-in-c5e8990cc3736d5e",
-      "company": "OVHcloud",
-      "company_id": "ovhcloud",
-      "title": "Data Center Construction Site Manager",
-      "location": "Warrenton, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Manager",
-      "url": "https://ovhus.applytojob.com/apply/6EkfIXmvZN/Data-Center-Construction-Site-Manager?source=INDE&~",
-      "posted_date": "2026-04-07",
       "source": "indeed"
     },
     {
@@ -6201,19 +6240,6 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000106902844-mechanical-commissioning-engineer-data-center-",
       "posted_date": "2026-02-02",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-8adc6b288cadd59c",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Mechanical Maintenance Mechanic",
-      "location": "Richmond, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000110385665-mechanical-maintenance-mechanic",
-      "posted_date": "2026-02-20",
       "source": "indeed"
     },
     {
