@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T09:57:44.913834+00:00",
-  "total": 528,
+  "last_updated": "2026-05-21T10:05:18.423837+00:00",
+  "total": 527,
   "jobs": [
     {
       "id": "sr-744000109353195",
@@ -68,6 +68,19 @@
       "source": "smartrecruiters"
     },
     {
+      "id": "sr-744000127501958",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "Busperson (Food Runner)",
+      "location": "Washington, Dc, Us",
+      "state": "DC",
+      "sector": "Hospitality & Services",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000127501958",
+      "posted_date": "2026-05-20",
+      "source": "smartrecruiters"
+    },
+    {
       "id": "sr-744000123211738",
       "company": "Accor",
       "company_id": "accor",
@@ -130,6 +143,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/AccorHotel/744000118596287",
       "posted_date": "2026-04-03",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "sr-744000127500655",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "Group Sales Manager",
+      "location": "Washington, Dc, Us",
+      "state": "DC",
+      "sector": "Hospitality & Services",
+      "seniority": "Manager",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000127500655",
+      "posted_date": "2026-05-20",
       "source": "smartrecruiters"
     },
     {
@@ -224,6 +250,32 @@
       "source": "engie"
     },
     {
+      "id": "engie-58310-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Sales Manager",
+      "location": "Remote (DC)",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-59240-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Senior Construction Manager",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Senior%20Construction%20Manager",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "tt-free2move-DC",
       "company": "Free2Move",
       "company_id": "free2move",
@@ -261,6 +313,19 @@
       "url": "https://careers.ratpdevusa.com/en/annonces",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "wd-sanofi-/job/Washington-DC/National-Sales-Network---Conference-and-Career-Fair-in-Washington--DC---August-12-14--2026_R2858134",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "National Sales Network – Conference and Career Fair in Washington, D.C. – August 12–14, 2026",
+      "location": "Washington, Dc",
+      "state": "DC",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Washington-DC/National-Sales-Network---Conference-and-Career-Fair-in-Washington--DC---August-12-14--2026_R2858134",
+      "posted_date": "2026-05-20",
+      "source": "workday"
     },
     {
       "id": "ic-external-careers-sodexo-jobs-988292-administrative-assistant-2-job",
@@ -534,6 +599,19 @@
       "url": "https://jobs.keysight.com/jobs/51840/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2026-03-03",
       "source": "indeed"
+    },
+    {
+      "id": "engie-58310-MD",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Sales Manager",
+      "location": "Remote (MD)",
+      "state": "MD",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
+      "posted_date": "",
+      "source": "engie"
     },
     {
       "id": "jsp-fives-in-de4124eaf71c5733",
@@ -913,19 +991,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1381854633",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Manager Inventory Control",
-      "location": "Upper Marlboro, MD",
-      "state": "MD",
-      "sector": "Industrial Distribution",
-      "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Upper-Marlboro-Manager-Inventory-Control-MD-20774/1381854633/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1392534433",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -948,19 +1013,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Manager",
       "url": "https://career.sonepar.com/job/Upper-Marlboro-Medium-Voltage-Business-Development-Manager-MD-20774/1246194101/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1271903801",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Morning Warehouse Associate - Upper Marlboro, MD",
-      "location": "Upper Marlboro, MD",
-      "state": "MD",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Upper-Marlboro-Morning-Warehouse-Associate-Upper-Marlboro%2C-MD-MD-20774/1271903801/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -1290,19 +1342,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-6702889ffa8a6ce7",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "General Manager",
-      "location": "Baltimore, MD",
-      "state": "MD",
-      "sector": "Transportation & Logistics",
-      "seniority": "Manager",
-      "url": "https://transdevna.jobs/33CC0237EB484A87802400F6252E96F5/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-05-07",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-transdev-in-90fdaf6984627c8d",
       "company": "Transdev",
       "company_id": "transdev",
@@ -1313,6 +1352,19 @@
       "seniority": "Manager",
       "url": "https://transdevna.jobs/887EDF0E0C3A42089C8D1AB934417A3D/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-05-05",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-ac441d60a6a0e901",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Heavy Truck and Equipment Technician",
+      "location": "Bel Air, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/E421AC7864644D838500653363DFD31D/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-05-20",
       "source": "indeed"
     },
     {
@@ -1745,7 +1797,7 @@
       "source": "smartrecruiters"
     },
     {
-      "id": "sr-744000123271999",
+      "id": "sr-744000127465249",
       "company": "Accor",
       "company_id": "accor",
       "title": "Director of Engineering and Security ",
@@ -1753,21 +1805,8 @@
       "state": "PA",
       "sector": "Hospitality & Services",
       "seniority": "Director/VP",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000123271999",
-      "posted_date": "2026-04-27",
-      "source": "smartrecruiters"
-    },
-    {
-      "id": "sr-744000114365587",
-      "company": "Accor",
-      "company_id": "accor",
-      "title": "Director of Finance",
-      "location": "Philadelphia, Pa, Us",
-      "state": "PA",
-      "sector": "Hospitality & Services",
-      "seniority": "Director/VP",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000114365587",
-      "posted_date": "2026-03-12",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000127465249",
+      "posted_date": "2026-05-20",
       "source": "smartrecruiters"
     },
     {
@@ -1914,7 +1953,7 @@
       "source": "smartrecruiters"
     },
     {
-      "id": "sr-744000118480628",
+      "id": "sr-744000127474040",
       "company": "Accor",
       "company_id": "accor",
       "title": "Line Cook - Flexible AM and PM Shift",
@@ -1922,8 +1961,8 @@
       "state": "PA",
       "sector": "Hospitality & Services",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000118480628",
-      "posted_date": "2026-04-02",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000127474040",
+      "posted_date": "2026-05-20",
       "source": "smartrecruiters"
     },
     {
@@ -2356,16 +2395,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-ecd68a544772e04a",
+      "id": "jsp-capgemini-in-f53cfda7bb78c0d9",
       "company": "Capgemini",
       "company_id": "capgemini",
-      "title": "PTC Test Engineer",
-      "location": "Erie, PA",
+      "title": "MarTech Advisory Lead Analyst",
+      "location": "Bethlehem, PA",
       "state": "PA",
       "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/ad008318-ea6c-4554-aadd-d4757433a655",
-      "posted_date": "2026-05-13",
+      "seniority": "Senior",
+      "url": "https://capgemini.talentnet.community/jobs/ca3657ac-b335-4787-a65b-1f4a6dfbc9ed",
+      "posted_date": "2026-05-20",
       "source": "indeed"
     },
     {
@@ -2379,19 +2418,6 @@
       "seniority": "Mid-level",
       "url": "https://capgemini.talentnet.community/jobs/63e28011-e852-443f-a9a9-4c00c2031b27",
       "posted_date": "2026-05-13",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-capgemini-in-ba6608cf895ded14",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Scrum Master",
-      "location": "Malvern, PA",
-      "state": "PA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/81eafcbc-a0d5-44b7-8668-32ef58d12965",
-      "posted_date": "2026-05-19",
       "source": "indeed"
     },
     {
@@ -2447,19 +2473,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-05e84b4bdee55253",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "UI Engineer(React)",
-      "location": "Pittsburgh, PA",
-      "state": "PA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/3e5664fe-28c4-4135-b0e5-be7faadd9e3d",
-      "posted_date": "2026-05-13",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-capgemini-in-237ab5c56248157e",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -2499,7 +2512,7 @@
       "source": "indeed"
     },
     {
-      "id": "engie-65084-PA",
+      "id": "engie-58310-PA",
       "company": "Engie",
       "company_id": "engie",
       "title": "Sales Manager",
@@ -2668,6 +2681,19 @@
       "source": "j2w"
     },
     {
+      "id": "jsp-novares-in-ad77a6137a8863d7",
+      "company": "Novares",
+      "company_id": "novares",
+      "title": "Junior Planning Leader",
+      "location": "Felton, PA",
+      "state": "PA",
+      "sector": "Manufacturing & Materials",
+      "seniority": "Entry Level",
+      "url": "https://careers.novaresteam.com/job/FELTON-Junior-Planning-Leader-MN-17322/1349869957/",
+      "posted_date": "2026-01-09",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-novares-in-e081f7804641687d",
       "company": "Novares",
       "company_id": "novares",
@@ -2691,32 +2717,6 @@
       "seniority": "Mid-level",
       "url": "https://careers.novaresteam.com/job/FELTON-Operator-1st-shift-MN-17322/753350202/",
       "posted_date": "2023-01-17",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-novares-in-ac04025418202784",
-      "company": "Novares",
-      "company_id": "novares",
-      "title": "Operator - 2nd & 3rd shift",
-      "location": "Felton, PA",
-      "state": "PA",
-      "sector": "Manufacturing & Materials",
-      "seniority": "Mid-level",
-      "url": "https://careers.novaresteam.com/job/FELTON-Operator-2nd-&-3rd-shift-MN-17322/1352491757/",
-      "posted_date": "2026-02-10",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-novares-in-ad77a6137a8863d7",
-      "company": "Novares",
-      "company_id": "novares",
-      "title": "Production Planner",
-      "location": "Felton, PA",
-      "state": "PA",
-      "sector": "Manufacturing & Materials",
-      "seniority": "Mid-level",
-      "url": "https://careers.novaresteam.com/job/FELTON-Production-Planner-MN-17322/1349869957/",
-      "posted_date": "2026-01-09",
       "source": "indeed"
     },
     {
@@ -2912,6 +2912,19 @@
       "seniority": "Manager",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Manager--FFIP-Continuous-Improvement---Vaccines_R2855678-1",
       "posted_date": "2026-05-16",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Material-Release-Quality-Technician_R2854998-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Material Release Quality Technician",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Material-Release-Quality-Technician_R2854998-1",
+      "posted_date": "2026-05-20",
       "source": "workday"
     },
     {
@@ -3539,6 +3552,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-97a76dd7e433679f",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Account Representative - Water Treatment Chemicals",
+      "location": "Lancaster, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000127501570-account-representative-water-treatment-chemicals",
+      "posted_date": "2026-05-20",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-60bdaf2606556ff4",
       "company": "Veolia",
       "company_id": "veolia",
@@ -4029,19 +4055,6 @@
       "sector": "Aerospace & Defense",
       "seniority": "Mid-level",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Finance-Transformation-Analyst---AI---Emerging-Tech--Contract-_JR10401478",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
-      "id": "wd-ag-/job/Dulles-VA/Head-of-Kitting-Operations_JR10406562",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "Head of Kitting Operations",
-      "location": "Dulles, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Director/VP",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Dulles-VA/Head-of-Kitting-Operations_JR10406562",
       "posted_date": "",
       "source": "workday"
     },
@@ -5177,19 +5190,6 @@
       "source": "icims"
     },
     {
-      "id": "ic-careers-framatome-jobs-2937-supervisor-2c-electrical-i-26c-team-job",
-      "company": "Framatome",
-      "company_id": "framatome",
-      "title": "Supervisor, Electrical I&C Team",
-      "location": "Lynchburg, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://careers-framatome.icims.com/jobs/2937/supervisor%2c-electrical-i%26c-team/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
       "id": "ic-careers-framatome-jobs-2958-task-lead-job",
       "company": "Framatome",
       "company_id": "framatome",
@@ -5437,16 +5437,16 @@
       "source": "j2w"
     },
     {
-      "id": "jsp-ovhcloud-in-462b39df3a665a5a",
+      "id": "jsp-ovhcloud-in-71712c0849a7eaf1",
       "company": "OVHcloud",
       "company_id": "ovhcloud",
-      "title": "Cloud Support Agent",
-      "location": "Reston, VA",
+      "title": "Data Center Infrastructure Project Coordinator",
+      "location": "Warrenton, VA",
       "state": "VA",
       "sector": "Technology & IT",
       "seniority": "Mid-level",
-      "url": "https://ovhus.applytojob.com/apply/doeoUP1kUq/Cloud-Support-Agent?source=INDE&~",
-      "posted_date": "2026-04-08",
+      "url": "https://ovhus.applytojob.com/apply/qn6ngE3JvS/Data-Center-Infrastructure-Project-Coordinator?source=INDE&~",
+      "posted_date": "2026-05-20",
       "source": "indeed"
     },
     {
@@ -5928,19 +5928,6 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/8DC4C1F156DA4778A3E12A5B19D97E68/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-02-19",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-transdev-in-1a8a3a405359eae1",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Field Supervisor - Herndon",
-      "location": "Herndon, VA",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/0456D2F8AA36416DA1FDB4575832DB51/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-03-24",
       "source": "indeed"
     },
     {
