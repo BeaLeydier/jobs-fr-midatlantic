@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-24T08:49:54.608233+00:00",
-  "total": 531,
+  "last_updated": "2026-05-25T10:32:52.793681+00:00",
+  "total": 528,
   "jobs": [
     {
       "id": "sr-744000118917987",
@@ -263,15 +263,15 @@
       "source": "engie"
     },
     {
-      "id": "engie-58310-DC",
+      "id": "engie-59240-DC",
       "company": "Engie",
       "company_id": "engie",
-      "title": "Sales Manager",
-      "location": "Remote (DC)",
+      "title": "Senior Construction Manager",
+      "location": "Washington, DC",
       "state": "DC",
       "sector": "Energy & Environment",
       "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
+      "url": "https://jobs.engie.com/search/?q=Senior%20Construction%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -419,19 +419,6 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-65512-DE",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Solar Technician II - Solidago Solar Site",
-      "location": "Dover, DE",
-      "state": "DE",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II%20-%20Solidago%20Solar%20Site",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "wd-roquette-/job/Wilmington/Senior-Financial-Controller_R0025844-1",
       "company": "Roquette",
       "company_id": "roquette",
@@ -573,19 +560,6 @@
       "url": "https://jobs.keysight.com/jobs/51840/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2026-03-03",
       "source": "indeed"
-    },
-    {
-      "id": "engie-58310-MD",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Sales Manager",
-      "location": "Remote (MD)",
-      "state": "MD",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
-      "posted_date": "",
-      "source": "engie"
     },
     {
       "id": "jsp-fives-in-149f3fef71836b1e",
@@ -2499,7 +2473,7 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-58310-PA",
+      "id": "engie-65084-PA",
       "company": "Engie",
       "company_id": "engie",
       "title": "Sales Manager",
@@ -2772,7 +2746,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-snf-in-7c11ea04d5087c1e",
+      "id": "jsp-snf-in-cfdc3559303ab00d",
       "company": "SNF",
       "company_id": "snf",
       "title": "Nurse Practitioner NP or Physician Assistant PA Skilled Nursing Facility Rounds SNF Healthcare",
@@ -2780,8 +2754,8 @@
       "state": "PA",
       "sector": "Industrials & Chemicals",
       "seniority": "Mid-level",
-      "url": "https://jobs.apploi.com/view/bab47cee8a06?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed",
-      "posted_date": "2026-04-22",
+      "url": "https://jobs.apploi.com/view/22ced35511407?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed",
+      "posted_date": "2026-05-24",
       "source": "indeed"
     },
     {
@@ -3198,19 +3172,6 @@
       "seniority": "Mid-level",
       "url": "https://careers.se.com/jobs/116854/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2026-05-12",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-schneider-electric-in-81ff17706f72c94f",
-      "company": "Schneider Electric",
-      "company_id": "schneider-electric",
-      "title": "WSA Team Lead",
-      "location": "Mechanicsburg, PA",
-      "state": "PA",
-      "sector": "Technology & Energy",
-      "seniority": "Senior",
-      "url": "https://careers.se.com/jobs/116953/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "posted_date": "2026-05-08",
       "source": "indeed"
     },
     {
