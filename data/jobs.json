@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25T10:32:52.793681+00:00",
-  "total": 528,
+  "last_updated": "2026-05-26T10:20:57.293148+00:00",
+  "total": 525,
   "jobs": [
     {
       "id": "sr-744000118917987",
@@ -211,19 +211,6 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-55551-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Facilities Engineer",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Facilities%20Engineer",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "engie-65244-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -233,19 +220,6 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Health%20and%20Safety%20Analyst%20I",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-58082-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Power Plant Maintenance Mechanic",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Power%20Plant%20Maintenance%20Mechanic",
       "posted_date": "",
       "source": "engie"
     },
@@ -1199,19 +1173,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-99ccd6f1cd87ff9c",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "CDL Driver",
-      "location": "Rockville, MD",
-      "state": "MD",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/2387DED8A16744A19C455D6A46652E72/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2025-11-18",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-transdev-in-efa4e3397b8249a5",
       "company": "Transdev",
       "company_id": "transdev",
@@ -1261,19 +1222,6 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/C1058902D0CC41E5B9505188369F8923/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-03-06",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-transdev-in-a01d75a9e09a3299",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Dispatcher",
-      "location": "New Carrollton, MD",
-      "state": "MD",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/302D6D373CDC456FA605AB23CD80BCE2/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2025-11-18",
       "source": "indeed"
     },
     {
@@ -1443,6 +1391,32 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/ECE1A7F5F8B348EB91C3D28E66A03B6B/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-01-31",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-f7234c29a3458be0",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Operations Manager",
+      "location": "Capitol Heights, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Manager",
+      "url": "https://transdevna.jobs/9085BF82E3FF40F7ADF6C9CB495826CE/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-05-25",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-be597c47c02a3349",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Operations Supervisors",
+      "location": "Capitol Heights, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/E15D65927D904DA398040F7396E63C69/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-05-25",
       "source": "indeed"
     },
     {
@@ -2863,19 +2837,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Automation-Project-Leader_R2857799",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Automation Project Leader",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Automation-Project-Leader_R2857799",
-      "posted_date": "2026-05-18",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Swiftwater-PA/Continuous-Improvement-Specialist-Lead--Support-Functions_R2844373-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -2886,6 +2847,19 @@
       "seniority": "Senior",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Continuous-Improvement-Specialist-Lead--Support-Functions_R2844373-1",
       "posted_date": "2026-03-16",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/DS-PCU-Specialist--Business-Systems_R2855869-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "DS PCU Specialist, Business Systems",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/DS-PCU-Specialist--Business-Systems_R2855869-1",
+      "posted_date": "2026-05-25",
       "source": "workday"
     },
     {
@@ -2912,19 +2886,6 @@
       "seniority": "Manager",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Manager--FFIP-Continuous-Improvement---Vaccines_R2855678-1",
       "posted_date": "2026-05-16",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Process-Engineer--Fill-Finish-_R2848352-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Process Engineer (Fill-Finish)",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Process-Engineer--Fill-Finish-_R2848352-1",
-      "posted_date": "2026-04-06",
       "source": "workday"
     },
     {
