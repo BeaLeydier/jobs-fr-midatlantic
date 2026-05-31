@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-30T08:44:04.240443+00:00",
-  "total": 523,
+  "last_updated": "2026-05-31T09:24:02.710424+00:00",
+  "total": 524,
   "jobs": [
+    {
+      "id": "sr-744000129297320",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "Assistant Front Office Manager",
+      "location": "Washington, Dc, Us",
+      "state": "DC",
+      "sector": "Hospitality & Services",
+      "seniority": "Manager",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000129297320",
+      "posted_date": "2026-05-30",
+      "source": "smartrecruiters"
+    },
     {
       "id": "sr-744000118917987",
       "company": "Accor",
@@ -198,15 +211,15 @@
       "source": "engie"
     },
     {
-      "id": "engie-58310-DC",
+      "id": "engie-59240-DC",
       "company": "Engie",
       "company_id": "engie",
-      "title": "Sales Manager",
-      "location": "Remote (DC)",
+      "title": "Senior Construction Manager",
+      "location": "Washington, DC",
       "state": "DC",
       "sector": "Energy & Environment",
       "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
+      "url": "https://jobs.engie.com/search/?q=Senior%20Construction%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -495,19 +508,6 @@
       "url": "https://jobs.keysight.com/",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "engie-58310-MD",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Sales Manager",
-      "location": "Remote (MD)",
-      "state": "MD",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
-      "posted_date": "",
-      "source": "engie"
     },
     {
       "id": "jsp-fives-in-149f3fef71836b1e",
@@ -2434,7 +2434,7 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-58310-PA",
+      "id": "engie-65084-PA",
       "company": "Engie",
       "company_id": "engie",
       "title": "Sales Manager",
@@ -2588,6 +2588,19 @@
       "url": "https://jobs.mersen.com/job/St-Marys-Production-Supervisor-PA-15857/1340642555/",
       "posted_date": "",
       "source": "j2w"
+    },
+    {
+      "id": "jsp-novares-in-ad77a6137a8863d7",
+      "company": "Novares",
+      "company_id": "novares",
+      "title": "Junior Production Planner",
+      "location": "Felton, PA",
+      "state": "PA",
+      "sector": "Manufacturing & Materials",
+      "seniority": "Entry Level",
+      "url": "https://careers.novaresteam.com/job/FELTON-Junior-Production-Planner-MN-17322/1349869957/",
+      "posted_date": "2026-01-09",
+      "source": "indeed"
     },
     {
       "id": "jsp-novares-in-e081f7804641687d",
@@ -3497,6 +3510,19 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/131A35DE71F74835B86862A24D13CA28/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2025-11-18",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-60ba8222e19a398a",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Transit Dispatcher",
+      "location": "Philadelphia, PA",
+      "state": "PA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/D905745395E243B5BDA969D1D2FBC7E5/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-05-30",
       "source": "indeed"
     },
     {
@@ -4784,19 +4810,6 @@
       "seniority": "Manager",
       "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/57517?source=Indeed",
       "posted_date": "2026-05-21",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-fareva-in-9ef570b4e0646aa7",
-      "company": "Fareva",
-      "company_id": "fareva",
-      "title": "Ops Mech I - Aerosols",
-      "location": "Henrico, VA",
-      "state": "VA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/21534?source=Indeed",
-      "posted_date": "2025-11-14",
       "source": "indeed"
     },
     {
