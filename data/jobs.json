@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-31T09:24:02.710424+00:00",
-  "total": 524,
+  "last_updated": "2026-06-01T11:58:16.482463+00:00",
+  "total": 520,
   "jobs": [
     {
       "id": "sr-744000129297320",
@@ -198,15 +198,15 @@
       "source": "engie"
     },
     {
-      "id": "engie-65244-DC",
+      "id": "engie-58310-DC",
       "company": "Engie",
       "company_id": "engie",
-      "title": "Health and Safety Analyst I",
-      "location": "Washington, DC",
+      "title": "Sales Manager",
+      "location": "Remote (DC)",
       "state": "DC",
       "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Health%20and%20Safety%20Analyst%20I",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -508,6 +508,19 @@
       "url": "https://jobs.keysight.com/",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "engie-58310-MD",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Sales Manager",
+      "location": "Remote (MD)",
+      "state": "MD",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
+      "posted_date": "",
+      "source": "engie"
     },
     {
       "id": "jsp-fives-in-149f3fef71836b1e",
@@ -2837,19 +2850,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Swiftwater-PA/DS-PCU-Specialist--Business-Systems_R2855869-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "DS PCU Specialist, Business Systems",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/DS-PCU-Specialist--Business-Systems_R2855869-1",
-      "posted_date": "2026-05-25",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Swiftwater-PA/Data-Science-Manager---Process-Analytics_R2856286-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -4163,19 +4163,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-ag-/job/Herndon-Area-VA/Technical-Data-Regional-Support-Analyst_JR10403671",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "Technical Data Regional Support Analyst",
-      "location": "Herndon Area, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Mid-level",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Technical-Data-Regional-Support-Analyst_JR10403671",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
       "id": "wd-ag-/job/Dulles-VA/Technology-Specialist---SAP-Functions_JR10407637",
       "company": "Airbus",
       "company_id": "airbus",
@@ -4761,19 +4748,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-fareva-in-651f19e8d0a2ad72",
-      "company": "Fareva",
-      "company_id": "fareva",
-      "title": "Facilities Supervisor",
-      "location": "Henrico, VA",
-      "state": "VA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/55572?source=Indeed",
-      "posted_date": "2026-05-12",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-fareva-in-d8310e8ae6910cb9",
       "company": "Fareva",
       "company_id": "fareva",
@@ -4835,19 +4809,6 @@
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Manager",
       "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/53102?source=Indeed",
-      "posted_date": "2026-05-01",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-fareva-in-aaf1b7b9a5abde66",
-      "company": "Fareva",
-      "company_id": "fareva",
-      "title": "Quality Assurance Supervisor",
-      "location": "Richmond, VA",
-      "state": "VA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/53106?source=Indeed",
       "posted_date": "2026-05-01",
       "source": "indeed"
     },
@@ -4991,19 +4952,6 @@
       "sector": "Energy & Environment",
       "seniority": "Lead/Principal",
       "url": "https://careers-framatome.icims.com/jobs/2994/ibr-principal-tooling-electrical-engineer/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
-      "id": "ic-careers-framatome-jobs-3024-infrastructure--26-cloud-ai-engineer-job",
-      "company": "Framatome",
-      "company_id": "framatome",
-      "title": "Infrastructure & Cloud AI Engineer",
-      "location": "Lynchburg, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://careers-framatome.icims.com/jobs/3024/infrastructure-%26-cloud-ai-engineer/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -5212,6 +5160,19 @@
       "sector": "Energy & Environment",
       "seniority": "Senior",
       "url": "https://careers-framatome.icims.com/jobs/2958/task-lead/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
+      "id": "ic-careers-framatome-jobs-2956-technical-specialist---metrology-technician-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "Technical Specialist - Metrology Technician",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://careers-framatome.icims.com/jobs/2956/technical-specialist---metrology-technician/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -6460,19 +6421,6 @@
       "sector": "Manufacturing & Materials",
       "seniority": "Manager",
       "url": "https://jobs.constellium.com/job/Ravenswood-Construction-Manager-WV-26164-0068/1255713301/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1365028833",
-      "company": "Constellium",
-      "company_id": "constellium",
-      "title": "Customer Application Engineer",
-      "location": "Ravenswood, WV",
-      "state": "WV",
-      "sector": "Manufacturing & Materials",
-      "seniority": "Mid-level",
-      "url": "https://jobs.constellium.com/job/Ravenswood-Customer-Application-Engineer-WV-26164-0068/1365028833/",
       "posted_date": "",
       "source": "j2w"
     },
