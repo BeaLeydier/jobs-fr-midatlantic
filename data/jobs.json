@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T10:16:38.957104+00:00",
-  "total": 441,
+  "last_updated": "2026-06-05T10:14:59.084212+00:00",
+  "total": 440,
   "jobs": [
     {
       "id": "sr-744000129297320",
@@ -78,19 +78,6 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/AccorHotel/744000127501958",
       "posted_date": "2026-05-20",
-      "source": "smartrecruiters"
-    },
-    {
-      "id": "sr-744000123211738",
-      "company": "Accor",
-      "company_id": "accor",
-      "title": "Cocktail Server (on-call)",
-      "location": "Washington, Dc, Us",
-      "state": "DC",
-      "sector": "Hospitality & Services",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000123211738",
-      "posted_date": "2026-04-27",
       "source": "smartrecruiters"
     },
     {
@@ -194,6 +181,32 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Health%20and%20Safety%20Analyst%20I",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-58310-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Sales Manager",
+      "location": "Remote (DC)",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-59240-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Senior Construction Manager",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Senior%20Construction%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -341,19 +354,6 @@
       "source": "manual_link"
     },
     {
-      "id": "ic-edf-DE",
-      "company": "EDF Renewables",
-      "company_id": "edf",
-      "title": "Voir les offres d'emploi →",
-      "location": "DE",
-      "state": "DE",
-      "sector": "Energy & Environment",
-      "seniority": "N/A",
-      "url": "https://careers-edf-re.icims.com/jobs/search?ss=1",
-      "posted_date": "",
-      "source": "manual_link"
-    },
-    {
       "id": "engie-65512-DE",
       "company": "Engie",
       "company_id": "engie",
@@ -458,17 +458,17 @@
       "source": "manual_link"
     },
     {
-      "id": "ic-edf-MD",
+      "id": "ic-careers-edf-re-jobs-4987-project-manager--e2-80-93-utility-scale-solar--2b-storage--5bhybrid-5d-job",
       "company": "EDF Renewables",
       "company_id": "edf",
-      "title": "Voir les offres d'emploi →",
-      "location": "MD",
+      "title": "Project Manager – Utility Scale Solar + Storage [Hybrid]",
+      "location": "Columbia, MD",
       "state": "MD",
       "sector": "Energy & Environment",
-      "seniority": "N/A",
-      "url": "https://careers-edf-re.icims.com/jobs/search?ss=1",
+      "seniority": "Manager",
+      "url": "https://careers-edf-re.icims.com/jobs/4987/project-manager-%e2%80%93-utility-scale-solar-%2b-storage-%5bhybrid%5d/job",
       "posted_date": "",
-      "source": "manual_link"
+      "source": "icims"
     },
     {
       "id": "jsp-esi-group-MD",
@@ -484,6 +484,19 @@
       "source": "manual_link"
     },
     {
+      "id": "engie-58310-MD",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Sales Manager",
+      "location": "Remote (MD)",
+      "state": "MD",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "jsp-fives-in-149f3fef71836b1e",
       "company": "Fives",
       "company_id": "fives",
@@ -494,6 +507,19 @@
       "seniority": "Mid-level",
       "url": "https://career.fivesgroup.com/career?company=fives&career_ns=job_listing&career_job_req_id=4826&lang=en_US&source=Indeed",
       "posted_date": "2025-12-01",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-fives-in-616e18a2a96e126c",
+      "company": "Fives",
+      "company_id": "fives",
+      "title": "CNC Machine Tool Technician - North East",
+      "location": "Hagerstown, MD",
+      "state": "MD",
+      "sector": "Industrial Engineering",
+      "seniority": "Mid-level",
+      "url": "https://career.fivesgroup.com/career?company=fives&career_ns=job_listing&career_job_req_id=3242&lang=en_US&source=Indeed",
+      "posted_date": "2025-09-26",
       "source": "indeed"
     },
     {
@@ -757,6 +783,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-transdev-in-e3345c5aea6b9044",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Building and Facilities Technician",
+      "location": "Baltimore, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/5AC4831F89404CDC8FB60A409A3D3C51/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-03-17",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-transdev-in-ad3e9f6f981d9556",
       "company": "Transdev",
       "company_id": "transdev",
@@ -780,19 +819,6 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/B0DB6EF837434A318B6D6251499D9CA5/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-01-22",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-transdev-in-99ccd6f1cd87ff9c",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "CDL Driver",
-      "location": "Rockville, MD",
-      "state": "MD",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/2387DED8A16744A19C455D6A46652E72/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2025-11-18",
       "source": "indeed"
     },
     {
@@ -1186,32 +1212,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-6d7631661364442a",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Service Bus Lane",
-      "location": "Silver Spring, MD",
-      "state": "MD",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/F119D39AD0894A16BBDB75B0789032A1/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2025-11-18",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-transdev-in-253ce646393a95b2",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Service Bus Lane",
-      "location": "Rockville, MD",
-      "state": "MD",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/9957FF953CC24BE8A9F380A6AB3F0644/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2025-11-18",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-transdev-in-93ca82a46a120a8c",
       "company": "Transdev",
       "company_id": "transdev",
@@ -1238,7 +1238,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-2ae32ef01372cf75",
+      "id": "jsp-transdev-in-11958176f564a8c2",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Shop Foreman",
@@ -1246,8 +1246,8 @@
       "state": "MD",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/EEC38571399D47DDBE0018B9DB5C42F2/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-05-22",
+      "url": "https://transdevna.jobs/9840E0D61DE649D69388555A9EC9CE76/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-06-04",
       "source": "indeed"
     },
     {
@@ -1589,19 +1589,6 @@
       "source": "smartrecruiters"
     },
     {
-      "id": "sr-744000126347800",
-      "company": "Accor",
-      "company_id": "accor",
-      "title": "Starbucks Barista",
-      "location": "Pittsburgh, Pa, Us",
-      "state": "PA",
-      "sector": "Hospitality & Services",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000126347800",
-      "posted_date": "2026-05-13",
-      "source": "smartrecruiters"
-    },
-    {
       "id": "sr-744000127961909",
       "company": "Accor",
       "company_id": "accor",
@@ -1758,15 +1745,28 @@
       "source": "workday"
     },
     {
+      "id": "j2w-jobs-1400800833",
+      "company": "Arkema",
+      "company_id": "arkema",
+      "title": "Assistant General Counsel - Intellectual Property",
+      "location": "Radnor, PA",
+      "state": "PA",
+      "sector": "Industrials & Chemicals",
+      "seniority": "Mid-level",
+      "url": "https://jobs.arkema.com/job/Radnor-Assistant-General-Counsel-Intellectual-Property-Job-PA/1400800833/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-jobs-1400045833",
       "company": "Arkema",
       "company_id": "arkema",
-      "title": "Chemist/Engineer",
+      "title": "Chemist",
       "location": "King Of Prussia, PA",
       "state": "PA",
       "sector": "Industrials & Chemicals",
       "seniority": "Mid-level",
-      "url": "https://jobs.arkema.com/job/King-of-Prussia-ChemistEngineer-Job-PA-19406/1400045833/",
+      "url": "https://jobs.arkema.com/job/King-of-Prussia-Chemist-Job-PA-19406/1400045833/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2027,19 +2027,6 @@
       "sector": "Technology & IT",
       "seniority": "N/A",
       "url": "https://www.3ds.com/careers/jobs",
-      "posted_date": "",
-      "source": "manual_link"
-    },
-    {
-      "id": "ic-edf-PA",
-      "company": "EDF Renewables",
-      "company_id": "edf",
-      "title": "Voir les offres d'emploi →",
-      "location": "PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "N/A",
-      "url": "https://careers-edf-re.icims.com/jobs/search?ss=1",
       "posted_date": "",
       "source": "manual_link"
     },
@@ -2564,6 +2551,19 @@
       "source": "manual_link"
     },
     {
+      "id": "jsp-schneider-electric-in-7355de9f07dd49dc",
+      "company": "Schneider Electric",
+      "company_id": "schneider-electric",
+      "title": "Customer Project Manager",
+      "location": "Philadelphia, PA",
+      "state": "PA",
+      "sector": "Technology & Energy",
+      "seniority": "Manager",
+      "url": "https://careers.se.com/jobs/121596/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "posted_date": "2026-06-04",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-schneider-electric-in-18a4e38124cc20c7",
       "company": "Schneider Electric",
       "company_id": "schneider-electric",
@@ -3042,6 +3042,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000129547989-customer-service-representative-",
       "posted_date": "2026-06-01",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-d3e6fe9c9b12efa8",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Director of Customer Operations",
+      "location": "Hummelstown, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Director/VP",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130295548-director-of-customer-operations",
+      "posted_date": "2026-06-04",
       "source": "indeed"
     },
     {
@@ -3565,6 +3578,19 @@
       "source": "workday"
     },
     {
+      "id": "wd-airliquidehr-/job/Richmond-Seppic-VA---Chemical-production/Shift-Supervisor_R10093287",
+      "company": "Air Liquide",
+      "company_id": "air-liquide",
+      "title": "Shift Supervisor",
+      "location": "Richmond Seppic, Va - Chemical Production",
+      "state": "VA",
+      "sector": "Industrials & Chemicals",
+      "seniority": "Mid-level",
+      "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Richmond-Seppic-VA---Chemical-production/Shift-Supervisor_R10093287",
+      "posted_date": "",
+      "source": "workday"
+    },
+    {
       "id": "wd-ag-/job/Herndon-Area-VA/A220-Supply-Chain-Quality-Manager---Propulsion--Hartford--CT-_JR10371441",
       "company": "Airbus",
       "company_id": "airbus",
@@ -3600,19 +3626,6 @@
       "sector": "Aerospace & Defense",
       "seniority": "Director/VP",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Director--Programs-Support---Engineering_JR10414427-1",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
-      "id": "wd-ag-/job/Herndon-Area-VA/Export-Control-Compliance-Manager_JR10411796",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "Export Control Compliance Manager",
-      "location": "Herndon Area, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Manager",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Export-Control-Compliance-Manager_JR10411796",
       "posted_date": "",
       "source": "workday"
     },
@@ -3743,19 +3756,6 @@
       "sector": "Aerospace & Defense",
       "seniority": "Mid-level",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Dulles-VA/Technology-Specialist---SAP-Functions_JR10407637",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
-      "id": "wd-ag-/job/Herndon-Area-VA/VIE-2026---USA---Aftermarket-Services-Regional-Intelligence-monitoring--m-f-_JR10402907",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "VIE 2026 - USA - Aftermarket Services Regional Intelligence monitoring (m/f)",
-      "location": "Herndon Area, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Mid-level",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/VIE-2026---USA---Aftermarket-Services-Regional-Intelligence-monitoring--m-f-_JR10402907",
       "posted_date": "",
       "source": "workday"
     },
@@ -3942,16 +3942,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-5c97b17cbc27b71c",
+      "id": "jsp-capgemini-in-2ef16b938abb1243",
       "company": "Capgemini",
       "company_id": "capgemini",
-      "title": "Senior IT Project Manager",
-      "location": "Mclean, VA",
+      "title": "Organizational Change Management Lead",
+      "location": "Richmond, VA",
       "state": "VA",
       "sector": "Technology & IT",
       "seniority": "Manager",
-      "url": "https://recruiting.ultipro.com/CAP1009CAPGE/JobBoard/5178abe8-537c-41a6-96cc-fce9104c8f2f/OpportunityDetail?opportunityId=5b0252da-8fe8-42de-816f-6f9fb19f31e8&postingId=221090b1-8996-4d70-97df-6d8aa8f7f19b",
-      "posted_date": "2026-05-26",
+      "url": "https://apply.workable.com/j/5E258DEE6F",
+      "posted_date": "2026-06-04",
       "source": "indeed"
     },
     {
@@ -4094,19 +4094,6 @@
       "sector": "Industrial Distribution",
       "seniority": "N/A",
       "url": "https://en.descours-cabaud-carrieres.com/",
-      "posted_date": "",
-      "source": "manual_link"
-    },
-    {
-      "id": "ic-edf-VA",
-      "company": "EDF Renewables",
-      "company_id": "edf",
-      "title": "Voir les offres d'emploi →",
-      "location": "VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "N/A",
-      "url": "https://careers-edf-re.icims.com/jobs/search?ss=1",
       "posted_date": "",
       "source": "manual_link"
     },
@@ -4497,6 +4484,19 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://careers-framatome.icims.com/jobs/2999/project-engineering-supervisor---component-repair-%26-replacement/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
+      "id": "ic-careers-framatome-jobs-3087-service-technician-i-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "Service Technician I",
+      "location": "Christiansburg, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://careers-framatome.icims.com/jobs/3087/service-technician-i/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -5628,19 +5628,6 @@
       "sector": "Manufacturing & Materials",
       "seniority": "N/A",
       "url": "https://jobs.constellium.com/search/?q=&locationsearch=United+States",
-      "posted_date": "",
-      "source": "manual_link"
-    },
-    {
-      "id": "ic-edf-WV",
-      "company": "EDF Renewables",
-      "company_id": "edf",
-      "title": "Voir les offres d'emploi →",
-      "location": "WV",
-      "state": "WV",
-      "sector": "Energy & Environment",
-      "seniority": "N/A",
-      "url": "https://careers-edf-re.icims.com/jobs/search?ss=1",
       "posted_date": "",
       "source": "manual_link"
     },
