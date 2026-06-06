@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T10:14:59.084212+00:00",
-  "total": 440,
+  "last_updated": "2026-06-06T08:52:59.129545+00:00",
+  "total": 445,
   "jobs": [
     {
       "id": "sr-744000129297320",
@@ -133,6 +133,19 @@
       "source": "smartrecruiters"
     },
     {
+      "id": "sr-744000130501860",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "Lobby Lounge Server",
+      "location": "Washington, Dc, Us",
+      "state": "DC",
+      "sector": "Hospitality & Services",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000130501860",
+      "posted_date": "2026-06-05",
+      "source": "smartrecruiters"
+    },
+    {
       "id": "jsp-arcelormittal-DC",
       "company": "ArcelorMittal",
       "company_id": "arcelormittal",
@@ -170,19 +183,6 @@
       "url": "https://group.bnpparibas/en/careers",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "engie-65244-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Health and Safety Analyst I",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Health%20and%20Safety%20Analyst%20I",
-      "posted_date": "",
-      "source": "engie"
     },
     {
       "id": "engie-58310-DC",
@@ -666,6 +666,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-schneider-electric-in-9692f052e1fa9d02",
+      "company": "Schneider Electric",
+      "company_id": "schneider-electric",
+      "title": "Key Account Manager",
+      "location": "Baltimore, MD",
+      "state": "MD",
+      "sector": "Technology & Energy",
+      "seniority": "Manager",
+      "url": "https://careers.se.com/jobs/113903/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "posted_date": "2026-05-27",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-schneider-electric-in-1764173681c532f6",
       "company": "Schneider Electric",
       "company_id": "schneider-electric",
@@ -1056,19 +1069,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-7fa850d9f5140f2c",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Operation Manager",
-      "location": "Bel Air, MD",
-      "state": "MD",
-      "sector": "Transportation & Logistics",
-      "seniority": "Manager",
-      "url": "https://transdevna.jobs/16CB6DA3E4A04E5D87A4F11E0DDC22B7/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-05-29",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-transdev-in-a108c9a376345c8a",
       "company": "Transdev",
       "company_id": "transdev",
@@ -1212,6 +1212,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-transdev-in-6d7631661364442a",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Service Bus Lane",
+      "location": "Silver Spring, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/F119D39AD0894A16BBDB75B0789032A1/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2025-11-18",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-transdev-in-93ca82a46a120a8c",
       "company": "Transdev",
       "company_id": "transdev",
@@ -1327,19 +1340,6 @@
       "url": "https://vinci-groupe.profils.org/job/list-of-all-jobs.aspx?changefacet=1&facet_JobCountry=76",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "sr-744000113020687",
-      "company": "Accor",
-      "company_id": "accor",
-      "title": "Banquet Houseperson/Set-Up (Full-Time/Flexible)",
-      "location": "Philadelphia, Pa, Us",
-      "state": "PA",
-      "sector": "Hospitality & Services",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000113020687",
-      "posted_date": "2026-03-05",
-      "source": "smartrecruiters"
     },
     {
       "id": "sr-744000122759180",
@@ -1508,6 +1508,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/AccorHotel/744000128548099",
       "posted_date": "2026-05-26",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "sr-744000130507298",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "Overnight Stewarding / Public Space Supervisor",
+      "location": "Pittsburgh, Pa, Us",
+      "state": "PA",
+      "sector": "Hospitality & Services",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000130507298",
+      "posted_date": "2026-06-05",
       "source": "smartrecruiters"
     },
     {
@@ -1771,6 +1784,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-jobs-1401453133",
+      "company": "Arkema",
+      "company_id": "arkema",
+      "title": "Customs and Export Specialist",
+      "location": "Radnor, PA",
+      "state": "PA",
+      "sector": "Industrials & Chemicals",
+      "seniority": "Mid-level",
+      "url": "https://jobs.arkema.com/job/Radnor-Customs-and-Export-Specialist-Job-PA/1401453133/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-jobs-1389409333",
       "company": "Arkema",
       "company_id": "arkema",
@@ -1989,19 +2015,6 @@
       "seniority": "Mid-level",
       "url": "https://capgemini.talentnet.community/jobs/331307bc-e120-4db3-ae68-74e6f2fe65d5",
       "posted_date": "2026-05-14",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-capgemini-in-237ab5c56248157e",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Wi - Fi Test and Automation Engineer",
-      "location": "Philadelphia, PA",
-      "state": "PA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/497f6244-3c05-4db5-a125-2cfc247222ec",
-      "posted_date": "2026-05-13",
       "source": "indeed"
     },
     {
@@ -2369,6 +2382,19 @@
       "source": "workday"
     },
     {
+      "id": "wd-sanofi-/job/Moosic-PA/Associate-Director-of-Retail-Marketing_R2858143-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Associate Director of Retail Marketing",
+      "location": "Moosic, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Director/VP",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Moosic-PA/Associate-Director-of-Retail-Marketing_R2858143-1",
+      "posted_date": "2026-06-06",
+      "source": "workday"
+    },
+    {
       "id": "wd-sanofi-/job/Swiftwater-PA/Automation-Engineer_R2832322",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -2678,6 +2704,19 @@
       "seniority": "Mid-level",
       "url": "https://careers.se.com/jobs/116854/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2026-05-12",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-schneider-electric-in-363b997faa35b96f",
+      "company": "Schneider Electric",
+      "company_id": "schneider-electric",
+      "title": "WSA Team Lead",
+      "location": "Mechanicsburg, PA",
+      "state": "PA",
+      "sector": "Technology & Energy",
+      "seniority": "Senior",
+      "url": "https://careers.se.com/jobs/122253/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "posted_date": "2026-06-05",
       "source": "indeed"
     },
     {
@@ -3162,19 +3201,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-347903d840a55716",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Inventory Planner",
-      "location": "Trevose, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000129033588-inventory-planner",
-      "posted_date": "2026-05-28",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-veolia-in-adf8a2d1b64e09f9",
       "company": "Veolia",
       "company_id": "veolia",
@@ -3617,15 +3643,15 @@
       "source": "workday"
     },
     {
-      "id": "wd-ag-/job/Herndon-Area-VA/Director--Programs-Support---Engineering_JR10414427-1",
+      "id": "wd-ag-/job/Herndon-Area-VA/Export-Control-Compliance-Manager_JR10411796",
       "company": "Airbus",
       "company_id": "airbus",
-      "title": "Director, Programs Support & Engineering",
+      "title": "Export Control Compliance Manager",
       "location": "Herndon Area, Va",
       "state": "VA",
       "sector": "Aerospace & Defense",
-      "seniority": "Director/VP",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Director--Programs-Support---Engineering_JR10414427-1",
+      "seniority": "Manager",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Export-Control-Compliance-Manager_JR10411796",
       "posted_date": "",
       "source": "workday"
     },
@@ -3656,6 +3682,19 @@
       "source": "workday"
     },
     {
+      "id": "wd-ag-/job/Herndon-VA/Head-of-A220-Program-Operations_JR10417836",
+      "company": "Airbus",
+      "company_id": "airbus",
+      "title": "Head of A220 Program Operations",
+      "location": "Herndon, Va",
+      "state": "VA",
+      "sector": "Aerospace & Defense",
+      "seniority": "Director/VP",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-VA/Head-of-A220-Program-Operations_JR10417836",
+      "posted_date": "",
+      "source": "workday"
+    },
+    {
       "id": "wd-ag-/job/Herndon-Area-VA/Head-of-Business-Development-North-America_JR10414736",
       "company": "Airbus",
       "company_id": "airbus",
@@ -3678,6 +3717,19 @@
       "sector": "Aerospace & Defense",
       "seniority": "Director/VP",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Dulles-VA/Head-of-Logistics-Americas_JR10403859-1",
+      "posted_date": "",
+      "source": "workday"
+    },
+    {
+      "id": "wd-ag-/job/Dulles-VA/Kitting-Operations-Technician--Contract-_JR10417790",
+      "company": "Airbus",
+      "company_id": "airbus",
+      "title": "Kitting Operations Technician (Contract)",
+      "location": "Dulles, Va",
+      "state": "VA",
+      "sector": "Aerospace & Defense",
+      "seniority": "Mid-level",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Dulles-VA/Kitting-Operations-Technician--Contract-_JR10417790",
       "posted_date": "",
       "source": "workday"
     },
@@ -3769,6 +3821,19 @@
       "sector": "Aerospace & Defense",
       "seniority": "Mid-level",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-VA/VIE-2026-USA-TechData-proximity-support-for-US-customers--ALL-GENDER-_JR10406571",
+      "posted_date": "",
+      "source": "workday"
+    },
+    {
+      "id": "wd-ag-/job/Dulles-VA/Warehouse-Operator--Contract-_JR10405221",
+      "company": "Airbus",
+      "company_id": "airbus",
+      "title": "Warehouse Operator (Contract)",
+      "location": "Dulles, Va",
+      "state": "VA",
+      "sector": "Aerospace & Defense",
+      "seniority": "Mid-level",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Dulles-VA/Warehouse-Operator--Contract-_JR10405221",
       "posted_date": "",
       "source": "workday"
     },
@@ -3929,6 +3994,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-capgemini-in-d16fa609c2816f2b",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Network Support Engineer",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://capgemini.talentnet.community/jobs/94d391ae-eeb8-4c19-a0a4-c4ec8b2d9977",
+      "posted_date": "2026-06-05",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-capgemini-in-3a349cec2835be09",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -4030,19 +4108,6 @@
       "seniority": "Senior",
       "url": "https://recruiting.ultipro.com/CAP1009CAPGE/JobBoard/5178abe8-537c-41a6-96cc-fce9104c8f2f/OpportunityDetail?opportunityId=94303548-29cf-415e-add6-4e4c0914ec49&postingId=6776d115-f1a7-44b3-98ef-eda19728fc7a",
       "posted_date": "2026-05-19",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-capgemini-in-d4db4660521047a8",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "TrakSYS Support Engineer",
-      "location": "Richmond, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/1b64bb6d-8449-451a-b04f-87c6097dac2a",
-      "posted_date": "2026-05-13",
       "source": "indeed"
     },
     {
@@ -4306,19 +4371,6 @@
       "source": "icims"
     },
     {
-      "id": "ic-careers-framatome-jobs-3062-data-specialist-job",
-      "company": "Framatome",
-      "company_id": "framatome",
-      "title": "Data Specialist",
-      "location": "Christiansburg, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://careers-framatome.icims.com/jobs/3062/data-specialist/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
       "id": "ic-careers-framatome-jobs-3099-experienced-reactor-service-technician-job",
       "company": "Framatome",
       "company_id": "framatome",
@@ -4523,6 +4575,19 @@
       "sector": "Energy & Environment",
       "seniority": "Senior",
       "url": "https://careers-framatome.icims.com/jobs/3068/sr-talent-development-specialist/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
+      "id": "ic-careers-framatome-jobs-3092-stearns-roger-services-product-line-manager-i-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "Stearns Roger Services Product Line Manager I",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://careers-framatome.icims.com/jobs/3092/stearns-roger-services-product-line-manager-i/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -5562,8 +5627,8 @@
       "state": "VA",
       "sector": "Energy & Environment",
       "seniority": "Manager",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000129534698-warehouse-manager",
-      "posted_date": "2026-06-01",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130547880-warehouse-manager",
+      "posted_date": "2026-06-05",
       "source": "indeed"
     },
     {
