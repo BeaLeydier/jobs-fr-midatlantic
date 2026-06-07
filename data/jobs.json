@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-06T08:52:59.129545+00:00",
-  "total": 445,
+  "last_updated": "2026-06-07T09:37:18.625961+00:00",
+  "total": 447,
   "jobs": [
     {
       "id": "sr-744000129297320",
@@ -91,6 +91,19 @@
       "seniority": "Director/VP",
       "url": "https://jobs.smartrecruiters.com/AccorHotel/744000127252375",
       "posted_date": "2026-05-19",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "sr-744000130638797",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "Executive Meeting Manager",
+      "location": "Washington, Dc, Us",
+      "state": "DC",
+      "sector": "Hospitality & Services",
+      "seniority": "Manager",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000130638797",
+      "posted_date": "2026-06-06",
       "source": "smartrecruiters"
     },
     {
@@ -3665,6 +3678,19 @@
       "sector": "Aerospace & Defense",
       "seniority": "Mid-level",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/HR-Data-Engineer--Contract_JR10416618",
+      "posted_date": "",
+      "source": "workday"
+    },
+    {
+      "id": "wd-ag-/job/Herndon-Area-VA/HRBP-III_JR10417475",
+      "company": "Airbus",
+      "company_id": "airbus",
+      "title": "HRBP III",
+      "location": "Herndon Area, Va",
+      "state": "VA",
+      "sector": "Aerospace & Defense",
+      "seniority": "Mid-level",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/HRBP-III_JR10417475",
       "posted_date": "",
       "source": "workday"
     },
