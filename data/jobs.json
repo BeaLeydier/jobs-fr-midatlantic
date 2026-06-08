@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-07T09:37:18.625961+00:00",
-  "total": 447,
+  "last_updated": "2026-06-08T11:21:00.572620+00:00",
+  "total": 444,
   "jobs": [
     {
       "id": "sr-744000129297320",
@@ -198,15 +198,15 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-58310-DC",
+      "id": "engie-65244-DC",
       "company": "Engie",
       "company_id": "engie",
-      "title": "Sales Manager",
-      "location": "Remote (DC)",
+      "title": "Health and Safety Analyst I",
+      "location": "Washington, DC",
       "state": "DC",
       "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Health%20and%20Safety%20Analyst%20I",
       "posted_date": "",
       "source": "engie"
     },
@@ -367,19 +367,6 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-65512-DE",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Solar Technician II - Solidago Solar Site",
-      "location": "Dover, DE",
-      "state": "DE",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II%20-%20Solidago%20Solar%20Site",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "wd-roquette-/job/Wilmington/Senior-Financial-Controller_R0025844-1",
       "company": "Roquette",
       "company_id": "roquette",
@@ -495,19 +482,6 @@
       "url": "https://jobs.keysight.com/",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "engie-58310-MD",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Sales Manager",
-      "location": "Remote (MD)",
-      "state": "MD",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
-      "posted_date": "",
-      "source": "engie"
     },
     {
       "id": "jsp-fives-in-149f3fef71836b1e",
@@ -5396,19 +5370,6 @@
       "url": "https://transdevna.jobs/23E629CC81374B75929F61E5C22DE764/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-03-25",
       "source": "indeed"
-    },
-    {
-      "id": "wd-valeo-/job/Norfolk-VA/Regional-Sales-Manager_REQ2026069324-1",
-      "company": "Valeo",
-      "company_id": "valeo",
-      "title": "Regional Sales Manager",
-      "location": "Norfolk, Va",
-      "state": "VA",
-      "sector": "Automotive",
-      "seniority": "Manager",
-      "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Norfolk-VA/Regional-Sales-Manager_REQ2026069324-1",
-      "posted_date": "",
-      "source": "workday"
     },
     {
       "id": "jsp-veolia-in-7af6ffcea4045aab",
