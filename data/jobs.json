@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T10:24:07.188406+00:00",
-  "total": 522,
+  "last_updated": "2026-06-11T10:59:00.105821+00:00",
+  "total": 525,
   "jobs": [
     {
       "id": "sr-744000129297320",
@@ -224,19 +224,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-58310-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Sales Manager",
-      "location": "Remote (DC)",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "engie-59240-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -300,6 +287,19 @@
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Washington-DC/National-Sales-Network---Conference-and-Career-Fair-in-Washington--DC---August-12-14--2026_R2858134",
       "posted_date": "2026-05-20",
       "source": "workday"
+    },
+    {
+      "id": "ic-sodexo-DC",
+      "company": "Sodexo",
+      "company_id": "sodexo",
+      "title": "Voir les offres d'emploi →",
+      "location": "DC",
+      "state": "DC",
+      "sector": "Hospitality & Services",
+      "seniority": "N/A",
+      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
+      "posted_date": "",
+      "source": "manual_link"
     },
     {
       "id": "profils-vinci-DC",
@@ -419,6 +419,19 @@
       "source": "engie"
     },
     {
+      "id": "ic-sodexo-DE",
+      "company": "Sodexo",
+      "company_id": "sodexo",
+      "title": "Voir les offres d'emploi →",
+      "location": "DE",
+      "state": "DE",
+      "sector": "Hospitality & Services",
+      "seniority": "N/A",
+      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
+      "posted_date": "",
+      "source": "manual_link"
+    },
+    {
       "id": "jsp-veolia-in-116d664fbf393164",
       "company": "Veolia",
       "company_id": "veolia",
@@ -534,19 +547,6 @@
       "url": "https://jobs.keysight.com/",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "engie-58310-MD",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Sales Manager",
-      "location": "Remote (MD)",
-      "state": "MD",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
-      "posted_date": "",
-      "source": "engie"
     },
     {
       "id": "jsp-fives-in-149f3fef71836b1e",
@@ -742,6 +742,19 @@
       "url": "https://careers.se.com/jobs/108496/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2026-02-20",
       "source": "indeed"
+    },
+    {
+      "id": "ic-sodexo-MD",
+      "company": "Sodexo",
+      "company_id": "sodexo",
+      "title": "Voir les offres d'emploi →",
+      "location": "MD",
+      "state": "MD",
+      "sector": "Hospitality & Services",
+      "seniority": "N/A",
+      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
+      "posted_date": "",
+      "source": "manual_link"
     },
     {
       "id": "j2w-career-1401043733",
@@ -991,6 +1004,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-career-1402520133",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Picker / Packer Warehouse Associate",
+      "location": "Upper Marlboro, MD",
+      "state": "MD",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Upper-Marlboro-Picker-Packer-Warehouse-Associate-MD-20774/1402520133/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-career-1268713001",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -1117,19 +1143,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Upper-Marlboro-Vendor-Returns-Specialist-MD-20774/1383339633/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1402520133",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Warehouse Packer",
-      "location": "Upper Marlboro, MD",
-      "state": "MD",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Upper-Marlboro-Warehouse-Packer-MD-20774/1402520133/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -1862,16 +1875,16 @@
       "source": "smartrecruiters"
     },
     {
-      "id": "sr-744000131157217",
+      "id": "sr-744000131463407",
       "company": "Accor",
       "company_id": "accor",
-      "title": "Overnight Stewarding / Public Space Supervisor",
+      "title": "Overnight Supervisor",
       "location": "Pittsburgh, Pa, Us",
       "state": "PA",
       "sector": "Hospitality & Services",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000131157217",
-      "posted_date": "2026-06-09",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000131463407",
+      "posted_date": "2026-06-10",
       "source": "smartrecruiters"
     },
     {
@@ -2213,19 +2226,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-jobs-1402393333",
-      "company": "Arkema",
-      "company_id": "arkema",
-      "title": "Senior Staff Technician - Polymers",
-      "location": "King Of Prussia, PA",
-      "state": "PA",
-      "sector": "Industrials & Chemicals",
-      "seniority": "Lead/Principal",
-      "url": "https://jobs.arkema.com/job/King-of-Prussia-Senior-Staff-Technician-Polymers-Job-PA-19406/1402393333/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "jsp-bnp-paribas-PA",
       "company": "BNP Paribas",
       "company_id": "bnp-paribas",
@@ -2250,6 +2250,19 @@
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Harrisburg_-Pa-Field-Sales-Executive-III-EWR-PA-17101/1388539533/",
       "posted_date": "",
       "source": "j2w"
+    },
+    {
+      "id": "jsp-capgemini-in-0c3609c2ba646849",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "AWS Cloud Developer",
+      "location": "Malvern, PA",
+      "state": "PA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://capgemini.talentnet.community/jobs/cbf4ea12-97c2-4105-ae40-538c9c664aec",
+      "posted_date": "2026-06-10",
+      "source": "indeed"
     },
     {
       "id": "jsp-capgemini-in-4928b368b449b0c5",
@@ -2340,19 +2353,6 @@
       "seniority": "Mid-level",
       "url": "https://capgemini.talentnet.community/jobs/4e638ef1-7dde-4c64-8e8a-d1d755ada81e",
       "posted_date": "2026-05-19",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-capgemini-in-854170d627a5e385",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Solution Architect",
-      "location": "Erie, PA",
-      "state": "PA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/4a25f340-e4f0-4a6e-9666-865b2595e12f",
-      "posted_date": "2026-05-22",
       "source": "indeed"
     },
     {
@@ -2473,17 +2473,17 @@
       "source": "manual_link"
     },
     {
-      "id": "ic-legrand-PA",
+      "id": "ic-jobs-legrand-jobs-10124-applications-engineer-ii--28remote-29-job",
       "company": "Legrand",
       "company_id": "legrand",
-      "title": "Voir les offres d'emploi →",
-      "location": "PA",
+      "title": "Applications Engineer II (REMOTE)",
+      "location": "Canonsburg, PA",
       "state": "PA",
       "sector": "Manufacturing & Materials",
-      "seniority": "N/A",
-      "url": "https://jobs-legrand.icims.com/jobs/search?ss=1",
+      "seniority": "Mid-level",
+      "url": "https://jobs-legrand.icims.com/jobs/10124/applications-engineer-ii-%28remote%29/job",
       "posted_date": "",
-      "source": "manual_link"
+      "source": "icims"
     },
     {
       "id": "j2w-jobs-1345872555",
@@ -2521,19 +2521,6 @@
       "sector": "Manufacturing & Materials",
       "seniority": "Mid-level",
       "url": "https://jobs.mersen.com/job/St-Marys-General-Laborer-PA-15857/1348703455/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1340642555",
-      "company": "Mersen",
-      "company_id": "mersen",
-      "title": "Production Supervisor",
-      "location": "St Marys, PA",
-      "state": "PA",
-      "sector": "Manufacturing & Materials",
-      "seniority": "Mid-level",
-      "url": "https://jobs.mersen.com/job/St-Marys-Production-Supervisor-PA-15857/1340642555/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2798,19 +2785,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Data-Science-Manager---Process-Analytics_R2856286-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Data Science Manager - Process Analytics",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Manager",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Data-Science-Manager---Process-Analytics_R2856286-1",
-      "posted_date": "2026-05-23",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Swiftwater-PA/Manager--FFIP-Continuous-Improvement---Vaccines_R2855678-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -2833,7 +2807,7 @@
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Mid-level",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Production-Technician_R2844837-1",
-      "posted_date": "2026-06-09",
+      "posted_date": "2026-06-10",
       "source": "workday"
     },
     {
@@ -2847,19 +2821,6 @@
       "seniority": "Manager",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Project-manager-CI-Inspection_R2847163",
       "posted_date": "2026-04-23",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Swiftwater-PA/QC-Key-User_R2854535-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "QC Key User",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/QC-Key-User_R2854535-1",
-      "posted_date": "2026-05-13",
       "source": "workday"
     },
     {
@@ -3097,17 +3058,17 @@
       "source": "indeed"
     },
     {
-      "id": "ic-external-careers-sodexo-jobs-988564-airline-lounges-general-manager-job",
+      "id": "ic-sodexo-PA",
       "company": "Sodexo",
       "company_id": "sodexo",
-      "title": "Airline Lounges General Manager",
-      "location": "Philadelphia, PA",
+      "title": "Voir les offres d'emploi →",
+      "location": "PA",
       "state": "PA",
       "sector": "Hospitality & Services",
-      "seniority": "Manager",
-      "url": "https://external-careers-sodexo.icims.com/jobs/988564/airline-lounges-general-manager/job",
+      "seniority": "N/A",
+      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
       "posted_date": "",
-      "source": "icims"
+      "source": "manual_link"
     },
     {
       "id": "j2w-career-1393069733",
@@ -3500,19 +3461,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-e32e9c2d1f699153",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Change Management Manager",
-      "location": "King Of Prussia, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000129495429-change-management-manager",
-      "posted_date": "2026-06-01",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-veolia-in-c98ad432e414167e",
       "company": "Veolia",
       "company_id": "veolia",
@@ -3656,7 +3604,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-45743fc126e80423",
+      "id": "jsp-veolia-in-403766aa77171633",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Lab Pack Program Specialist",
@@ -3664,8 +3612,8 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000129548738-lab-pack-program-specialist",
-      "posted_date": "2026-06-01",
+      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000131505736-lab-pack-program-specialist",
+      "posted_date": "2026-06-10",
       "source": "indeed"
     },
     {
@@ -3742,8 +3690,8 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000129990970-pmo-analyst",
-      "posted_date": "2026-06-03",
+      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000131444177-pmo-analyst",
+      "posted_date": "2026-06-10",
       "source": "indeed"
     },
     {
@@ -3809,6 +3757,19 @@
       "seniority": "Manager",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000107352071-senior-category-management-raw-chemicals",
       "posted_date": "2026-02-04",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-c532a994404d11c2",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Senior Digital Program Manager - Internal Communications",
+      "location": "King Of Prussia, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000131540644-senior-digital-program-manager-internal-communications",
+      "posted_date": "2026-06-10",
       "source": "indeed"
     },
     {
@@ -4228,6 +4189,19 @@
       "source": "workday"
     },
     {
+      "id": "wd-ag-/job/Herndon-Area-VA/Technical-Data-Regional-Support-Analyst_JR10384059-1",
+      "company": "Airbus",
+      "company_id": "airbus",
+      "title": "Technical Data Regional Support Analyst",
+      "location": "Herndon Area, Va",
+      "state": "VA",
+      "sector": "Aerospace & Defense",
+      "seniority": "Mid-level",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Technical-Data-Regional-Support-Analyst_JR10384059-1",
+      "posted_date": "",
+      "source": "workday"
+    },
+    {
       "id": "wd-ag-/job/Dulles-VA/Technology-Specialist---SAP-Functions_JR10407637",
       "company": "Airbus",
       "company_id": "airbus",
@@ -4332,6 +4306,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-jobs-1403014333",
+      "company": "CMA CGM",
+      "company_id": "cma-cgm",
+      "title": "Business Process Manager",
+      "location": "Norfolk Va, Us",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Manager",
+      "url": "https://jobs.cmacgm-group.com/APL/job/Norfolk-Va-Business-Process-Manager-VA-23501/1403014333/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-jobs-1392867733",
       "company": "CMA CGM",
       "company_id": "cma-cgm",
@@ -4419,6 +4406,19 @@
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Springfield-Gardens_-Ny-Import-Agent-Springfield-Gardens%2C-NY-NY-11413/1400594633/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-jobs-1402986833",
+      "company": "CMA CGM",
+      "company_id": "cma-cgm",
+      "title": "Intermodal Coordinator (Truck)",
+      "location": "Norfolk Va, Us",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Intermodal-Coordinator-%28Truck%29-VA-23501/1402986833/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -4709,15 +4709,15 @@
       "source": "icims"
     },
     {
-      "id": "ic-enusapply-danone-jobs-25280-reliability-technician--28maintenance-mechanic-29---night-shift-job",
+      "id": "ic-enusapply-danone-jobs-26051-warehouse-supervisor---day-night-relief-job",
       "company": "Danone",
       "company_id": "danone",
-      "title": "Reliability Technician (Maintenance Mechanic) - Night Shift",
+      "title": "Warehouse Supervisor - Day/Night Relief",
       "location": "Mount Crawford, VA",
       "state": "VA",
       "sector": "Food & Beverage",
       "seniority": "Mid-level",
-      "url": "https://enusapply-danone.icims.com/jobs/25280/reliability-technician-%28maintenance-mechanic%29---night-shift/job",
+      "url": "https://enusapply-danone.icims.com/jobs/26051/warehouse-supervisor---day-night-relief/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -4823,6 +4823,19 @@
       "seniority": "Manager",
       "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/57517?source=Indeed",
       "posted_date": "2026-05-21",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-fareva-in-0af455ab091ace13",
+      "company": "Fareva",
+      "company_id": "fareva",
+      "title": "Ops Mech I",
+      "location": "Henrico, VA",
+      "state": "VA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/61470?source=Indeed",
+      "posted_date": "2026-06-10",
       "source": "indeed"
     },
     {
@@ -5004,6 +5017,19 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://careers-framatome.icims.com/jobs/3058/mechanical-engineer---temporary/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
+      "id": "ic-careers-framatome-jobs-3127-nde-automated-ut-level-iii-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "NDE Automated UT Level III",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://careers-framatome.icims.com/jobs/3127/nde-automated-ut-level-iii/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -5526,6 +5552,19 @@
       "url": "https://careers.se.com/jobs/112285/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2026-04-30",
       "source": "indeed"
+    },
+    {
+      "id": "ic-sodexo-VA",
+      "company": "Sodexo",
+      "company_id": "sodexo",
+      "title": "Voir les offres d'emploi →",
+      "location": "VA",
+      "state": "VA",
+      "sector": "Hospitality & Services",
+      "seniority": "N/A",
+      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
+      "posted_date": "",
+      "source": "manual_link"
     },
     {
       "id": "j2w-career-1379085733",
@@ -6204,19 +6243,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-74021b8409fd63eb",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Field Service Technician I",
-      "location": "Hampton, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000124930104-field-service-technician-i",
-      "posted_date": "2026-05-06",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-veolia-in-3f0b082cdecbb2b7",
       "company": "Veolia",
       "company_id": "veolia",
@@ -6722,6 +6748,19 @@
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Charleston-WV/Area-Business-Manager--Charleston--WV_R2858470",
       "posted_date": "2026-05-22",
       "source": "workday"
+    },
+    {
+      "id": "ic-sodexo-WV",
+      "company": "Sodexo",
+      "company_id": "sodexo",
+      "title": "Voir les offres d'emploi →",
+      "location": "WV",
+      "state": "WV",
+      "sector": "Hospitality & Services",
+      "seniority": "N/A",
+      "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
+      "posted_date": "",
+      "source": "manual_link"
     },
     {
       "id": "jsp-veolia-in-356d4925b5afad65",
