@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-13T09:35:26.578917+00:00",
-  "total": 535,
+  "last_updated": "2026-06-14T09:57:04.817696+00:00",
+  "total": 538,
   "jobs": [
     {
       "id": "sr-744000129297320",
@@ -237,19 +237,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-59240-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Senior Construction Manager",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Senior%20Construction%20Manager",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "tt-free2move-DC",
       "company": "Free2Move",
       "company_id": "free2move",
@@ -365,19 +352,6 @@
       "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Newport-DE-MEDAL---Manufacturing---Production/Manufacturing-Operator_R10093736",
       "posted_date": "",
       "source": "workday"
-    },
-    {
-      "id": "jsp-alstom-in-c9f3f93bbd286feb",
-      "company": "Alstom",
-      "company_id": "alstom",
-      "title": "Lead Design Engineer",
-      "location": "New Castle, DE",
-      "state": "DE",
-      "sector": "Transportation & Rail",
-      "seniority": "Senior",
-      "url": "https://jobsearch.alstom.com/job/New-Castle-Lead-Design-Engineer-DE/1402136733/",
-      "posted_date": "2026-06-08",
-      "source": "indeed"
     },
     {
       "id": "jsp-alstom-in-2371f2cd806cbcad",
@@ -1758,7 +1732,7 @@
       "source": "smartrecruiters"
     },
     {
-      "id": "sr-744000116189178",
+      "id": "sr-744000132032879",
       "company": "Accor",
       "company_id": "accor",
       "title": "Chef de Partie",
@@ -1766,8 +1740,8 @@
       "state": "PA",
       "sector": "Hospitality & Services",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000116189178",
-      "posted_date": "2026-03-23",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000132032879",
+      "posted_date": "2026-06-13",
       "source": "smartrecruiters"
     },
     {
@@ -2445,19 +2419,6 @@
       "url": "https://www.3ds.com/careers/jobs",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "engie-65084-PA",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Sales Manager",
-      "location": "Remote (PA)",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
-      "posted_date": "",
-      "source": "engie"
     },
     {
       "id": "jsp-eurovia-PA",
@@ -4527,6 +4488,45 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-capgemini-in-c2bcca6628e51aca",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "CIS Sales Leader",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://www.capgemini.com/jobs/403840-en_US_SAPBTP/",
+      "posted_date": "2026-02-10",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-ec6772273f05891c",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Cloud Network Security Architect - AWS / Zero Trust",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://www.capgemini.com/jobs/471083-en_US_SAPBTP/",
+      "posted_date": "2026-05-08",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-e5e144c83e76e1e4",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Engagement Executive - Finance & Accounting Transformation",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://www.capgemini.com/jobs/470192-en_GB_SAPBTP/",
+      "posted_date": "2026-05-14",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-capgemini-in-e53b8260879c2a93",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -4566,6 +4566,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-capgemini-in-7c0259970fa3b711",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "IAM Architect - AWS",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://www.capgemini.com/jobs/471086-en_US_SAPBTP/",
+      "posted_date": "2026-05-08",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-capgemini-in-d65397e4b5438c50",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -4589,6 +4602,32 @@
       "seniority": "Senior",
       "url": "https://capgemini.talentnet.community/jobs/04800f9d-3cff-4864-bf3f-154479ec56b1",
       "posted_date": "2026-05-13",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-d4fa92261daba252",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "MES Apriso Solution Expert/Architect",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Lead/Principal",
+      "url": "https://www.capgemini.com/jobs/411931-en_US_SAPBTP/",
+      "posted_date": "2026-02-05",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-5cc53bae6ef0baca",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Maximo- Techno/Functional Consultant - Senior Application Consultant",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Senior",
+      "url": "https://www.capgemini.com/jobs/418955-en_US_SAPBTP/",
+      "posted_date": "2026-02-16",
       "source": "indeed"
     },
     {
