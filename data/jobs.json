@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-14T09:57:04.817696+00:00",
-  "total": 538,
+  "last_updated": "2026-06-15T12:42:18.390302+00:00",
+  "total": 531,
   "jobs": [
     {
       "id": "sr-744000129297320",
@@ -224,19 +224,6 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-65244-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Health and Safety Analyst I",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Health%20and%20Safety%20Analyst%20I",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "tt-free2move-DC",
       "company": "Free2Move",
       "company_id": "free2move",
@@ -354,6 +341,19 @@
       "source": "workday"
     },
     {
+      "id": "jsp-alstom-in-c9f3f93bbd286feb",
+      "company": "Alstom",
+      "company_id": "alstom",
+      "title": "Lead Design Engineer",
+      "location": "New Castle, DE",
+      "state": "DE",
+      "sector": "Transportation & Rail",
+      "seniority": "Senior",
+      "url": "https://jobsearch.alstom.com/job/New-Castle-Lead-Design-Engineer-DE/1402136733/",
+      "posted_date": "2026-06-08",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-alstom-in-2371f2cd806cbcad",
       "company": "Alstom",
       "company_id": "alstom",
@@ -378,19 +378,6 @@
       "url": "https://www.dassault-aviation.com/en/group/careers/",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "engie-65512-DE",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Solar Technician II - Solidago Solar Site",
-      "location": "Dover, DE",
-      "state": "DE",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II%20-%20Solidago%20Solar%20Site",
-      "posted_date": "",
-      "source": "engie"
     },
     {
       "id": "ic-sodexo-DE",
@@ -766,6 +753,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Upper-Marlboro-CDL-Driver-Early-Morning-MD-20774/1387035933/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1404411133",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Counter Sales Floater - Baltimore",
+      "location": "Timonium, MD",
+      "state": "MD",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Timonium-Counter-Sales-Floater-Baltimore-MD-21093/1404411133/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2187,6 +2187,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-jobs-1404397633",
+      "company": "Arkema",
+      "company_id": "arkema",
+      "title": "Purchasing Assistant",
+      "location": "Radnor, Pa, United States",
+      "state": "PA",
+      "sector": "Industrials & Chemicals",
+      "seniority": "Mid-level",
+      "url": "https://jobs.arkema.com/job/Radnor-Purchasing-Assistant-Job-PA/1404397633/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-jobs-1365072533",
       "company": "Arkema",
       "company_id": "arkema",
@@ -2419,6 +2432,19 @@
       "url": "https://www.3ds.com/careers/jobs",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "engie-65084-PA",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Sales Manager",
+      "location": "Remote (PA)",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Sales%20Manager",
+      "posted_date": "",
+      "source": "engie"
     },
     {
       "id": "jsp-eurovia-PA",
@@ -2785,16 +2811,16 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Continuous-Improvement-Specialist-Lead--Support-Functions_R2844373-1",
+      "id": "wd-sanofi-/job/Swiftwater-PA/Business-System-Owner_R2857944",
       "company": "Sanofi",
       "company_id": "sanofi",
-      "title": "Continuous Improvement Specialist Lead- Support Functions",
+      "title": "Business System Owner",
       "location": "Swiftwater, Pa",
       "state": "PA",
       "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Senior",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Continuous-Improvement-Specialist-Lead--Support-Functions_R2844373-1",
-      "posted_date": "2026-03-16",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Business-System-Owner_R2857944",
+      "posted_date": "2026-06-15",
       "source": "workday"
     },
     {
@@ -3591,16 +3617,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-518445e774e0d550",
+      "id": "jsp-veolia-in-6175d3a19a6bf863",
       "company": "Veolia",
       "company_id": "veolia",
-      "title": "Hazardous Materials Technician",
-      "location": "Hatfield, PA",
+      "title": "Field Technician",
+      "location": "King Of Prussia, PA",
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://veolia-1.betterteam.com/warehouse-worker-16?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic",
-      "posted_date": "2026-05-18",
+      "url": "https://veolia-1.betterteam.com/field-service-technician-1?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic",
+      "posted_date": "2026-05-27",
       "source": "indeed"
     },
     {
@@ -3691,19 +3717,6 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000128793679-on-site-specialist-i",
-      "posted_date": "2026-05-27",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-6175d3a19a6bf863",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "On-Site Technician",
-      "location": "King Of Prussia, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://veolia-1.betterteam.com/field-service-technician-1?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic",
       "posted_date": "2026-05-27",
       "source": "indeed"
     },
@@ -3994,6 +4007,19 @@
       "source": "workday"
     },
     {
+      "id": "wd-sanofi-/job/Morristown-NJ/Project-Programming-Lead_R2859154-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Project Programming Lead",
+      "location": "3 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Senior",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Project-Programming-Lead_R2859154-1",
+      "posted_date": "2026-06-15",
+      "source": "workday"
+    },
+    {
       "id": "wd-sanofi-/job/New-York-City-NY/Rheumatology-MSL--Northeast_R2857473-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -4042,19 +4068,6 @@
       "sector": "Industrials & Chemicals",
       "seniority": "Mid-level",
       "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Richmond-Seppic-VA---Chemical-production/Shift-Supervisor_R10093287",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
-      "id": "wd-ag-/job/Herndon-Area-VA/A220-Supply-Chain-Quality-Manager---Propulsion--Hartford--CT-_JR10371441",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "A220 Supply Chain Quality Manager - Propulsion (Hartford, CT)",
-      "location": "Herndon Area, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Manager",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/A220-Supply-Chain-Quality-Manager---Propulsion--Hartford--CT-_JR10371441",
       "posted_date": "",
       "source": "workday"
     },
@@ -4211,19 +4224,6 @@
       "sector": "Aerospace & Defense",
       "seniority": "Mid-level",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Dulles-VA/Technology-Specialist---SAP-Functions_JR10407637",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
-      "id": "wd-ag-/job/Herndon-Area-VA/VIE-2026---USA---Aftermarket-Services-Regional-Intelligence-monitoring--m-f-_JR10402907",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "VIE 2026 - USA - Aftermarket Services Regional Intelligence monitoring (m/f)",
-      "location": "Herndon Area, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Mid-level",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/VIE-2026---USA---Aftermarket-Services-Regional-Intelligence-monitoring--m-f-_JR10402907",
       "posted_date": "",
       "source": "workday"
     },
@@ -4488,45 +4488,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-c2bcca6628e51aca",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "CIS Sales Leader",
-      "location": "Mclean, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://www.capgemini.com/jobs/403840-en_US_SAPBTP/",
-      "posted_date": "2026-02-10",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-capgemini-in-ec6772273f05891c",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Cloud Network Security Architect - AWS / Zero Trust",
-      "location": "Mclean, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://www.capgemini.com/jobs/471083-en_US_SAPBTP/",
-      "posted_date": "2026-05-08",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-capgemini-in-e5e144c83e76e1e4",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Engagement Executive - Finance & Accounting Transformation",
-      "location": "Mclean, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://www.capgemini.com/jobs/470192-en_GB_SAPBTP/",
-      "posted_date": "2026-05-14",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-capgemini-in-e53b8260879c2a93",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -4566,19 +4527,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-7c0259970fa3b711",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "IAM Architect - AWS",
-      "location": "Mclean, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://www.capgemini.com/jobs/471086-en_US_SAPBTP/",
-      "posted_date": "2026-05-08",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-capgemini-in-d65397e4b5438c50",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -4602,32 +4550,6 @@
       "seniority": "Senior",
       "url": "https://capgemini.talentnet.community/jobs/04800f9d-3cff-4864-bf3f-154479ec56b1",
       "posted_date": "2026-05-13",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-capgemini-in-d4fa92261daba252",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "MES Apriso Solution Expert/Architect",
-      "location": "Mclean, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Lead/Principal",
-      "url": "https://www.capgemini.com/jobs/411931-en_US_SAPBTP/",
-      "posted_date": "2026-02-05",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-capgemini-in-5cc53bae6ef0baca",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Maximo- Techno/Functional Consultant - Senior Application Consultant",
-      "location": "Mclean, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Senior",
-      "url": "https://www.capgemini.com/jobs/418955-en_US_SAPBTP/",
-      "posted_date": "2026-02-16",
       "source": "indeed"
     },
     {
@@ -6487,19 +6409,6 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112218213-service-technician-aftermarket-water-treatment",
       "posted_date": "2026-03-02",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-280fabf4a9ec5b25",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Warehouse Associate",
-      "location": "Richmond, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://veolia-1.betterteam.com/warehouse-associate-10?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic",
-      "posted_date": "2026-06-11",
       "source": "indeed"
     },
     {
