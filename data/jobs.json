@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T09:38:00.409722+00:00",
+  "last_updated": "2026-06-21T10:09:09.305610+00:00",
   "total": 520,
   "jobs": [
     {
@@ -220,6 +220,19 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Health%20and%20Safety%20Analyst%20I",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-59240-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Senior Construction Manager",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Senior%20Construction%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -3315,19 +3328,6 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/E0115CA30EAA4100A90B394601D79366/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2025-11-17",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-transdev-in-75cc7d9120d344f3",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "HR Administrator",
-      "location": "Allentown, PA",
-      "state": "PA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/37AB84CF11DE45BD9D95D99936DB6423/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-05-29",
       "source": "indeed"
     },
     {
