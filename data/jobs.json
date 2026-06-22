@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T10:09:09.305610+00:00",
-  "total": 520,
+  "last_updated": "2026-06-22T12:29:07.174849+00:00",
+  "total": 516,
   "jobs": [
     {
       "id": "sr-744000129297320",
@@ -211,19 +211,6 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-65244-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Health and Safety Analyst I",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Health%20and%20Safety%20Analyst%20I",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "engie-59240-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -391,19 +378,6 @@
       "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Newark-DE-ICD---RD---Customer-Processes/Research-Engineer--Mechanical_R10093909-1",
       "posted_date": "",
       "source": "workday"
-    },
-    {
-      "id": "jsp-alstom-in-c9f3f93bbd286feb",
-      "company": "Alstom",
-      "company_id": "alstom",
-      "title": "Lead Design Engineer",
-      "location": "New Castle, DE",
-      "state": "DE",
-      "sector": "Transportation & Rail",
-      "seniority": "Senior",
-      "url": "https://jobsearch.alstom.com/job/New-Castle-Lead-Design-Engineer-DE/1402136733/",
-      "posted_date": "2026-06-08",
-      "source": "indeed"
     },
     {
       "id": "jsp-alstom-in-2371f2cd806cbcad",
@@ -3175,19 +3149,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1391391533",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Driver",
-      "location": "York, PA",
-      "state": "PA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/York-Driver-PA-17402/1391391533/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1403583533",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -5602,19 +5563,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Springfield-Counter-Sales-Representative-IL-62702/1396228233/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1395206733",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Counter Sales Representative",
-      "location": "Richmond, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Richmond-Counter-Sales-Representative-VA-23233/1395206733/",
       "posted_date": "",
       "source": "j2w"
     },
