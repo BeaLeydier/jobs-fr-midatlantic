@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T08:55:50.629306+00:00",
+  "last_updated": "2026-06-28T09:31:20.442970+00:00",
   "total": 518,
   "jobs": [
     {
@@ -156,6 +156,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/AccorHotel/744000130501860",
       "posted_date": "2026-06-05",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "sr-744000134605009",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "Sales Coordinator",
+      "location": "Washington, Dc, Us",
+      "state": "DC",
+      "sector": "Hospitality & Services",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000134605009",
+      "posted_date": "2026-06-27",
       "source": "smartrecruiters"
     },
     {
@@ -1537,16 +1550,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-49c605418cf4dbde",
+      "id": "jsp-transdev-in-cf797004cace67f9",
       "company": "Transdev",
       "company_id": "transdev",
-      "title": "Maintenance Clerk",
-      "location": "Capitol Heights, MD",
+      "title": "Lot Attendant -",
+      "location": "Baltimore, MD",
       "state": "MD",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/426414EFF7C44887A01EA8BD218AD9A1/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-06-09",
+      "url": "https://transdevna.jobs/21B5EF8046CE4A98A48FED59701415D5/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-04-17",
       "source": "indeed"
     },
     {
@@ -1651,19 +1664,6 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/E15D65927D904DA398040F7396E63C69/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-05-25",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-transdev-in-d3e194f5bcbc96e4",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Parts Clerk",
-      "location": "Capitol Heights, MD",
-      "state": "MD",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/E848335C4B5C44648D070715300851C8/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-06-09",
       "source": "indeed"
     },
     {
@@ -2300,6 +2300,19 @@
       "sector": "Industrials & Chemicals",
       "seniority": "Mid-level",
       "url": "https://jobs.arkema.com/job/King-of-Prussia-Chemist-Job-PA-19406/1400045833/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-jobs-1409084833",
+      "company": "Arkema",
+      "company_id": "arkema",
+      "title": "Customer Service Team Lead",
+      "location": "Radnor, Pa, United States",
+      "state": "PA",
+      "sector": "Industrials & Chemicals",
+      "seniority": "Senior",
+      "url": "https://jobs.arkema.com/job/Radnor-Customer-Service-Team-Lead-Job-PA/1409084833/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -3016,19 +3029,6 @@
       "seniority": "Mid-level",
       "url": "https://careers.se.com/jobs/101217/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2025-11-07",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-schneider-electric-in-269f844e26aea6a0",
-      "company": "Schneider Electric",
-      "company_id": "schneider-electric",
-      "title": "Senior Field Service Representative - Philadelphia",
-      "location": "Philadelphia, PA",
-      "state": "PA",
-      "sector": "Technology & Energy",
-      "seniority": "Senior",
-      "url": "https://careers.se.com/jobs/113354/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "posted_date": "2026-04-06",
       "source": "indeed"
     },
     {
