@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T09:31:20.442970+00:00",
+  "last_updated": "2026-06-29T11:25:57.730055+00:00",
   "total": 518,
   "jobs": [
     {
@@ -429,6 +429,19 @@
       "seniority": "Senior",
       "url": "https://jobsearch.alstom.com/job/New-Castle-Lead-Design-Engineer-DE/1402136733/",
       "posted_date": "2026-06-08",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-alstom-in-2371f2cd806cbcad",
+      "company": "Alstom",
+      "company_id": "alstom",
+      "title": "NAM Services Business Process Manager - Customer Service/Sales, Component Overhaul & Repairs",
+      "location": "New Castle, DE",
+      "state": "DE",
+      "sector": "Transportation & Rail",
+      "seniority": "Manager",
+      "url": "https://jobsearch.alstom.com/job/New-Castle-NAM-Services-Business-Process-Manager-Customer-ServiceSales%2C-Component-Overhaul-&-Repairs-DE/1385168233/",
+      "posted_date": "2026-04-17",
       "source": "indeed"
     },
     {
@@ -2434,19 +2447,6 @@
       "source": "manual_link"
     },
     {
-      "id": "j2w-jobs-1388539533",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Field Sales Executive III - EWR",
-      "location": "Harrisburg. Pa, Us",
-      "state": "PA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Harrisburg_-Pa-Field-Sales-Executive-III-EWR-PA-17101/1388539533/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "jsp-capgemini-in-05e8ad491bee2811",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -2811,7 +2811,7 @@
       "source": "manual_link"
     },
     {
-      "id": "jsp-snf-in-d547b343ae27457f",
+      "id": "jsp-snf-in-663e16e8b3743cf0",
       "company": "SNF",
       "company_id": "snf",
       "title": "Business Office Manager (BOM)",
@@ -2820,7 +2820,7 @@
       "sector": "Industrials & Chemicals",
       "seniority": "Manager",
       "url": "https://jobs.apploi.com/view/1162181?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed",
-      "posted_date": "2026-05-28",
+      "posted_date": "2026-06-28",
       "source": "indeed"
     },
     {
@@ -3851,19 +3851,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-ag-/job/Dulles-VA/Data-Analytics-Specialist_JR10406510",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "Data Analytics Specialist",
-      "location": "Dulles, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Mid-level",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Dulles-VA/Data-Analytics-Specialist_JR10406510",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
       "id": "wd-ag-/job/Herndon-Area-VA/Export-Control-Compliance-Manager_JR10411796",
       "company": "Airbus",
       "company_id": "airbus",
@@ -3873,6 +3860,19 @@
       "sector": "Aerospace & Defense",
       "seniority": "Manager",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Export-Control-Compliance-Manager_JR10411796",
+      "posted_date": "",
+      "source": "workday"
+    },
+    {
+      "id": "wd-ag-/job/Dulles-VA/Extended-Warehouse-Management--SAP--Analyst_JR10422110",
+      "company": "Airbus",
+      "company_id": "airbus",
+      "title": "Extended Warehouse Management (SAP) Analyst",
+      "location": "Dulles, Va",
+      "state": "VA",
+      "sector": "Aerospace & Defense",
+      "seniority": "Manager",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Dulles-VA/Extended-Warehouse-Management--SAP--Analyst_JR10422110",
       "posted_date": "",
       "source": "workday"
     },
