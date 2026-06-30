@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29T11:25:57.730055+00:00",
-  "total": 518,
+  "last_updated": "2026-06-30T10:03:55.080986+00:00",
+  "total": 560,
   "jobs": [
     {
       "id": "sr-744000129297320",
@@ -300,6 +300,19 @@
       "url": "https://careers.ratpdevusa.com/en/annonces",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "wd-sanofi-/job/Washington-DC/National-Sales-Network---Conference-and-Career-Fair-in-Washington--DC---August-12-14--2026_R2858134",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "National Sales Network – Conference and Career Fair in Washington, D.C. – August 12–14, 2026",
+      "location": "Washington, Dc",
+      "state": "DC",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Washington-DC/National-Sales-Network---Conference-and-Career-Fair-in-Washington--DC---August-12-14--2026_R2858134",
+      "posted_date": "2026-06-22",
+      "source": "workday"
     },
     {
       "id": "ic-sodexo-DC",
@@ -664,6 +677,32 @@
       "url": "https://jobs.orano.group/en_US/jobs/JobDetail/Civil-Engineer-I-II/14865?source=External%2BCareers%2BMarketplace",
       "posted_date": "2026-06-15",
       "source": "indeed"
+    },
+    {
+      "id": "wd-sanofi-/job/Bethesda-MD/Area-Business-Manager---Pulmonology---Bethesda--MD_R2853853",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Area Business Manager - Pulmonology - Bethesda, MD",
+      "location": "Bethesda, Md",
+      "state": "MD",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bethesda-MD/Area-Business-Manager---Pulmonology---Bethesda--MD_R2853853",
+      "posted_date": "2026-05-05",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Baltimore-MD/Strategic-Account-Manager---Vaccine---Baltimore_R2861238",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Strategic Account Manager - Vaccines - Baltimore",
+      "location": "Baltimore, Md",
+      "state": "MD",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Baltimore-MD/Strategic-Account-Manager---Vaccine---Baltimore_R2861238",
+      "posted_date": "2026-06-18",
+      "source": "workday"
     },
     {
       "id": "jsp-schneider-electric-in-39c3dd66a7d4ddf0",
@@ -1260,6 +1299,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Upper-Marlboro-Tools%2C-Fastener-and-Safety-Specialist-MD-20774/1388521933/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1409449933",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Vendor Managed Inventory Coordinator",
+      "location": "Baltimore, MD",
+      "state": "MD",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Baltimore-Vendor-Managed-Inventory-Coordinator-MD-21230/1409449933/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2070,19 +2122,6 @@
       "source": "smartrecruiters"
     },
     {
-      "id": "sr-744000121009688",
-      "company": "Accor",
-      "company_id": "accor",
-      "title": "Marketing Manager / E-Commerce Oversight ",
-      "location": "Philadelphia, Pa, Us",
-      "state": "PA",
-      "sector": "Hospitality & Services",
-      "seniority": "Manager",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000121009688",
-      "posted_date": "2026-04-15",
-      "source": "smartrecruiters"
-    },
-    {
       "id": "sr-744000128548099",
       "company": "Accor",
       "company_id": "accor",
@@ -2551,6 +2590,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-capgemini-in-dce50ee3fe138754",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Software Development Engineer In Test (SDET)",
+      "location": "Coraopolis, PA",
+      "state": "PA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://capgemini.talentnet.community/jobs/f8d94a11-46f0-413f-87a2-df9321b3a7d7",
+      "posted_date": "2026-06-29",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-capgemini-in-145b9ade6f0431c6",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -2564,16 +2616,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-d3bad545314f9528",
+      "id": "jsp-capgemini-in-0bd16754bf00c17e",
       "company": "Capgemini",
       "company_id": "capgemini",
-      "title": "Software Development Engineer In Test (SDET)",
-      "location": "Coraopolis, PA",
+      "title": "TECHNICAL PROGRAM MANAGER",
+      "location": "Malvern, PA",
       "state": "PA",
       "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/4e638ef1-7dde-4c64-8e8a-d1d755ada81e",
-      "posted_date": "2026-05-19",
+      "seniority": "Manager",
+      "url": "https://capgemini.talentnet.community/jobs/1f423fdb-5c67-4a97-bdf5-ed14d7a0bfbd",
+      "posted_date": "2026-06-29",
       "source": "indeed"
     },
     {
@@ -2587,6 +2639,19 @@
       "seniority": "Mid-level",
       "url": "https://capgemini.talentnet.community/jobs/b293433e-9837-4ad9-870c-e8e6dcb58384",
       "posted_date": "2026-06-25",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-ccb37cdd06b1123e",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "UX Strategist — Adaptive Presentation Engine (APE)",
+      "location": "Malvern, PA",
+      "state": "PA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://capgemini.talentnet.community/jobs/a840f86b-1a9a-42d6-80f8-feac9ff86dc9",
+      "posted_date": "2026-06-29",
       "source": "indeed"
     },
     {
@@ -2928,17 +2993,238 @@
       "source": "smartrecruiters"
     },
     {
-      "id": "jsp-savencia-PA",
+      "id": "wd-sanofi-/job/Philadelphia-PA/Area-Business-Manager--Allergy-ENT--PA_R2848863-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Area Business Manager, Allergy/ENT, Philadelphia, PA",
+      "location": "Philadelphia, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Philadelphia-PA/Area-Business-Manager--Allergy-ENT--PA_R2848863-1",
+      "posted_date": "2026-06-12",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/B55-Operations-Manager---2nd-Shift_R2858934-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "B55 Operations Manager - 2nd Shift",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/B55-Operations-Manager---2nd-Shift_R2858934-1",
+      "posted_date": "2026-06-20",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/BSA-Lead-Production-Technician_R2849436-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "BSA Lead Production Technician",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Senior",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/BSA-Lead-Production-Technician_R2849436-1",
+      "posted_date": "2026-06-23",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Data-Science-Manager---Process-Analytics_R2856286-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Data Science Manager - Process Analytics",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Data-Science-Manager---Process-Analytics_R2856286-1",
+      "posted_date": "2026-06-11",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Head-of-Quality-Assurance-Operations--Drug-Product-_R2859143",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Head of Quality Assurance Operations (Drug Product)",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Director/VP",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Head-of-Quality-Assurance-Operations--Drug-Product-_R2859143",
+      "posted_date": "2026-06-25",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Manager-Filling---Pkg-Staff-US--2nd-Shift-_R2859122-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Manager Filling & Pkg Staff US (2nd Shift)",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Manager-Filling---Pkg-Staff-US--2nd-Shift-_R2859122-1",
+      "posted_date": "2026-06-24",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Moosic-PA/Manager--Contract---Commercial-Operations_R2859632",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Manager, Contract & Commercial Operations",
+      "location": "Moosic, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Moosic-PA/Manager--Contract---Commercial-Operations_R2859632",
+      "posted_date": "2026-06-11",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Material-Planner_R2858719-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Material Planner",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Material-Planner_R2858719-1",
+      "posted_date": "2026-06-25",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Production-Technician_R2858450-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Production Technician",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Production-Technician_R2858450-1",
+      "posted_date": "2026-06-18",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Pittsburgh-PA/Regional-Business-Director--Alleghany-Mountains_R2858760",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Regional Business Director, Alleghany Mountains",
+      "location": "Pittsburgh, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Director/VP",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Pittsburgh-PA/Regional-Business-Director--Alleghany-Mountains_R2858760",
+      "posted_date": "2026-06-08",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Senior-Laboratory-Manager-for-Ligand-Binding-Assays_R2851823-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Senior Laboratory Manager for Ligand Binding Assays",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Senior-Laboratory-Manager-for-Ligand-Binding-Assays_R2851823-1",
+      "posted_date": "2026-04-18",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Senior-Nonclinical-Statistician_R2853310-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Senior Nonclinical Statistician",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Senior",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Senior-Nonclinical-Statistician_R2853310-1",
+      "posted_date": "2026-04-28",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Site-Head-Portfolio-Management_R2859306-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Site Head Portfolio Management",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Site-Head-Portfolio-Management_R2859306-1",
+      "posted_date": "2026-06-27",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Site-Risk-Officer_R2859115",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Site Risk Officer",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Site-Risk-Officer_R2859115",
+      "posted_date": "2026-06-27",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Pittsburgh-PA/Strategic-Account-Manager---Vaccine-Pittsburgh--PA_R2858952",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Strategic Account Manager - Vaccine-Pittsburgh, PA",
+      "location": "Pittsburgh, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Pittsburgh-PA/Strategic-Account-Manager---Vaccine-Pittsburgh--PA_R2858952",
+      "posted_date": "2026-06-11",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Scranton-PA/Strategic-Account-Manager---Vaccines-Scranton--PA_R2858956",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Strategic Account Manager - Vaccines-Scranton, PA",
+      "location": "Scranton, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Scranton-PA/Strategic-Account-Manager---Vaccines-Scranton--PA_R2858956",
+      "posted_date": "2026-06-11",
+      "source": "workday"
+    },
+    {
+      "id": "jsp-savencia-in-53ca2ec766a582eb",
       "company": "Savencia",
       "company_id": "savencia",
-      "title": "Voir les offres d'emploi →",
-      "location": "PA",
+      "title": "Industrial Director - Aseptic",
+      "location": "New Holland, PA",
       "state": "PA",
       "sector": "Food & Beverage",
-      "seniority": "N/A",
-      "url": "https://www.savenciacheeseusa.com/careers/",
-      "posted_date": "",
-      "source": "manual_link"
+      "seniority": "Director/VP",
+      "url": "https://eoct.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2005/requisitions/preview/5908",
+      "posted_date": "2026-06-29",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-savencia-in-379f2728e43ebc25",
+      "company": "Savencia",
+      "company_id": "savencia",
+      "title": "Industrial Director - Cheese",
+      "location": "New Holland, PA",
+      "state": "PA",
+      "sector": "Food & Beverage",
+      "seniority": "Director/VP",
+      "url": "https://eoct.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2005/requisitions/preview/5909",
+      "posted_date": "2026-06-29",
+      "source": "indeed"
     },
     {
       "id": "jsp-schneider-electric-in-7355de9f07dd49dc",
@@ -3487,7 +3773,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-428a889675cfa2bb",
+      "id": "jsp-veolia-in-4a8833fb38a7338b",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Environmental Technician I",
@@ -3495,8 +3781,8 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000133699229-environmental-technician-i",
-      "posted_date": "2026-06-23",
+      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000134922648-environmental-technician-i",
+      "posted_date": "2026-06-30",
       "source": "indeed"
     },
     {
@@ -3627,19 +3913,6 @@
       "seniority": "Manager",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130054079-manager-of-customer-service",
       "posted_date": "2026-06-03",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-b7b5ae37ace51408",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Marketing Specialist",
-      "location": "Trevose, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000134001029-marketing-specialist",
-      "posted_date": "2026-06-24",
       "source": "indeed"
     },
     {
@@ -3812,6 +4085,240 @@
       "source": "manual_link"
     },
     {
+      "id": "wd-airliquidehr-/job/Montreal-QC---Boul-Ren-Lvesque-O-ALC-HO---Support-functions/Program-Manager---Performance-Management-Systems_R10094793-1",
+      "company": "Air Liquide",
+      "company_id": "air-liquide",
+      "title": "Program Manager - Performance Management Systems",
+      "location": "2 Locations",
+      "state": "US",
+      "sector": "Industrials & Chemicals",
+      "seniority": "Manager",
+      "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Montreal-QC---Boul-Ren-Lvesque-O-ALC-HO---Support-functions/Program-Manager---Performance-Management-Systems_R10094793-1",
+      "posted_date": "",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Richmond-VA/Area-Business-Manager---Rare-Blood-Disorders--Rare-Hematology---Richmond--VA_R2855707",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Area Business Manager - Rare Blood Disorders, Rare Hematology - Richmond, VA",
+      "location": "2 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Richmond-VA/Area-Business-Manager---Rare-Blood-Disorders--Rare-Hematology---Richmond--VA_R2855707",
+      "posted_date": "2026-05-06",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Washington-DC/Assistant-General-Counsel---340B_R2861039-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Assistant General Counsel – 340B",
+      "location": "2 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Washington-DC/Assistant-General-Counsel---340B_R2861039-1",
+      "posted_date": "2026-06-24",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Deputy-Director---Senior-Project-Biostatistics-Lead--Vaccines_R2860790-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Deputy Director - Senior Project Biostatistics Lead- Vaccines",
+      "location": "2 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Director/VP",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Deputy-Director---Senior-Project-Biostatistics-Lead--Vaccines_R2860790-1",
+      "posted_date": "2026-06-29",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Morristown-NJ/Global-Category-Buy-BioProcess-Raw-Materials_R2859050",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Global Category Buy BioProcess Raw Materials",
+      "location": "2 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Global-Category-Buy-BioProcess-Raw-Materials_R2859050",
+      "posted_date": "2026-05-26",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Morristown-NJ/Gross-to-Net-Manager_R2860824",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Gross to Net Manager",
+      "location": "3 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Gross-to-Net-Manager_R2860824",
+      "posted_date": "2026-06-24",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Waltham-MA/Head-of-Global-Data-and-Computational-Science---Vaccines-Research-and-Development_R2859351-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Head of Global Data and Computational Science - Vaccines Research and Development",
+      "location": "2 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Director/VP",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/Head-of-Global-Data-and-Computational-Science---Vaccines-Research-and-Development_R2859351-1",
+      "posted_date": "2026-06-09",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Waltham-MA/Head-of-Global-Strategic-and-Scientific-Partnerships---Vaccines-Research-and-Development_R2859352-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Head of Global Strategic and Scientific Partnerships - Vaccines Research and Development",
+      "location": "2 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Director/VP",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/Head-of-Global-Strategic-and-Scientific-Partnerships---Vaccines-Research-and-Development_R2859352-1",
+      "posted_date": "2026-06-09",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Morristown-NJ/Head-of-North-America-Occupational-Health_R2856276",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Head of North America Occupational Health",
+      "location": "3 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Director/VP",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Head-of-North-America-Occupational-Health_R2856276",
+      "posted_date": "2026-05-15",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Head-of-Vaccine-Research-and-Development-Project-Management_R2858484",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Head of Vaccine Research and Development Project Management",
+      "location": "2 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Director/VP",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Head-of-Vaccine-Research-and-Development-Project-Management_R2858484",
+      "posted_date": "2026-06-17",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/MSAT-Project-Manager_R2855482-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "MSAT Project Manager",
+      "location": "2 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/MSAT-Project-Manager_R2855482-1",
+      "posted_date": "2026-06-26",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Richmond-VA/Medical-Science-Liaison---Rare-Hematology--VA-NC-SC-_R2855690-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Medical Science Liaison - Rare Hematology (VA/NC/SC)",
+      "location": "3 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Richmond-VA/Medical-Science-Liaison---Rare-Hematology--VA-NC-SC-_R2855690-1",
+      "posted_date": "2026-06-23",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Cambridge-MA/Operational-Excellence-Performance-Lead_R2860175-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Operational Excellence Performance Lead",
+      "location": "3 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Senior",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Operational-Excellence-Performance-Lead_R2860175-1",
+      "posted_date": "2026-06-27",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Morristown-NJ/People-Services-US-Payroll-Tax-Analyst_R2854594-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "People Services US Payroll Tax Analyst",
+      "location": "2 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/People-Services-US-Payroll-Tax-Analyst_R2854594-1",
+      "posted_date": "2026-04-29",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Morristown-NJ/Project-Programming-Lead_R2859154-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Project Programming Lead",
+      "location": "3 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Senior",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Project-Programming-Lead_R2859154-1",
+      "posted_date": "2026-06-15",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/New-York-City-NY/Rheumatology-MSL--Northeast_R2857473-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Rheumatology MSL -Northeast",
+      "location": "6 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/New-York-City-NY/Rheumatology-MSL--Northeast_R2857473-1",
+      "posted_date": "2026-06-09",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/NEW-YORK-NY/Strategic-Account-Manager--Vaccines_R2833822",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Strategic Account Manager- Vaccines",
+      "location": "10 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/NEW-YORK-NY/Strategic-Account-Manager--Vaccines_R2833822",
+      "posted_date": "2026-05-22",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Washington-DC/Zone-Business-Associate_R2860062",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Zone Business Associate",
+      "location": "2 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Washington-DC/Zone-Business-Associate_R2860062",
+      "posted_date": "2026-06-25",
+      "source": "workday"
+    },
+    {
       "id": "wd-airliquidehr-/job/Richmond-Seppic-VA---Support-functions/HSE-Specialist_R10094081",
       "company": "Air Liquide",
       "company_id": "air-liquide",
@@ -3847,6 +4354,19 @@
       "sector": "Aerospace & Defense",
       "seniority": "Mid-level",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/AOG-Customer-Resolution-Specialist--Contract-_JR10421728",
+      "posted_date": "",
+      "source": "workday"
+    },
+    {
+      "id": "wd-ag-/job/Dulles-VA/Data-Analytics-Specialist_JR10406510",
+      "company": "Airbus",
+      "company_id": "airbus",
+      "title": "Data Analytics Specialist",
+      "location": "Dulles, Va",
+      "state": "VA",
+      "sector": "Aerospace & Defense",
+      "seniority": "Mid-level",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Dulles-VA/Data-Analytics-Specialist_JR10406510",
       "posted_date": "",
       "source": "workday"
     },
@@ -3899,19 +4419,6 @@
       "sector": "Aerospace & Defense",
       "seniority": "Mid-level",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/HRBP-III_JR10417475",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
-      "id": "wd-ag-/job/Herndon-Area-VA/HRIS-Project-Specialist--CONTRACT-_JR10415917",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "HRIS Project Specialist (CONTRACT)",
-      "location": "Herndon Area, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Mid-level",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/HRIS-Project-Specialist--CONTRACT-_JR10415917",
       "posted_date": "",
       "source": "workday"
     },
@@ -3994,19 +4501,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-ag-/job/Herndon-Area-VA/Tooling-Services-Order-Specialist--Contract-_JR10422696",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "Tooling Services Order Specialist (Contract)",
-      "location": "Herndon Area, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Mid-level",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Tooling-Services-Order-Specialist--Contract-_JR10422696",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
       "id": "jsp-arbiom-VA",
       "company": "Arbiom",
       "company_id": "arbiom",
@@ -4068,6 +4562,19 @@
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
       "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Associate-Counsel-VA-23501/1386098933/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-jobs-1405085133",
+      "company": "CMA CGM",
+      "company_id": "cma-cgm",
+      "title": "Client Solutions Representative - Premium",
+      "location": "Norfolk Va, Us",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Client-Solutions-Representative-Premium-VA-23501/1405085133/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5138,6 +5645,19 @@
       "source": "icims"
     },
     {
+      "id": "ic-uscareers-idemia-jobs-8563-program-purchasing-manager-job",
+      "company": "IDEMIA",
+      "company_id": "idemia",
+      "title": "Program Purchasing Manager",
+      "location": "Us-Reston",
+      "state": "VA",
+      "sector": "Technology & Security",
+      "seniority": "Manager",
+      "url": "https://uscareers-idemia.icims.com/jobs/8563/program-purchasing-manager/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
       "id": "wd-imerys-/job/Chesapeake-Virginia-USA/Maintenance-Electrician_REQ-11611-1",
       "company": "Imerys",
       "company_id": "imerys",
@@ -5203,6 +5723,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-keolis-in-6b3027b4bd209101",
+      "company": "Keolis",
+      "company_id": "keolis",
+      "title": "Driver Manager",
+      "location": "Woodbridge, VA",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Manager",
+      "url": "https://recruiting.ultipro.com/KEO1000KCS/JobBoard/1e6b743f-ed4b-4dd4-9c03-44d18e048af1/OpportunityDetail?opportunityId=fac32a44-b720-4255-8004-8896affb28d2&postingId=b5492c02-7499-42f6-a1ec-38eb393e412c",
+      "posted_date": "2026-06-29",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-keolis-in-14ee7041740a0506",
       "company": "Keolis",
       "company_id": "keolis",
@@ -5239,6 +5772,19 @@
       "seniority": "Internship",
       "url": "https://recruiting.ultipro.com/KEO1000KCS/JobBoard/1e6b743f-ed4b-4dd4-9c03-44d18e048af1/OpportunityDetail?opportunityId=fc2a8ea1-1612-4c4b-8ec3-780031161908&postingId=ef4e4dc9-5608-46ec-98be-8437c47a5abf",
       "posted_date": "2026-06-23",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-keolis-in-a5ba139d896a5243",
+      "company": "Keolis",
+      "company_id": "keolis",
+      "title": "Paratransit Operations Manager",
+      "location": "Leesburg, VA",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Manager",
+      "url": "https://recruiting.ultipro.com/KEO1000KCS/JobBoard/1e6b743f-ed4b-4dd4-9c03-44d18e048af1/OpportunityDetail?opportunityId=ffc6347d-b0dc-484e-9dc8-8410039f96e5&postingId=ab0a5ed5-697a-4291-893a-c58e62ea759e",
+      "posted_date": "2026-06-29",
       "source": "indeed"
     },
     {
@@ -5307,19 +5853,6 @@
       "source": "j2w"
     },
     {
-      "id": "jsp-ovhcloud-in-71712c0849a7eaf1",
-      "company": "OVHcloud",
-      "company_id": "ovhcloud",
-      "title": "Data Center Infrastructure Project Coordinator",
-      "location": "Warrenton, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://ovhus.applytojob.com/apply/qn6ngE3JvS/Data-Center-Infrastructure-Project-Coordinator?source=INDE&~",
-      "posted_date": "2026-05-20",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-ovhcloud-in-a7aca9b463e82556",
       "company": "OVHcloud",
       "company_id": "ovhcloud",
@@ -5344,6 +5877,19 @@
       "url": "https://jobs.digital.orange-business.com/jobs",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "wd-sanofi-/job/Richmond-VA/Clinical-Educator--Tzield--Mid-Atlantic--VA--DC--NC--SC--East-TN-_R2860555",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Clinical Educator, Tzield, Mid Atlantic (VA, DC, NC, SC, East TN)",
+      "location": "Richmond, Va",
+      "state": "VA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Richmond-VA/Clinical-Educator--Tzield--Mid-Atlantic--VA--DC--NC--SC--East-TN-_R2860555",
+      "posted_date": "2026-06-17",
+      "source": "workday"
     },
     {
       "id": "jsp-schneider-electric-in-514c98a055446279",
@@ -5537,19 +6083,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Norfolk-Counter-Sales-Representative-NE-68701/1395243033/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1391019033",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Counter Sales Representative",
-      "location": "Woodbridge, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Woodbridge-Counter-Sales-Representative-VA-22193/1391019033/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5788,6 +6321,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-transdev-in-30f78f197e5c08a8",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Customer Service Manager - Lorton",
+      "location": "Lorton, VA",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Manager",
+      "url": "https://transdevna.jobs/5AB11C53A21E40E5AB1858B07D7E0CCD/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-06-29",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-transdev-in-3cf8815c94eba8e3",
       "company": "Transdev",
       "company_id": "transdev",
@@ -5827,7 +6373,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-80b1a20be9003ae5",
+      "id": "jsp-transdev-in-4e5dded35465a9f0",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Diesel Mechanic Technician - Fairfax",
@@ -5835,8 +6381,8 @@
       "state": "VA",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/3D6746270ECE4D99A81A0DB4D1263C13/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-03-27",
+      "url": "https://transdevna.jobs/B3E21E337201445291A2802693D8A643/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-06-29",
       "source": "indeed"
     },
     {
@@ -6162,32 +6708,6 @@
       "seniority": "Senior",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000114371963-lead-engineer-electrical-components",
       "posted_date": "2026-03-12",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-0e9e21d31523585a",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Marketing Specialist",
-      "location": "Norfolk, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000133993975-marketing-specialist",
-      "posted_date": "2026-06-24",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-de37507c48bff6c4",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Marketing Specialist",
-      "location": "Va, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000133995328-marketing-specialist",
-      "posted_date": "2026-06-24",
       "source": "indeed"
     },
     {
@@ -6633,6 +7153,19 @@
       "source": "j2w"
     },
     {
+      "id": "wd-sanofi-/job/Charleston-WV/Area-Business-Manager--Charleston--WV_R2858470",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Area Business Manager, Charleston, WV",
+      "location": "Charleston, Wv",
+      "state": "WV",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Manager",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Charleston-WV/Area-Business-Manager--Charleston--WV_R2858470",
+      "posted_date": "2026-05-22",
+      "source": "workday"
+    },
+    {
       "id": "ic-sodexo-WV",
       "company": "Sodexo",
       "company_id": "sodexo",
@@ -6669,6 +7202,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000131990939-environmental-technician-i-",
       "posted_date": "2026-06-12",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-a5f386c41159ad3f",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Environmental Technician II",
+      "location": "Morgantown, WV",
+      "state": "WV",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000134923420-environmental-technician-ii",
+      "posted_date": "2026-06-30",
       "source": "indeed"
     },
     {
