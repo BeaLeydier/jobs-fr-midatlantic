@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T10:03:55.080986+00:00",
+  "last_updated": "2026-07-01T10:12:31.311124+00:00",
   "total": 560,
   "jobs": [
     {
@@ -250,19 +250,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-59240-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Senior Construction Manager",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Senior%20Construction%20Manager",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "tt-free2move-DC",
       "company": "Free2Move",
       "company_id": "free2move",
@@ -471,19 +458,6 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-68432-DE",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Solar Technician II",
-      "location": "Dover, DE",
-      "state": "DE",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "engie-65512-DE",
       "company": "Engie",
       "company_id": "engie",
@@ -588,6 +562,19 @@
       "source": "j2w"
     },
     {
+      "id": "ic-careers-edf-re-jobs-4968-renewable-energy--28solar-29-technician---3--5bon-site-5d-job",
+      "company": "EDF Renewables",
+      "company_id": "edf",
+      "title": "Renewable Energy (Solar) Technician - 3 [On-Site]",
+      "location": "Kitzmiller, MD",
+      "state": "MD",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://careers-edf-re.icims.com/jobs/4968/renewable-energy-%28solar%29-technician---3-%5bon-site%5d/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
       "id": "ic-careers-edf-re-jobs-4987-utility-scale-solar--26-bess-project-manager--5bhybrid-5d-job",
       "company": "EDF Renewables",
       "company_id": "edf",
@@ -601,17 +588,17 @@
       "source": "icims"
     },
     {
-      "id": "jsp-esi-group-MD",
+      "id": "jsp-esi-group-in-75eda1b51c01adb4",
       "company": "ESI Group (Keysight)",
       "company_id": "esi-group",
-      "title": "Voir les offres d'emploi →",
-      "location": "MD",
+      "title": "District Sales Manager",
+      "location": "Baltimore, MD",
       "state": "MD",
       "sector": "Technology & IT",
-      "seniority": "N/A",
-      "url": "https://jobs.keysight.com/",
-      "posted_date": "",
-      "source": "manual_link"
+      "seniority": "Manager",
+      "url": "https://jobs.keysight.com/jobs/53358/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "posted_date": "2026-06-30",
+      "source": "indeed"
     },
     {
       "id": "jsp-fives-in-616e18a2a96e126c",
@@ -677,19 +664,6 @@
       "url": "https://jobs.orano.group/en_US/jobs/JobDetail/Civil-Engineer-I-II/14865?source=External%2BCareers%2BMarketplace",
       "posted_date": "2026-06-15",
       "source": "indeed"
-    },
-    {
-      "id": "wd-sanofi-/job/Bethesda-MD/Area-Business-Manager---Pulmonology---Bethesda--MD_R2853853",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Area Business Manager - Pulmonology - Bethesda, MD",
-      "location": "Bethesda, Md",
-      "state": "MD",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Manager",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bethesda-MD/Area-Business-Manager---Pulmonology---Bethesda--MD_R2853853",
-      "posted_date": "2026-05-05",
-      "source": "workday"
     },
     {
       "id": "wd-sanofi-/job/Baltimore-MD/Strategic-Account-Manager---Vaccine---Baltimore_R2861238",
@@ -1732,6 +1706,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-transdev-in-6fabdafe61068ebe",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Parts Clerk - Baltimore MTA Lombard Street",
+      "location": "Baltimore, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/CF255DCEB90447018E38A5D7BFE60817/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-04-23",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-transdev-in-261c779d0c9b91d7",
       "company": "Transdev",
       "company_id": "transdev",
@@ -2564,6 +2551,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-capgemini-in-0a5c3841677d40a1",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Full Stack Developer",
+      "location": "Pittsburgh, PA",
+      "state": "PA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://capgemini.talentnet.community/jobs/dadff73f-ec0c-4168-8828-bb25ba195ae5",
+      "posted_date": "2026-06-11",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-capgemini-in-369731954be1da5b",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -2626,19 +2626,6 @@
       "seniority": "Manager",
       "url": "https://capgemini.talentnet.community/jobs/1f423fdb-5c67-4a97-bdf5-ed14d7a0bfbd",
       "posted_date": "2026-06-29",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-capgemini-in-e53936835abb3b81",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Test Engineer",
-      "location": "Pittsburgh, PA",
-      "state": "PA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/b293433e-9837-4ad9-870c-e8e6dcb58384",
-      "posted_date": "2026-06-25",
       "source": "indeed"
     },
     {
@@ -2902,32 +2889,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-snf-in-c15bafdc66d069a3",
-      "company": "SNF",
-      "company_id": "snf",
-      "title": "Nurse Practitioner NP or Physician Assistant PA Skilled Nursing Facility Rounds SNF Healthcare",
-      "location": "Philadelphia, PA",
-      "state": "PA",
-      "sector": "Industrials & Chemicals",
-      "seniority": "Mid-level",
-      "url": "https://jobs.apploi.com/view/5dd22e18a2808?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed",
-      "posted_date": "2026-06-24",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-snf-in-a06059189eb6bb8d",
-      "company": "SNF",
-      "company_id": "snf",
-      "title": "Nurse Practitioner NP or Physician Assistant PA Skilled Nursing Facility Rounds SNF Healthcare",
-      "location": "Norristown, PA",
-      "state": "PA",
-      "sector": "Industrials & Chemicals",
-      "seniority": "Mid-level",
-      "url": "https://jobs.apploi.com/view/2ea932a5d71?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed",
-      "posted_date": "2026-06-09",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-snf-in-c9046927cacb5e04",
       "company": "SNF",
       "company_id": "snf",
@@ -3045,6 +3006,19 @@
       "source": "workday"
     },
     {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Head-of-Project-Delivery_R2860829-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Head of Project Delivery",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Director/VP",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Head-of-Project-Delivery_R2860829-1",
+      "posted_date": "2026-07-01",
+      "source": "workday"
+    },
+    {
       "id": "wd-sanofi-/job/Swiftwater-PA/Head-of-Quality-Assurance-Operations--Drug-Product-_R2859143",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -3107,19 +3081,6 @@
       "seniority": "Mid-level",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Production-Technician_R2858450-1",
       "posted_date": "2026-06-18",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Pittsburgh-PA/Regional-Business-Director--Alleghany-Mountains_R2858760",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Regional Business Director, Alleghany Mountains",
-      "location": "Pittsburgh, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Director/VP",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Pittsburgh-PA/Regional-Business-Director--Alleghany-Mountains_R2858760",
-      "posted_date": "2026-06-08",
       "source": "workday"
     },
     {
@@ -3898,8 +3859,8 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Senior",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130837558-lead-operator-water-and-wastewater",
-      "posted_date": "2026-06-08",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135021519-lead-operator-water-and-wastewater",
+      "posted_date": "2026-06-30",
       "source": "indeed"
     },
     {
@@ -4030,6 +3991,19 @@
       "seniority": "Manager",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000125943096-senior-sales-manager-microelectronics-and-high-tech-sales-",
       "posted_date": "2026-05-11",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-fd6883b84d2df592",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "System Technician I",
+      "location": "Middletown, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135112208-system-technician-i",
+      "posted_date": "2026-06-30",
       "source": "indeed"
     },
     {
@@ -4172,7 +4146,7 @@
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Director/VP",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/Head-of-Global-Data-and-Computational-Science---Vaccines-Research-and-Development_R2859351-1",
-      "posted_date": "2026-06-09",
+      "posted_date": "2026-06-30",
       "source": "workday"
     },
     {
@@ -4185,7 +4159,7 @@
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Director/VP",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/Head-of-Global-Strategic-and-Scientific-Partnerships---Vaccines-Research-and-Development_R2859352-1",
-      "posted_date": "2026-06-09",
+      "posted_date": "2026-06-30",
       "source": "workday"
     },
     {
@@ -4199,6 +4173,19 @@
       "seniority": "Director/VP",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Head-of-North-America-Occupational-Health_R2856276",
       "posted_date": "2026-05-15",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Waltham-MA/Head-of-Platform-Partnerships-and-Outlicensing---Vaccine_R2862725-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Head of Platform Partnerships and Outlicensing - Vaccine",
+      "location": "2 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Director/VP",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/Head-of-Platform-Partnerships-and-Outlicensing---Vaccine_R2862725-1",
+      "posted_date": "2026-06-30",
       "source": "workday"
     },
     {
@@ -4553,19 +4540,6 @@
       "source": "manual_link"
     },
     {
-      "id": "j2w-jobs-1386098933",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Associate Counsel",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Associate-Counsel-VA-23501/1386098933/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-jobs-1405085133",
       "company": "CMA CGM",
       "company_id": "cma-cgm",
@@ -4640,19 +4614,6 @@
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Springfield-Gardens_-Ny-Export-Agent-Springfield%2C-NY-NY-11413/1400593233/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1402108033",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Field Sales Executive III",
-      "location": "Richmond. Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Richmond_-Va-Field-Sales-Executive-III-VA-23173/1402108033/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -4735,19 +4696,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-jobs-1390020733",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Sr. Collections Specialist",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Senior",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Sr_-Collections-Specialist-VA-23501/1390020733/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-jobs-1406147333",
       "company": "CMA CGM",
       "company_id": "cma-cgm",
@@ -4774,6 +4722,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-capgemini-in-e9ce78ed999db756",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "AVEVA Controls Engineer",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://capgemini.talentnet.community/jobs/18ca8e54-916c-4fb5-8917-672f3fe1e396",
+      "posted_date": "2026-06-30",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-capgemini-in-be8109c34d76fea1",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -4784,6 +4745,19 @@
       "seniority": "Mid-level",
       "url": "https://capgemini.talentnet.community/jobs/e4a33358-d07e-4330-9d4f-3953d549c8cd",
       "posted_date": "2026-06-26",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-8abfc07e62cc283a",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "BHI - Order Management Cloud",
+      "location": "Virginia Beach, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Manager",
+      "url": "https://capgemini.talentnet.community/jobs/e7394c97-eeb0-4f17-88fb-18197a2c0ad6",
+      "posted_date": "2026-06-30",
       "source": "indeed"
     },
     {
@@ -4995,17 +4969,17 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-ceva-logistics-in-22cde9d258d141a7",
+      "id": "jsp-ceva-logistics-VA",
       "company": "Ceva Logistics",
       "company_id": "ceva-logistics",
-      "title": "Field Sales Executive III",
-      "location": "Richmond, VA",
+      "title": "Voir les offres d'emploi →",
+      "location": "VA",
       "state": "VA",
       "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Richmond_-Va-Field-Sales-Executive-III-VA-23173/1402108033/",
-      "posted_date": "2026-06-08",
-      "source": "indeed"
+      "seniority": "N/A",
+      "url": "https://www.cevalogistics.com/en/about-us/careers",
+      "posted_date": "",
+      "source": "manual_link"
     },
     {
       "id": "ic-enusapply-danone-jobs-26351-environmental-health--26-safety-specialist-job",
@@ -5017,19 +4991,6 @@
       "sector": "Food & Beverage",
       "seniority": "Mid-level",
       "url": "https://enusapply-danone.icims.com/jobs/26351/environmental-health-%26-safety-specialist/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
-      "id": "ic-enusapply-danone-jobs-26051-warehouse-supervisor---day-night-relief-job",
-      "company": "Danone",
-      "company_id": "danone",
-      "title": "Warehouse Supervisor - Day/Night Relief",
-      "location": "Mount Crawford, VA",
-      "state": "VA",
-      "sector": "Food & Beverage",
-      "seniority": "Mid-level",
-      "url": "https://enusapply-danone.icims.com/jobs/26051/warehouse-supervisor---day-night-relief/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -5649,7 +5610,7 @@
       "company": "IDEMIA",
       "company_id": "idemia",
       "title": "Program Purchasing Manager",
-      "location": "Us-Reston",
+      "location": "Reston, VA",
       "state": "VA",
       "sector": "Technology & Security",
       "seniority": "Manager",
@@ -5801,6 +5762,19 @@
       "source": "indeed"
     },
     {
+      "id": "j2w-jobs-1358942955",
+      "company": "Mersen",
+      "company_id": "mersen",
+      "title": "BUSINESS DIRECTOR (SITE) (BS120_02)",
+      "location": "Salem, VA",
+      "state": "VA",
+      "sector": "Manufacturing & Materials",
+      "seniority": "Director/VP",
+      "url": "https://jobs.mersen.com/job/Salem-BUSINESS-DIRECTOR-%28SITE%29-%28BS120_02%29-VA-24153/1358942955/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-jobs-1352003855",
       "company": "Mersen",
       "company_id": "mersen",
@@ -5877,19 +5851,6 @@
       "url": "https://jobs.digital.orange-business.com/jobs",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "wd-sanofi-/job/Richmond-VA/Clinical-Educator--Tzield--Mid-Atlantic--VA--DC--NC--SC--East-TN-_R2860555",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Clinical Educator, Tzield, Mid Atlantic (VA, DC, NC, SC, East TN)",
-      "location": "Richmond, Va",
-      "state": "VA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Richmond-VA/Clinical-Educator--Tzield--Mid-Atlantic--VA--DC--NC--SC--East-TN-_R2860555",
-      "posted_date": "2026-06-17",
-      "source": "workday"
     },
     {
       "id": "jsp-schneider-electric-in-514c98a055446279",
@@ -6044,6 +6005,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Manager",
       "url": "https://career.sonepar.com/job/Chesapeake-Area-Sales-Manager-Virginia-Beach%2C-VA-VA-23320/1395147033/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1410067433",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Branch Manager-Springfield, IL",
+      "location": "Springfield, IL",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Manager",
+      "url": "https://career.sonepar.com/job/Springfield-Branch-Manager-Springfield%2C-IL-IL-62702/1410067433/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6412,6 +6386,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-transdev-in-93751bde4603120c",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Field Supervisor - Fairfax",
+      "location": "Fairfax, VA",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/45D27A0C2C1E488DB81A8EB577E03ED4/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-06-30",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-transdev-in-b943aea9d65eeacb",
       "company": "Transdev",
       "company_id": "transdev",
@@ -6607,6 +6594,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-730cb86e442deca7",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Driver - Water Treatment",
+      "location": "Norfolk, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135088448-driver-water-treatment",
+      "posted_date": "2026-06-30",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-af5e219f202e24e7",
       "company": "Veolia",
       "company_id": "veolia",
@@ -6732,8 +6732,8 @@
       "state": "VA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000111838544-project-chemist",
-      "posted_date": "2026-02-27",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135023281-project-chemist",
+      "posted_date": "2026-06-30",
       "source": "indeed"
     },
     {
