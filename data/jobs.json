@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-03T09:39:25.536239+00:00",
-  "total": 569,
+  "last_updated": "2026-07-04T08:54:58.683475+00:00",
+  "total": 573,
   "jobs": [
     {
       "id": "sr-744000129297320",
@@ -120,19 +120,6 @@
       "source": "smartrecruiters"
     },
     {
-      "id": "sr-744000118596287",
-      "company": "Accor",
-      "company_id": "accor",
-      "title": "Fairmont Gold Executive Lounge Supervisor",
-      "location": "Washington, Dc, Us",
-      "state": "DC",
-      "sector": "Hospitality & Services",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000118596287",
-      "posted_date": "2026-04-03",
-      "source": "smartrecruiters"
-    },
-    {
       "id": "sr-744000127500655",
       "company": "Accor",
       "company_id": "accor",
@@ -182,6 +169,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/AccorHotel/744000135597149",
       "posted_date": "2026-07-02",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "sr-744000135710935",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "People & Culture Coordinator (Human Resources)",
+      "location": "Washington, Dc, Us",
+      "state": "DC",
+      "sector": "Hospitality & Services",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000135710935",
+      "posted_date": "2026-07-03",
       "source": "smartrecruiters"
     },
     {
@@ -261,6 +261,19 @@
       "url": "https://group.bnpparibas/en/careers",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "engie-65244-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Health and Safety Analyst I",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Health%20and%20Safety%20Analyst%20I",
+      "posted_date": "",
+      "source": "engie"
     },
     {
       "id": "engie-59240-DC",
@@ -443,19 +456,6 @@
       "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Newark-DE-ICD---RD---Customer-Processes/Research-Engineer--Mechanical_R10093909-1",
       "posted_date": "",
       "source": "workday"
-    },
-    {
-      "id": "jsp-alstom-in-c9f3f93bbd286feb",
-      "company": "Alstom",
-      "company_id": "alstom",
-      "title": "Lead Design Engineer",
-      "location": "New Castle, DE",
-      "state": "DE",
-      "sector": "Transportation & Rail",
-      "seniority": "Senior",
-      "url": "https://jobsearch.alstom.com/job/New-Castle-Lead-Design-Engineer-DE/1402136733/",
-      "posted_date": "2026-06-08",
-      "source": "indeed"
     },
     {
       "id": "jsp-alstom-in-2371f2cd806cbcad",
@@ -1706,6 +1706,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-transdev-in-da27b6f3f47e5268",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Part Time CDL Driver",
+      "location": "Silver Spring, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/FB9A4D7A62F94015A82920A9284D23CE/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-03-18",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-transdev-in-261c779d0c9b91d7",
       "company": "Transdev",
       "company_id": "transdev",
@@ -2679,6 +2692,19 @@
       "url": "https://jobs.forvismazars.us/jobs",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "ic-careers-framatome-jobs-3065-quality-inspector-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "Quality Inspector",
+      "location": "Cranberry Township, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://careers-framatome.icims.com/jobs/3065/quality-inspector/job",
+      "posted_date": "",
+      "source": "icims"
     },
     {
       "id": "jv-hachette-PA",
@@ -4358,6 +4384,19 @@
       "source": "workday"
     },
     {
+      "id": "wd-sanofi-/job/Cambridge-MA/Operations-Lead-Vaccines_R2859445-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Operations Lead Vaccines",
+      "location": "2 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Senior",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Operations-Lead-Vaccines_R2859445-1",
+      "posted_date": "2026-07-03",
+      "source": "workday"
+    },
+    {
       "id": "wd-sanofi-/job/Morristown-NJ/People-Services-US-Payroll-Tax-Analyst_R2854594-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -4774,19 +4813,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-jobs-1391442533",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Mgr, Accounting",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Mgr%2C-Accounting-VA-23501/1391442533/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-jobs-1408873033",
       "company": "CMA CGM",
       "company_id": "cma-cgm",
@@ -4917,6 +4943,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-capgemini-in-e5e144c83e76e1e4",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Engagement Executive - Finance & Accounting Transformation",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://www.capgemini.com/jobs/470192-en_GB_SAPBTP/",
+      "posted_date": "2026-05-14",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-capgemini-in-68bf5c1bce065ec4",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -5034,6 +5073,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-capgemini-in-0b46a615ee2c5f1c",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "SAP Finance- Delivery Architect Director",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Director/VP",
+      "url": "https://www.capgemini.com/jobs/477148-en_US_SAPBTP/",
+      "posted_date": "2026-05-29",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-capgemini-in-d75c061891fbfd34",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -5044,6 +5096,19 @@
       "seniority": "Senior",
       "url": "https://capgemini.talentnet.community/jobs/451495de-11da-463d-8e1d-1137ae6cca6f",
       "posted_date": "2026-06-09",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-e39531d6b9f37f2d",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Senior Project Manager- Hospitality Industry Expert- Commerce & Omni Channel Domain",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Manager",
+      "url": "https://www.capgemini.com/jobs/504857-en_US_SAPBTP/",
+      "posted_date": "2026-06-22",
       "source": "indeed"
     },
     {
@@ -5550,19 +5615,6 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://careers-framatome.icims.com/jobs/3074/fuel-handling-equipment-technician/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
-      "id": "ic-careers-framatome-jobs-3075-manager-2c-hr-operations-job",
-      "company": "Framatome",
-      "company_id": "framatome",
-      "title": "Manager, HR Operations",
-      "location": "Lynchburg, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://careers-framatome.icims.com/jobs/3075/manager%2c-hr-operations/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -6074,16 +6126,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-schneider-electric-in-8ad13b944f33f0f4",
+      "id": "jsp-schneider-electric-in-eecb240b9c5b3b9b",
       "company": "Schneider Electric",
       "company_id": "schneider-electric",
-      "title": "Associate Project Development Manager",
+      "title": "Design Engineering Lead",
       "location": "Richmond, VA",
       "state": "VA",
       "sector": "Technology & Energy",
-      "seniority": "Manager",
-      "url": "https://careers.se.com/jobs/117515/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "posted_date": "2026-05-21",
+      "seniority": "Senior",
+      "url": "https://careers.se.com/jobs/125738/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "posted_date": "2026-07-02",
       "source": "indeed"
     },
     {
