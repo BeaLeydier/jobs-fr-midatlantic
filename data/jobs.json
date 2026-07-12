@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-11T08:14:31.009767+00:00",
-  "total": 562,
+  "last_updated": "2026-07-12T08:36:48.723171+00:00",
+  "total": 564,
   "jobs": [
     {
       "id": "sr-744000129297320",
@@ -222,6 +222,32 @@
       "url": "https://group.bnpparibas/en/careers",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "engie-68772-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "GU Operating Engineer_GUOE1B",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=GU%20Operating%20Engineer_GUOE1B",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-68502-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Project Management Senior_EGPM1I",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior_EGPM1I",
+      "posted_date": "",
+      "source": "engie"
     },
     {
       "id": "engie-59240-DC",
@@ -456,6 +482,19 @@
       "url": "https://www.dassault-aviation.com/en/group/careers/",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "engie-68432-DE",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Solar Technician II",
+      "location": "Dover, DE",
+      "state": "DE",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II",
+      "posted_date": "",
+      "source": "engie"
     },
     {
       "id": "engie-65512-DE",
@@ -780,19 +819,6 @@
       "seniority": "Mid-level",
       "url": "https://careers.se.com/jobs/108496/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2026-02-20",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-schneider-electric-in-efe17985aa928160",
-      "company": "Schneider Electric",
-      "company_id": "schneider-electric",
-      "title": "Senior Field Service Representative",
-      "location": "Easton, MD",
-      "state": "MD",
-      "sector": "Technology & Energy",
-      "seniority": "Senior",
-      "url": "https://careers.se.com/jobs/126578/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "posted_date": "2026-07-10",
       "source": "indeed"
     },
     {
@@ -4488,6 +4514,19 @@
       "source": "workday"
     },
     {
+      "id": "wd-ag-/job/Herndon-Area-VA/HR-AI-ML-Engineer-II_JR10427284",
+      "company": "Airbus",
+      "company_id": "airbus",
+      "title": "HR AI/ML Engineer II",
+      "location": "Herndon Area, Va",
+      "state": "VA",
+      "sector": "Aerospace & Defense",
+      "seniority": "Mid-level",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/HR-AI-ML-Engineer-II_JR10427284",
+      "posted_date": "",
+      "source": "workday"
+    },
+    {
       "id": "wd-ag-/job/Herndon-Area-VA/HRBP-III_JR10417475",
       "company": "Airbus",
       "company_id": "airbus",
@@ -4527,6 +4566,19 @@
       "source": "workday"
     },
     {
+      "id": "wd-ag-/job/Herndon-Area-VA/Payroll-Director_JR10427373",
+      "company": "Airbus",
+      "company_id": "airbus",
+      "title": "Payroll Director",
+      "location": "Herndon Area, Va",
+      "state": "VA",
+      "sector": "Aerospace & Defense",
+      "seniority": "Director/VP",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Payroll-Director_JR10427373",
+      "posted_date": "",
+      "source": "workday"
+    },
+    {
       "id": "wd-ag-/job/Herndon-Area-VA/Procurement-Applications-and-Process-Specialist_JR10400708",
       "company": "Airbus",
       "company_id": "airbus",
@@ -4562,19 +4614,6 @@
       "sector": "Aerospace & Defense",
       "seniority": "Mid-level",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Sales-Specialist---Used-Parts_JR10424971",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
-      "id": "wd-ag-/job/Herndon-Area-VA/Supply-Chain-Quality-Manager_JR10409168-1",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "Supply Chain Quality Manager",
-      "location": "Herndon Area, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Manager",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Supply-Chain-Quality-Manager_JR10409168-1",
       "posted_date": "",
       "source": "workday"
     },
@@ -6594,6 +6633,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-99ab2d23b51b3a44",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Electronics Recycling Technician - Demanufacturing",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000137261598-electronics-recycling-technician-demanufacturing",
+      "posted_date": "2026-07-11",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-24eaf071a236a385",
       "company": "Veolia",
       "company_id": "veolia",
@@ -7215,32 +7267,6 @@
       "seniority": "Manager",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000134542258-account-manager-industrial-water-treatment",
       "posted_date": "2026-06-26",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-72a1a6f59180a756",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Environmental Technician I",
-      "location": "Morgantown, WV",
-      "state": "WV",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000131990939-environmental-technician-i-",
-      "posted_date": "2026-06-12",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-a5f386c41159ad3f",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Environmental Technician II",
-      "location": "Morgantown, WV",
-      "state": "WV",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000134923420-environmental-technician-ii",
-      "posted_date": "2026-06-30",
       "source": "indeed"
     },
     {
