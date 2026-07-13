@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T08:36:48.723171+00:00",
+  "last_updated": "2026-07-13T09:49:17.087041+00:00",
   "total": 564,
   "jobs": [
     {
@@ -233,19 +233,6 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=GU%20Operating%20Engineer_GUOE1B",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-68502-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Project Management Senior_EGPM1I",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior_EGPM1I",
       "posted_date": "",
       "source": "engie"
     },
@@ -705,16 +692,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-orano-in-f9fe4e8074c1ded3",
+      "id": "jsp-orano-in-9efb0334ae2a86b2",
       "company": "Orano",
       "company_id": "orano",
-      "title": "Business Line Manager, Transportation and Services",
+      "title": "Civil Engineer I-II",
       "location": "Columbia, MD",
       "state": "MD",
       "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.orano.group/en_US/jobs/JobDetail/Business-Line-Manager-Transportation-and-Services/14878?source=External%2BCareers%2BMarketplace",
-      "posted_date": "2026-06-16",
+      "seniority": "Mid-level",
+      "url": "https://jobs.orano.group/en_US/jobs/JobDetail/Civil-Engineer-I-II/14865?source=External%2BCareers%2BMarketplace",
+      "posted_date": "2026-06-15",
       "source": "indeed"
     },
     {
@@ -1247,6 +1234,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Baltimore-Vendor-Managed-Inventory-Coordinator-MD-21230/1409449933/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1414068933",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Warehouse Associate",
+      "location": "Upper Marlboro, MD",
+      "state": "MD",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Upper-Marlboro-Warehouse-Associate-MD-20774/1414068933/",
       "posted_date": "",
       "source": "j2w"
     },
