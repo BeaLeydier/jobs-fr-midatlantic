@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T08:11:29.091828+00:00",
-  "total": 574,
+  "last_updated": "2026-07-19T08:38:31.378168+00:00",
+  "total": 572,
   "jobs": [
     {
       "id": "sr-744000129297320",
@@ -42,19 +42,6 @@
       "source": "smartrecruiters"
     },
     {
-      "id": "sr-744000125411059",
-      "company": "Accor",
-      "company_id": "accor",
-      "title": "Business Transient Sales Manager",
-      "location": "Washington, Dc, Us",
-      "state": "DC",
-      "sector": "Hospitality & Services",
-      "seniority": "Manager",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000125411059",
-      "posted_date": "2026-05-08",
-      "source": "smartrecruiters"
-    },
-    {
       "id": "sr-744000127501958",
       "company": "Accor",
       "company_id": "accor",
@@ -78,19 +65,6 @@
       "seniority": "Director/VP",
       "url": "https://jobs.smartrecruiters.com/AccorHotel/744000135597089",
       "posted_date": "2026-07-02",
-      "source": "smartrecruiters"
-    },
-    {
-      "id": "sr-744000127252375",
-      "company": "Accor",
-      "company_id": "accor",
-      "title": "Director of Sales",
-      "location": "Washington, Dc, Us",
-      "state": "DC",
-      "sector": "Hospitality & Services",
-      "seniority": "Director/VP",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000127252375",
-      "posted_date": "2026-05-19",
       "source": "smartrecruiters"
     },
     {
@@ -222,6 +196,19 @@
       "url": "https://group.bnpparibas/en/careers",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "engie-68772-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "GU Operating Engineer_GUOE1B",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=GU%20Operating%20Engineer_GUOE1B",
+      "posted_date": "",
+      "source": "engie"
     },
     {
       "id": "engie-59240-DC",
@@ -416,19 +403,6 @@
       "seniority": "Senior",
       "url": "https://jobsearch.alstom.com/job/New-Castle-Lead-Design-Engineer-DE/1402136733/",
       "posted_date": "2026-06-08",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-alstom-in-2371f2cd806cbcad",
-      "company": "Alstom",
-      "company_id": "alstom",
-      "title": "NAM Services Business Process Manager - Customer Service/Sales, Component Overhaul & Repairs",
-      "location": "New Castle, DE",
-      "state": "DE",
-      "sector": "Transportation & Rail",
-      "seniority": "Manager",
-      "url": "https://jobsearch.alstom.com/job/New-Castle-NAM-Services-Business-Process-Manager-Customer-ServiceSales%2C-Component-Overhaul-&-Repairs-DE/1385168233/",
-      "posted_date": "2026-04-17",
       "source": "indeed"
     },
     {
@@ -2575,6 +2549,19 @@
       "url": "https://jobs.ourcareerpages.com/",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "jsp-mazars-in-e2893a777691ece0",
+      "company": "Forvis Mazars",
+      "company_id": "mazars",
+      "title": "Director, Restructuring & Special Situations",
+      "location": "Fort Washington, PA",
+      "state": "PA",
+      "sector": "Consulting & Professional Services",
+      "seniority": "Director/VP",
+      "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Director-Restructuring-Special-Situations/13677",
+      "posted_date": "2025-09-03",
+      "source": "indeed"
     },
     {
       "id": "jsp-mazars-in-79a8bcc115157fcc",
@@ -6178,19 +6165,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-schneider-electric-in-0262b855b37a194c",
-      "company": "Schneider Electric",
-      "company_id": "schneider-electric",
-      "title": "System Commissioning Specialist",
-      "location": "Ashburn, VA",
-      "state": "VA",
-      "sector": "Technology & Energy",
-      "seniority": "Mid-level",
-      "url": "https://careers.se.com/jobs/112594/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "posted_date": "2026-03-20",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-schneider-electric-in-97214e96d64d5a36",
       "company": "Schneider Electric",
       "company_id": "schneider-electric",
@@ -6360,19 +6334,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1414443133",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Warehouse Associate",
-      "location": "Richmond, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Richmond-Warehouse-Associate-VA-23230/1414443133/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1414499733",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6382,6 +6343,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Springfield-Warehouse-Associate-IL-62702/1414499733/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1414443133",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Warehouse Associate",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Richmond-Warehouse-Associate-VA-23230/1414443133/",
       "posted_date": "",
       "source": "j2w"
     },
