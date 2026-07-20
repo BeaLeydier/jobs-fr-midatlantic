@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T08:38:31.378168+00:00",
-  "total": 572,
+  "last_updated": "2026-07-20T09:37:28.709888+00:00",
+  "total": 570,
   "jobs": [
     {
       "id": "sr-744000129297320",
@@ -403,6 +403,19 @@
       "seniority": "Senior",
       "url": "https://jobsearch.alstom.com/job/New-Castle-Lead-Design-Engineer-DE/1402136733/",
       "posted_date": "2026-06-08",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-alstom-in-2371f2cd806cbcad",
+      "company": "Alstom",
+      "company_id": "alstom",
+      "title": "NAM Services Business Process Manager - Customer Service/Sales, Component Overhaul & Repairs",
+      "location": "New Castle, DE",
+      "state": "DE",
+      "sector": "Transportation & Rail",
+      "seniority": "Manager",
+      "url": "https://jobsearch.alstom.com/job/New-Castle-NAM-Services-Business-Process-Manager-Customer-ServiceSales%2C-Component-Overhaul-&-Repairs-DE/1385168233/",
+      "posted_date": "2026-04-17",
       "source": "indeed"
     },
     {
@@ -831,6 +844,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Upper-Marlboro-Business-Development-Representative-MD-20774/1399431433/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1416540133",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Counter Sales Representative",
+      "location": "Chestertown, MD",
+      "state": "MD",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Chestertown-Counter-Sales-Representative-MD-21620/1416540133/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2551,19 +2577,6 @@
       "source": "manual_link"
     },
     {
-      "id": "jsp-mazars-in-e2893a777691ece0",
-      "company": "Forvis Mazars",
-      "company_id": "mazars",
-      "title": "Director, Restructuring & Special Situations",
-      "location": "Fort Washington, PA",
-      "state": "PA",
-      "sector": "Consulting & Professional Services",
-      "seniority": "Director/VP",
-      "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Director-Restructuring-Special-Situations/13677",
-      "posted_date": "2025-09-03",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-mazars-in-79a8bcc115157fcc",
       "company": "Forvis Mazars",
       "company_id": "mazars",
@@ -3003,19 +3016,6 @@
       "seniority": "Mid-level",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Research-Associate_R2859622-1",
       "posted_date": "2026-07-08",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Senior-Nonclinical-Statistician_R2853310-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Senior Nonclinical Statistician",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Senior",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Senior-Nonclinical-Statistician_R2853310-1",
-      "posted_date": "2026-04-28",
       "source": "workday"
     },
     {
@@ -4696,7 +4696,7 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-jobs-1411921433",
+      "id": "j2w-jobs-1415341533",
       "company": "CMA CGM",
       "company_id": "cma-cgm",
       "title": "Dangerous Goods Representative",
@@ -4704,7 +4704,7 @@
       "state": "VA",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Dangerous-Goods-Representative-VA-23501/1411921433/",
+      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Dangerous-Goods-Representative-VA-23501/1415341533/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6230,19 +6230,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1410067433",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Branch Manager-Springfield, IL",
-      "location": "Springfield, IL",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Springfield-Branch-Manager-Springfield%2C-IL-IL-62702/1410067433/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1396228233",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6334,19 +6321,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1414499733",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Warehouse Associate",
-      "location": "Springfield, IL",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Springfield-Warehouse-Associate-IL-62702/1414499733/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1414443133",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6356,6 +6330,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Richmond-Warehouse-Associate-VA-23230/1414443133/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1414499733",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Warehouse Associate",
+      "location": "Springfield, IL",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Springfield-Warehouse-Associate-IL-62702/1414499733/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6786,19 +6773,6 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135088448-driver-water-treatment",
       "posted_date": "2026-06-30",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-99ab2d23b51b3a44",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Electronics Recycling Technician - Demanufacturing",
-      "location": "Richmond, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000137261598-electronics-recycling-technician-demanufacturing",
-      "posted_date": "2026-07-11",
       "source": "indeed"
     },
     {
