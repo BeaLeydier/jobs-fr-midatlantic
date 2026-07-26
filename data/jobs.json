@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T08:25:56.222613+00:00",
-  "total": 570,
+  "last_updated": "2026-07-26T08:43:57.319624+00:00",
+  "total": 572,
   "jobs": [
     {
       "id": "sr-744000127044301",
@@ -185,28 +185,28 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-68772-DC",
+      "id": "engie-69136-DC",
       "company": "Engie",
       "company_id": "engie",
-      "title": "GU Operating Engineer_GUOE1B",
+      "title": "Instrument. and Controls, Mgr",
       "location": "Washington, DC",
       "state": "DC",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=GU%20Operating%20Engineer_GUOE1B",
+      "url": "https://jobs.engie.com/search/?q=Instrument.%20and%20Controls%2C%20Mgr",
       "posted_date": "",
       "source": "engie"
     },
     {
-      "id": "engie-68502-DC",
+      "id": "engie-59240-DC",
       "company": "Engie",
       "company_id": "engie",
-      "title": "Project Management Senior",
+      "title": "Senior Construction Manager",
       "location": "Washington, DC",
       "state": "DC",
       "sector": "Energy & Environment",
       "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior",
+      "url": "https://jobs.engie.com/search/?q=Senior%20Construction%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -367,6 +367,19 @@
       "source": "workday"
     },
     {
+      "id": "jsp-alstom-in-c9f3f93bbd286feb",
+      "company": "Alstom",
+      "company_id": "alstom",
+      "title": "Lead Design Engineer",
+      "location": "New Castle, DE",
+      "state": "DE",
+      "sector": "Transportation & Rail",
+      "seniority": "Senior",
+      "url": "https://jobsearch.alstom.com/job/New-Castle-Lead-Design-Engineer-DE/1402136733/",
+      "posted_date": "2026-06-08",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-alstom-in-2371f2cd806cbcad",
       "company": "Alstom",
       "company_id": "alstom",
@@ -402,6 +415,19 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-65512-DE",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Solar Technician II - Solidago Solar Site",
+      "location": "Dover, DE",
+      "state": "DE",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II%20-%20Solidago%20Solar%20Site",
       "posted_date": "",
       "source": "engie"
     },
@@ -874,7 +900,7 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1418389933",
+      "id": "j2w-career-1408890233",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Driver",
@@ -882,7 +908,7 @@
       "state": "MD",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Salisbury-Driver-MD-21801/1418389933/",
+      "url": "https://career.sonepar.com/job/Salisbury-Driver-MD-21801/1408890233/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -3682,6 +3708,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-32657e15f2358aed",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Equipment/Machine Operators",
+      "location": "Allentown, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://veolia-1.betterteam.com/equipment-machine-operators?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic",
+      "posted_date": "2026-07-25",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-f2f07ca219bc6043",
       "company": "Veolia",
       "company_id": "veolia",
@@ -3731,19 +3770,6 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139688128-field-service-representative-dispatchable-water-technologies",
       "posted_date": "2026-07-24",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-6cc1f4067f117b62",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Field Service Technician",
-      "location": "King Of Prussia, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://veolia-1.betterteam.com/field-service-technician-3?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic",
-      "posted_date": "2026-07-15",
       "source": "indeed"
     },
     {
@@ -4761,7 +4787,7 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-jobs-1411921433",
+      "id": "j2w-jobs-1415341533",
       "company": "CMA CGM",
       "company_id": "cma-cgm",
       "title": "Dangerous Goods Representative",
@@ -4769,7 +4795,7 @@
       "state": "VA",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Dangerous-Goods-Representative-VA-23501/1411921433/",
+      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Dangerous-Goods-Representative-VA-23501/1415341533/",
       "posted_date": "",
       "source": "j2w"
     },
