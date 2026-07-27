@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T08:43:57.319624+00:00",
-  "total": 572,
+  "last_updated": "2026-07-27T10:12:48.034185+00:00",
+  "total": 569,
   "jobs": [
     {
       "id": "sr-744000127044301",
@@ -185,6 +185,19 @@
       "source": "manual_link"
     },
     {
+      "id": "engie-68772-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "GU Operating Engineer_GUOE1B",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=GU%20Operating%20Engineer_GUOE1B",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-69136-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -194,6 +207,19 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Instrument.%20and%20Controls%2C%20Mgr",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-68502-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Project Management Senior",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior",
       "posted_date": "",
       "source": "engie"
     },
@@ -415,19 +441,6 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-65512-DE",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Solar Technician II - Solidago Solar Site",
-      "location": "Dover, DE",
-      "state": "DE",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II%20-%20Solidago%20Solar%20Site",
       "posted_date": "",
       "source": "engie"
     },
@@ -900,7 +913,7 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1408890233",
+      "id": "j2w-career-1418389933",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Driver",
@@ -908,7 +921,7 @@
       "state": "MD",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Salisbury-Driver-MD-21801/1408890233/",
+      "url": "https://career.sonepar.com/job/Salisbury-Driver-MD-21801/1418389933/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2421,6 +2434,19 @@
       "source": "manual_link"
     },
     {
+      "id": "jsp-mazars-in-e2893a777691ece0",
+      "company": "Forvis Mazars",
+      "company_id": "mazars",
+      "title": "Director, Restructuring & Special Situations",
+      "location": "Fort Washington, PA",
+      "state": "PA",
+      "sector": "Consulting & Professional Services",
+      "seniority": "Director/VP",
+      "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Director-Restructuring-Special-Situations/13677",
+      "posted_date": "2025-09-03",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-mazars-in-79a8bcc115157fcc",
       "company": "Forvis Mazars",
       "company_id": "mazars",
@@ -2808,19 +2834,6 @@
       "seniority": "Mid-level",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Material-Planner_R2858719-1",
       "posted_date": "2026-07-10",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Metrology-Engineer_R2863876",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Metrology Engineer",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Metrology-Engineer_R2863876",
-      "posted_date": "2026-07-16",
       "source": "workday"
     },
     {
@@ -4202,19 +4215,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Morristown-NJ/Global-Category-Buy-BioProcess-Raw-Materials_R2859050",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Global Category Buy BioProcess Raw Materials",
-      "location": "2 Locations",
-      "state": "US",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Global-Category-Buy-BioProcess-Raw-Materials_R2859050",
-      "posted_date": "2026-05-26",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Cambridge-MA/Global-Periodic-Reporting-Lead_R2855268-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -4251,32 +4251,6 @@
       "seniority": "Director/VP",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Head-of-Clinical-Operations--Vaccines_R2866386-1",
       "posted_date": "2026-07-24",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Morristown-NJ/Head-of-North-America-Occupational-Health_R2856276",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Head of North America Occupational Health",
-      "location": "3 Locations",
-      "state": "US",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Director/VP",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Head-of-North-America-Occupational-Health_R2856276",
-      "posted_date": "2026-05-15",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Waltham-MA/Head-of-Platform-Partnerships-and-Outlicensing---Vaccine_R2862725-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Head of Platform Partnerships and Outlicensing - Vaccine",
-      "location": "4 Locations",
-      "state": "US",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Director/VP",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/Head-of-Platform-Partnerships-and-Outlicensing---Vaccine_R2862725-1",
-      "posted_date": "2026-07-21",
       "source": "workday"
     },
     {
@@ -5174,6 +5148,19 @@
       "seniority": "Senior",
       "url": "https://recruiting.ultipro.com/CAP1009CAPGE/JobBoard/5178abe8-537c-41a6-96cc-fce9104c8f2f/OpportunityDetail?opportunityId=4f94eb17-a8ec-466e-afc6-ce0545795c10&postingId=d733bb32-0552-485f-b113-e5074853e9ad",
       "posted_date": "2026-07-21",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-e39531d6b9f37f2d",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Senior Project Manager- Hospitality Industry Expert- Commerce & Omni Channel Domain",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Manager",
+      "url": "https://www.capgemini.com/jobs/504857-en_US_SAPBTP/",
+      "posted_date": "2026-06-22",
       "source": "indeed"
     },
     {
@@ -6334,19 +6321,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1407546833",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Inside Sales Representative",
-      "location": "Virginia Beach, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Virginia-Beach-Inside-Sales-Representative-VA-23455/1407546833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1411521733",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6356,6 +6330,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Newport-News-Inside-Sales-Representative-VA-23607/1411521733/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1407546833",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Inside Sales Representative",
+      "location": "Virginia Beach, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Virginia-Beach-Inside-Sales-Representative-VA-23455/1407546833/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -7127,19 +7114,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-jobs-1387669133",
-      "company": "Constellium",
-      "company_id": "constellium",
-      "title": "Communications & Public Relations Manager",
-      "location": "Ravenswood, WV",
-      "state": "WV",
-      "sector": "Manufacturing & Materials",
-      "seniority": "Manager",
-      "url": "https://jobs.constellium.com/job/Ravenswood-Communications-&-Public-Relations-Manager-WV-26164-0068/1387669133/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-jobs-1418224133",
       "company": "Constellium",
       "company_id": "constellium",
@@ -7305,19 +7279,6 @@
       "sector": "Manufacturing & Materials",
       "seniority": "Mid-level",
       "url": "https://jobs.constellium.com/job/Ravenswood-Production-Planner-WV-26164-0068/1413304833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1410901533",
-      "company": "Constellium",
-      "company_id": "constellium",
-      "title": "Production Scheduler, Hot Line",
-      "location": "Ravenswood, WV",
-      "state": "WV",
-      "sector": "Manufacturing & Materials",
-      "seniority": "Mid-level",
-      "url": "https://jobs.constellium.com/job/Ravenswood-Production-Scheduler%2C-Hot-Line-WV-26164-0068/1410901533/",
       "posted_date": "",
       "source": "j2w"
     },
