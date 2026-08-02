@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T08:39:38.261344+00:00",
-  "total": 576,
+  "last_updated": "2026-08-02T08:40:55.102456+00:00",
+  "total": 581,
   "jobs": [
     {
       "id": "sr-744000140072889",
@@ -250,15 +250,15 @@
       "source": "engie"
     },
     {
-      "id": "engie-68772-DC",
+      "id": "engie-69136-DC",
       "company": "Engie",
       "company_id": "engie",
-      "title": "GU Operating Engineer_GUOE1B",
+      "title": "Instrument. and Controls, Mgr",
       "location": "Washington, DC",
       "state": "DC",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=GU%20Operating%20Engineer_GUOE1B",
+      "url": "https://jobs.engie.com/search/?q=Instrument.%20and%20Controls%2C%20Mgr",
       "posted_date": "",
       "source": "engie"
     },
@@ -272,19 +272,6 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Plant%20EHS%20Mgr._PTES1M",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-68502-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Project Management Senior",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior",
       "posted_date": "",
       "source": "engie"
     },
@@ -510,17 +497,17 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-65512-DE",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Solar Technician II - Solidago Solar Site",
-      "location": "Dover, DE",
+      "id": "ic-edf-DE",
+      "company": "EDF Renewables",
+      "company_id": "edf",
+      "title": "Voir les offres d'emploi →",
+      "location": "DE",
       "state": "DE",
       "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II%20-%20Solidago%20Solar%20Site",
+      "seniority": "N/A",
+      "url": "https://careers-edf-re.icims.com/jobs/search?ss=1",
       "posted_date": "",
-      "source": "engie"
+      "source": "manual_link"
     },
     {
       "id": "wd-roquette-/job/Wilmington/Account-Manager_R0025773",
@@ -653,17 +640,17 @@
       "source": "j2w"
     },
     {
-      "id": "ic-careers-edf-re-jobs-4968-renewable-energy--28solar-29-technician---3--5bon-site-5d-job",
+      "id": "ic-edf-MD",
       "company": "EDF Renewables",
       "company_id": "edf",
-      "title": "Renewable Energy (Solar) Technician - 3 [On-Site]",
-      "location": "Kitzmiller, MD",
+      "title": "Voir les offres d'emploi →",
+      "location": "MD",
       "state": "MD",
       "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://careers-edf-re.icims.com/jobs/4968/renewable-energy-%28solar%29-technician---3-%5bon-site%5d/job",
+      "seniority": "N/A",
+      "url": "https://careers-edf-re.icims.com/jobs/search?ss=1",
       "posted_date": "",
-      "source": "icims"
+      "source": "manual_link"
     },
     {
       "id": "jsp-esi-group-in-75eda1b51c01adb4",
@@ -978,7 +965,7 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1408890233",
+      "id": "j2w-career-1418389933",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Driver",
@@ -986,7 +973,7 @@
       "state": "MD",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Salisbury-Driver-MD-21801/1408890233/",
+      "url": "https://career.sonepar.com/job/Salisbury-Driver-MD-21801/1418389933/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2187,7 +2174,7 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-jobs-1413864833",
+      "id": "j2w-jobs-1416890533",
       "company": "Arkema",
       "company_id": "arkema",
       "title": "Chemical Operator B",
@@ -2195,7 +2182,7 @@
       "state": "PA",
       "sector": "Industrials & Chemicals",
       "seniority": "Mid-level",
-      "url": "https://jobs.arkema.com/job/West-Chester-Chemical-Operator-B-Job-PA/1413864833/",
+      "url": "https://jobs.arkema.com/job/West-Chester-Chemical-Operator-B-Job-PA/1416890533/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2512,6 +2499,19 @@
       "source": "manual_link"
     },
     {
+      "id": "ic-edf-PA",
+      "company": "EDF Renewables",
+      "company_id": "edf",
+      "title": "Voir les offres d'emploi →",
+      "location": "PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "N/A",
+      "url": "https://careers-edf-re.icims.com/jobs/search?ss=1",
+      "posted_date": "",
+      "source": "manual_link"
+    },
+    {
       "id": "engie-69930-PA",
       "company": "Engie",
       "company_id": "engie",
@@ -2536,6 +2536,45 @@
       "url": "https://jobs.ourcareerpages.com/",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "jsp-mazars-in-7f5d8d375f00f56a",
+      "company": "Forvis Mazars",
+      "company_id": "mazars",
+      "title": "Director, Restructuring & Special Situations",
+      "location": "Fort Washington, PA",
+      "state": "PA",
+      "sector": "Consulting & Professional Services",
+      "seniority": "Director/VP",
+      "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Director-Restructuring-Special-Situations/13677",
+      "posted_date": "2025-09-03",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-mazars-in-5a4eeebe4fbcd487",
+      "company": "Forvis Mazars",
+      "company_id": "mazars",
+      "title": "Lead Consultant, IT Risk & Compliance",
+      "location": "Pittsburgh, PA",
+      "state": "PA",
+      "sector": "Consulting & Professional Services",
+      "seniority": "Senior",
+      "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Lead-Consultant-IT-Risk-Compliance/15060",
+      "posted_date": "2026-07-24",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-mazars-in-279af04916fa9a75",
+      "company": "Forvis Mazars",
+      "company_id": "mazars",
+      "title": "Manager, Restructuring & Special Situations",
+      "location": "Fort Washington, PA",
+      "state": "PA",
+      "sector": "Consulting & Professional Services",
+      "seniority": "Manager",
+      "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Manager-Restructuring-Special-Situations/14404",
+      "posted_date": "2026-02-25",
+      "source": "indeed"
     },
     {
       "id": "jsp-mazars-in-77faff3883acee52",
@@ -3175,6 +3214,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-schneider-electric-in-70a7a8731d487cb6",
+      "company": "Schneider Electric",
+      "company_id": "schneider-electric",
+      "title": "Supply Chain Intern",
+      "location": "Mechanicsburg, PA",
+      "state": "PA",
+      "sector": "Technology & Energy",
+      "seniority": "Internship",
+      "url": "https://careers.se.com/jobs/129451/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "posted_date": "2026-07-31",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-schneider-electric-in-6826919410914f8d",
       "company": "Schneider Electric",
       "company_id": "schneider-electric",
@@ -3240,19 +3292,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1393069733",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Counter Sales Representative",
-      "location": "Lancaster, PA",
-      "state": "PA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Lancaster-Counter-Sales-Representative-PA-17601/1393069733/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1419985833",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -3262,6 +3301,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Gettysburg-Counter-Sales-Representative-PA-17325/1419985833/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1393069733",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Counter Sales Representative",
+      "location": "Lancaster, PA",
+      "state": "PA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Lancaster-Counter-Sales-Representative-PA-17601/1393069733/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5242,19 +5294,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-113faecc285e46f7",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Sr. PKI, HashiCorp Operations Engineer",
-      "location": "Mclean, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Senior",
-      "url": "https://www.capgemini.com/jobs/526986-en_US_SAPBTP/",
-      "posted_date": "2026-07-29",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-capgemini-in-3621ec13bf443d69",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -5342,6 +5381,19 @@
       "sector": "Industrial Distribution",
       "seniority": "N/A",
       "url": "https://en.descours-cabaud-carrieres.com/",
+      "posted_date": "",
+      "source": "manual_link"
+    },
+    {
+      "id": "ic-edf-VA",
+      "company": "EDF Renewables",
+      "company_id": "edf",
+      "title": "Voir les offres d'emploi →",
+      "location": "VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "N/A",
+      "url": "https://careers-edf-re.icims.com/jobs/search?ss=1",
       "posted_date": "",
       "source": "manual_link"
     },
@@ -6386,19 +6438,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1407546833",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Inside Sales Representative",
-      "location": "Virginia Beach, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Virginia-Beach-Inside-Sales-Representative-VA-23455/1407546833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1411521733",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6408,6 +6447,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Newport-News-Inside-Sales-Representative-VA-23607/1411521733/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1407546833",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Inside Sales Representative",
+      "location": "Virginia Beach, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Virginia-Beach-Inside-Sales-Representative-VA-23455/1407546833/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -7385,6 +7437,19 @@
       "url": "https://jobs.constellium.com/job/Ravenswood-Software-Engineer-Manufacturing-Systems-WV-26164-0068/1376272033/",
       "posted_date": "",
       "source": "j2w"
+    },
+    {
+      "id": "ic-edf-WV",
+      "company": "EDF Renewables",
+      "company_id": "edf",
+      "title": "Voir les offres d'emploi →",
+      "location": "WV",
+      "state": "WV",
+      "sector": "Energy & Environment",
+      "seniority": "N/A",
+      "url": "https://careers-edf-re.icims.com/jobs/search?ss=1",
+      "posted_date": "",
+      "source": "manual_link"
     },
     {
       "id": "wd-sanofi-/job/Charleston-WV/Area-Business-Manager--Charleston--WV_R2858470",
