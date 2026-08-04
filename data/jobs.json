@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T10:08:10.211340+00:00",
-  "total": 581,
+  "last_updated": "2026-08-04T08:58:03.616304+00:00",
+  "total": 573,
   "jobs": [
     {
       "id": "sr-744000140072889",
@@ -42,7 +42,7 @@
       "source": "smartrecruiters"
     },
     {
-      "id": "sr-744000140285110",
+      "id": "sr-744000141331044",
       "company": "Accor",
       "company_id": "accor",
       "title": "Bellperson",
@@ -50,8 +50,8 @@
       "state": "DC",
       "sector": "Hospitality & Services",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000140285110",
-      "posted_date": "2026-07-28",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000141331044",
+      "posted_date": "2026-08-03",
       "source": "smartrecruiters"
     },
     {
@@ -172,19 +172,6 @@
       "source": "smartrecruiters"
     },
     {
-      "id": "sr-744000134605009",
-      "company": "Accor",
-      "company_id": "accor",
-      "title": "Sales Coordinator",
-      "location": "Washington, Dc, Us",
-      "state": "DC",
-      "sector": "Hospitality & Services",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000134605009",
-      "posted_date": "2026-06-27",
-      "source": "smartrecruiters"
-    },
-    {
       "id": "sr-744000133433850",
       "company": "Accor",
       "company_id": "accor",
@@ -250,19 +237,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-68772-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "GU Operating Engineer_GUOE1B",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=GU%20Operating%20Engineer_GUOE1B",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "engie-69136-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -276,19 +250,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-69719-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Plant EHS Mgr._PTES1M",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Plant%20EHS%20Mgr._PTES1M",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "engie-68502-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -298,19 +259,6 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-59240-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Senior Construction Manager",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Senior%20Construction%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -339,19 +287,6 @@
       "url": "https://www.ligne-roset.com/us/careers",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "wd-pernodricard-/job/Washington-DC/Administrative-Assistant---Event-Coordinator_JR-054441",
-      "company": "Pernod Ricard",
-      "company_id": "pernod-ricard",
-      "title": "Administrative Assistant & Event Coordinator",
-      "location": "Washington, Dc",
-      "state": "DC",
-      "sector": "Food & Beverage",
-      "seniority": "Mid-level",
-      "url": "https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Washington-DC/Administrative-Assistant---Event-Coordinator_JR-054441",
-      "posted_date": "",
-      "source": "workday"
     },
     {
       "id": "jsp-ratp-dev-DC",
@@ -497,6 +432,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-alstom-in-32fda27b80c35449",
+      "company": "Alstom",
+      "company_id": "alstom",
+      "title": "Logistic Manager",
+      "location": "New Castle, DE",
+      "state": "DE",
+      "sector": "Transportation & Rail",
+      "seniority": "Manager",
+      "url": "https://jobsearch.alstom.com/job/New-Castle-Logistic-Manager-DE/1422535133/",
+      "posted_date": "2026-08-03",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-alstom-in-2371f2cd806cbcad",
       "company": "Alstom",
       "company_id": "alstom",
@@ -536,6 +484,19 @@
       "source": "manual_link"
     },
     {
+      "id": "engie-65512-DE",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Solar Technician II - Solidago Solar Site",
+      "location": "Dover, DE",
+      "state": "DE",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II%20-%20Solidago%20Solar%20Site",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "wd-roquette-/job/Wilmington/Account-Manager_R0025773",
       "company": "Roquette",
       "company_id": "roquette",
@@ -573,19 +534,6 @@
       "url": "https://external-careers-sodexo.icims.com/jobs/search?ss=1",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "j2w-career-1415450433",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Branch Manager - Wilmington, DE",
-      "location": "Wilmington, DE",
-      "state": "DE",
-      "sector": "Industrial Distribution",
-      "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Wilmington-Branch-Manager-Wilmington%2C-DE-DE-19804/1415450433/",
-      "posted_date": "",
-      "source": "j2w"
     },
     {
       "id": "jsp-veolia-in-cf90ce5be4dab4e6",
@@ -651,6 +599,19 @@
       "url": "https://recruiting.ultipro.com/CAP1009CAPGE/JobBoard/5178abe8-537c-41a6-96cc-fce9104c8f2f/OpportunityDetail?opportunityId=56cab930-a949-43c7-8606-99ea85f3d9c2&postingId=e52d5d5e-7e43-4294-beac-333c9b8d9762",
       "posted_date": "2026-07-15",
       "source": "indeed"
+    },
+    {
+      "id": "j2w-jobs-1422368733",
+      "company": "Constellium",
+      "company_id": "constellium",
+      "title": "IT Director North America",
+      "location": "Baltimore, MD",
+      "state": "MD",
+      "sector": "Manufacturing & Materials",
+      "seniority": "Director/VP",
+      "url": "https://jobs.constellium.com/job/Baltimore-IT-Director-North-America-MD-21202/1422368733/",
+      "posted_date": "",
+      "source": "j2w"
     },
     {
       "id": "j2w-jobs-1388426833",
@@ -835,19 +796,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-schneider-electric-in-a3ae29c9925a7dbb",
-      "company": "Schneider Electric",
-      "company_id": "schneider-electric",
-      "title": "Project Engineer I",
-      "location": "Columbia, MD",
-      "state": "MD",
-      "sector": "Technology & Energy",
-      "seniority": "Mid-level",
-      "url": "https://careers.se.com/jobs/108496/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "posted_date": "2026-02-20",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-schneider-electric-in-44f2c5b6adde9d32",
       "company": "Schneider Electric",
       "company_id": "schneider-electric",
@@ -952,15 +900,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1400548833",
+      "id": "j2w-career-1422246033",
       "company": "Sonepar",
       "company_id": "sonepar",
-      "title": "Counter Sales Representative - Timonium, MD",
-      "location": "Timonium, MD",
+      "title": "Counter Sales Representative",
+      "location": "Upper Marlboro, MD",
       "state": "MD",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Timonium-Counter-Sales-Representative-Timonium%2C-MD-MD-21093/1400548833/",
+      "url": "https://career.sonepar.com/job/Upper-Marlboro-Counter-Sales-Representative-MD-20774/1422246033/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -1355,6 +1303,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-transdev-in-ad3e9f6f981d9556",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "CDL Bus Driver - BWI Airport",
+      "location": "Baltimore, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/572CA88C308E463098CCFEFA20C6834B/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-01-22",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-transdev-in-dc0e67317c0c7bd3",
       "company": "Transdev",
       "company_id": "transdev",
@@ -1641,32 +1602,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-3a8c68eed2305c58",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Part Time Service Bus Lane Technician",
-      "location": "Silver Spring, MD",
-      "state": "MD",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/EE1093B272DB47D88090B9221A1E191A/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-07-20",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-transdev-in-ae479ae9aa52beee",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Part Time Service Bus Lane Technician",
-      "location": "Rockville, MD",
-      "state": "MD",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/8B06A550246D4D8DACB74547A9563B14/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-07-20",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-transdev-in-261c779d0c9b91d7",
       "company": "Transdev",
       "company_id": "transdev",
@@ -1781,6 +1716,19 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/39B90A77E046417387AFEA1A352A3BD1/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-05-01",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-ed53d36bbfc39ea1",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Scheduler",
+      "location": "New Carrollton, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/41A44139723D4B52A3ABEADF9CF1AD05/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-08-03",
       "source": "indeed"
     },
     {
@@ -2187,7 +2135,7 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-jobs-1413864833",
+      "id": "j2w-jobs-1416890533",
       "company": "Arkema",
       "company_id": "arkema",
       "title": "Chemical Operator B",
@@ -2195,7 +2143,7 @@
       "state": "PA",
       "sector": "Industrials & Chemicals",
       "seniority": "Mid-level",
-      "url": "https://jobs.arkema.com/job/West-Chester-Chemical-Operator-B-Job-PA/1413864833/",
+      "url": "https://jobs.arkema.com/job/West-Chester-Chemical-Operator-B-Job-PA/1416890533/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2209,19 +2157,6 @@
       "sector": "Industrials & Chemicals",
       "seniority": "Senior",
       "url": "https://jobs.arkema.com/job/Radnor-Customer-Service-Team-Lead-Job-PA/1409084833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1401453133",
-      "company": "Arkema",
-      "company_id": "arkema",
-      "title": "Customs and Export Specialist",
-      "location": "Radnor, PA",
-      "state": "PA",
-      "sector": "Industrials & Chemicals",
-      "seniority": "Mid-level",
-      "url": "https://jobs.arkema.com/job/Radnor-Customs-and-Export-Specialist-Job-PA/1401453133/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2395,19 +2330,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-bfeac083f625981a",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "FullStack Engineer (AWS AI)",
-      "location": "Malvern, PA",
-      "state": "PA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/44bc23ab-52f0-4bc2-a191-3da5261d8f7d",
-      "posted_date": "2026-07-10",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-capgemini-in-f70f34e987fd4109",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -2418,6 +2340,19 @@
       "seniority": "Mid-level",
       "url": "https://capgemini.talentnet.community/jobs/fd243bd3-78d0-4d9f-bda4-c2e9231777d8",
       "posted_date": "2026-07-17",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-c21ce5ad995d3a3e",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Python Test Automation Developer",
+      "location": "Philadelphia, PA",
+      "state": "PA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://capgemini.talentnet.community/jobs/ca37c7a0-2456-47f7-ae6d-d142df99357f",
+      "posted_date": "2026-08-03",
       "source": "indeed"
     },
     {
@@ -2668,19 +2603,6 @@
       "source": "manual_link"
     },
     {
-      "id": "j2w-jobs-1360645055",
-      "company": "Mersen",
-      "company_id": "mersen",
-      "title": "GENERAL LABORER",
-      "location": "Punxsutawney, PA",
-      "state": "PA",
-      "sector": "Manufacturing & Materials",
-      "seniority": "Mid-level",
-      "url": "https://jobs.mersen.com/job/Punxsutawney-GENERAL-LABORER-PA-15767/1360645055/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-jobs-1348703455",
       "company": "Mersen",
       "company_id": "mersen",
@@ -2863,19 +2785,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Philadelphia-PA/Area-Business-Manager--Allergy-ENT--PA_R2848863-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Area Business Manager, Allergy/ENT, Philadelphia, PA",
-      "location": "Philadelphia, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Manager",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Philadelphia-PA/Area-Business-Manager--Allergy-ENT--PA_R2848863-1",
-      "posted_date": "2026-06-12",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Swiftwater-PA/BSL-III-Maintenance-Technician_R2864861-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -2951,6 +2860,19 @@
       "seniority": "Mid-level",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Production-Technician_R2858450-1",
       "posted_date": "2026-07-14",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/RMF-Senior-Production-Technician_R2865709",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "RMF Senior Production Technician",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Senior",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/RMF-Senior-Production-Technician_R2865709",
+      "posted_date": "2026-08-03",
       "source": "workday"
     },
     {
@@ -3279,28 +3201,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1419985833",
+      "id": "j2w-career-1422347133",
       "company": "Sonepar",
       "company_id": "sonepar",
-      "title": "Counter Sales Representative",
-      "location": "Gettysburg, PA",
+      "title": "Content Strategist, Corporate Communications",
+      "location": "Philadelphia, PA",
       "state": "PA",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Gettysburg-Counter-Sales-Representative-PA-17325/1419985833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1393069733",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Counter Sales Representative",
-      "location": "Lancaster, PA",
-      "state": "PA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Lancaster-Counter-Sales-Representative-PA-17601/1393069733/",
+      "url": "https://career.sonepar.com/job/Philadelphia-Content-Strategist%2C-Corporate-Communications-PA-19106/1422347133/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -3318,6 +3227,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-career-1419985833",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Counter Sales Representative",
+      "location": "Gettysburg, PA",
+      "state": "PA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Gettysburg-Counter-Sales-Representative-PA-17325/1419985833/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-career-1393843133",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -3327,19 +3249,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Hanover-Counter-Sales-Representative-PA-17331/1393843133/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1417490433",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Counter Sales Representative II",
-      "location": "Wilkes Barre, PA",
-      "state": "PA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Wilkes-Barre-Counter-Sales-Representative-II-PA-18702/1417490433/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -4241,6 +4150,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-e9c9f5f8fdddb526",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Treasury Director - North American",
+      "location": "Trevose, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Director/VP",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141322919-treasury-director-north-american",
+      "posted_date": "2026-08-03",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-76e1624f631bc2d7",
       "company": "Veolia",
       "company_id": "veolia",
@@ -4449,6 +4371,19 @@
       "source": "workday"
     },
     {
+      "id": "wd-sanofi-/job/Morristown-NJ/Lead--Public-Affairs--US-Vaccines_R2865694",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Lead, Public Affairs, US Vaccines",
+      "location": "2 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Senior",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Lead--Public-Affairs--US-Vaccines_R2865694",
+      "posted_date": "2026-08-03",
+      "source": "workday"
+    },
+    {
       "id": "wd-sanofi-/job/Swiftwater-PA/Logistics-Lead_R2862462-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -4537,32 +4472,6 @@
       "seniority": "Manager",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Vx-RD-Global-Head-Project-Management_R2864519",
       "posted_date": "2026-07-20",
-      "source": "workday"
-    },
-    {
-      "id": "wd-airliquidehr-/job/Richmond-Seppic-VA---Chemical-production/Chemical-Operator_R10096547",
-      "company": "Air Liquide",
-      "company_id": "air-liquide",
-      "title": "Chemical Operator",
-      "location": "Richmond Seppic, Va - Chemical Production",
-      "state": "VA",
-      "sector": "Industrials & Chemicals",
-      "seniority": "Mid-level",
-      "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Richmond-Seppic-VA---Chemical-production/Chemical-Operator_R10096547",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
-      "id": "wd-airliquidehr-/job/Richmond-Seppic-VA---Chemical-logistics/Chemical-Operator_R10096552",
-      "company": "Air Liquide",
-      "company_id": "air-liquide",
-      "title": "Chemical Operator",
-      "location": "Richmond Seppic, Va - Chemical Logistics",
-      "state": "VA",
-      "sector": "Industrials & Chemicals",
-      "seniority": "Mid-level",
-      "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Richmond-Seppic-VA---Chemical-logistics/Chemical-Operator_R10096552",
-      "posted_date": "",
       "source": "workday"
     },
     {
@@ -4787,19 +4696,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-ag-/job/Herndon-Area-VA/Sector-Security-Manager_JR10426157",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "Sector Security Manager",
-      "location": "Herndon Area, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Manager",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Sector-Security-Manager_JR10426157",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
       "id": "wd-ag-/job/Herndon-Area-VA/Senior-Customer-Support-Director_JR10426499-1",
       "company": "Airbus",
       "company_id": "airbus",
@@ -4930,15 +4826,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-jobs-1415341533",
+      "id": "j2w-jobs-1422128833",
       "company": "CMA CGM",
       "company_id": "cma-cgm",
-      "title": "Dangerous Goods Representative",
+      "title": "Data Specialist",
       "location": "Norfolk Va, Us",
       "state": "VA",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Dangerous-Goods-Representative-VA-23501/1415341533/",
+      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Data-Specialist-VA-23501/1422128833/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -4956,28 +4852,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-jobs-1400590033",
+      "id": "j2w-jobs-1422405633",
       "company": "CMA CGM",
       "company_id": "cma-cgm",
-      "title": "Export Agent - Springfield Gardens, NY",
+      "title": "Export Agent",
       "location": "Springfield Gardens. Ny, Us",
       "state": "VA",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Springfield-Gardens_-Ny-Export-Agent-Springfield-Gardens%2C-NY-NY-11413/1400590033/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1400593233",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Export Agent - Springfield, NY",
-      "location": "Springfield Gardens. Ny, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Springfield-Gardens_-Ny-Export-Agent-Springfield%2C-NY-NY-11413/1400593233/",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Springfield-Gardens_-Ny-Export-Agent-NY-11413/1422405633/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5004,6 +4887,19 @@
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
       "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Human-Resources-Partner-VA-23501/1413994233/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-jobs-1422410533",
+      "company": "CMA CGM",
+      "company_id": "cma-cgm",
+      "title": "Import Agent",
+      "location": "Springfield Gardens. Ny, Us",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Springfield-Gardens_-Ny-Import-Agent-NY-11413/1422410533/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5060,19 +4956,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-ea8a4d82229b4a78",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Blue Yonder WMS Application Support L2/L3",
-      "location": "Richmond, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/e0f7c683-3ad1-46ef-aab0-e7c9a7b45679",
-      "posted_date": "2026-05-18",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-capgemini-in-748c7729e8f9ad32",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -5109,6 +4992,19 @@
       "seniority": "Mid-level",
       "url": "https://www.capgemini.com/jobs/525453-en_US+sap_btp",
       "posted_date": "2026-07-30",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-45bc9045388661b3",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "On - Site Operations Support Specialist",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://capgemini.talentnet.community/jobs/e38e36b9-97c6-4475-869f-cc31b3870079",
+      "posted_date": "2026-08-03",
       "source": "indeed"
     },
     {
@@ -5190,19 +5086,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-812cfe38c2e3688c",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Senior ESM Consultant - ServiceNow HRSD Architect",
-      "location": "Mclean, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Senior",
-      "url": "https://www.capgemini.com/jobs/526621-en_US+sap_btp",
-      "posted_date": "2026-07-29",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-capgemini-in-2356e084ba69abc8",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -5212,19 +5095,6 @@
       "sector": "Technology & IT",
       "seniority": "Senior",
       "url": "https://www.capgemini.com/jobs/526666-en_US+sap_btp",
-      "posted_date": "2026-07-29",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-capgemini-in-7170c3d153a7323b",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Senior ESM Consultant - ServiceNow SecOps VR - Senior Consultant",
-      "location": "Mclean, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Senior",
-      "url": "https://www.capgemini.com/jobs/526531-en_US+sap_btp",
       "posted_date": "2026-07-29",
       "source": "indeed"
     },
@@ -5333,28 +5203,15 @@
       "source": "manual_link"
     },
     {
-      "id": "ic-enusapply-danone-jobs-26801-automation-engineer-job",
+      "id": "ic-enusapply-danone-jobs-27101-machine-operator-1--28plant-3-29-job",
       "company": "Danone",
       "company_id": "danone",
-      "title": "Automation Engineer",
-      "location": "Mount Crawford, VA",
+      "title": "Machine Operator 1 (Plant 3)",
+      "location": "Springfield, OR",
       "state": "VA",
       "sector": "Food & Beverage",
       "seniority": "Mid-level",
-      "url": "https://enusapply-danone.icims.com/jobs/26801/automation-engineer/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
-      "id": "ic-enusapply-danone-jobs-26781-rtt-coach-job",
-      "company": "Danone",
-      "company_id": "danone",
-      "title": "Integrated Work Systems (IWS) Coach",
-      "location": "Mount Crawford, VA",
-      "state": "VA",
-      "sector": "Food & Beverage",
-      "seniority": "Mid-level",
-      "url": "https://enusapply-danone.icims.com/jobs/26781/rtt-coach/job",
+      "url": "https://enusapply-danone.icims.com/jobs/27101/machine-operator-1-%28plant-3%29/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -5499,19 +5356,6 @@
       "seniority": "Mid-level",
       "url": "https://www.paycomonline.net/v4/ats/web.php/portal/8B9C8B7EA8A50F9FC7F49B2CA3E32504/jobs/44221?source=Indeed",
       "posted_date": "2026-03-13",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-fareva-in-4e13d84fe891397d",
-      "company": "Fareva",
-      "company_id": "fareva",
-      "title": "Senior Calibration Tech",
-      "location": "Henrico, VA",
-      "state": "VA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Senior",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/72510?source=Indeed",
-      "posted_date": "2026-07-29",
       "source": "indeed"
     },
     {
@@ -5775,19 +5619,6 @@
       "source": "icims"
     },
     {
-      "id": "ic-careers-framatome-jobs-3127-nde-automated-ut-level-iii-job",
-      "company": "Framatome",
-      "company_id": "framatome",
-      "title": "NDE Automated UT Level III",
-      "location": "Lynchburg, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://careers-framatome.icims.com/jobs/3127/nde-automated-ut-level-iii/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
       "id": "ic-careers-framatome-jobs-3183-nuclear-engineer--28engineer-ii-29-job",
       "company": "Framatome",
       "company_id": "framatome",
@@ -5810,6 +5641,19 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://careers-framatome.icims.com/jobs/3141/product-manager/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
+      "id": "ic-careers-framatome-jobs-3217-production-technician-i---computer-assembly-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "Production Technician I / Computer Assembly",
+      "location": "Christiansburg, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://careers-framatome.icims.com/jobs/3217/production-technician-i---computer-assembly/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -5905,6 +5749,19 @@
       "source": "icims"
     },
     {
+      "id": "ic-careers-framatome-jobs-3216-systems-administrator-for-isolated-environments-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "Systems Administrator for Isolated Environments",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://careers-framatome.icims.com/jobs/3216/systems-administrator-for-isolated-environments/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
       "id": "ic-careers-framatome-jobs-3158-technical-compliance-specialist-job",
       "company": "Framatome",
       "company_id": "framatome",
@@ -5927,6 +5784,19 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://careers-framatome.icims.com/jobs/3189/tooling-design-engineering-supervisor/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
+      "id": "ic-careers-framatome-jobs-3225-welder-i-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "Welder I",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://careers-framatome.icims.com/jobs/3225/welder-i/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -6005,6 +5875,19 @@
       "sector": "Mining & Materials",
       "seniority": "Mid-level",
       "url": "https://imerys.wd3.myworkdayjobs.com/IMERYS-Careers/job/Chesapeake-Virginia-USA/Maintenance-Mechanical-Technician_REQ-11232-1",
+      "posted_date": "",
+      "source": "workday"
+    },
+    {
+      "id": "wd-imerys-/job/Chesapeake-Virginia-USA/Project-Manager_REQ-11837",
+      "company": "Imerys",
+      "company_id": "imerys",
+      "title": "Project Manager",
+      "location": "Chesapeake, Virginia, Usa",
+      "state": "VA",
+      "sector": "Mining & Materials",
+      "seniority": "Manager",
+      "url": "https://imerys.wd3.myworkdayjobs.com/IMERYS-Careers/job/Chesapeake-Virginia-USA/Project-Manager_REQ-11837",
       "posted_date": "",
       "source": "workday"
     },
@@ -6438,19 +6321,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1407546833",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Inside Sales Representative",
-      "location": "Virginia Beach, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Virginia-Beach-Inside-Sales-Representative-VA-23455/1407546833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1411521733",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6460,6 +6330,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Newport-News-Inside-Sales-Representative-VA-23607/1411521733/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1407546833",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Inside Sales Representative",
+      "location": "Virginia Beach, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Virginia-Beach-Inside-Sales-Representative-VA-23455/1407546833/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -7075,19 +6958,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-d7a477927e326caa",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Regeneration Operator",
-      "location": "Norfolk, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139364818-regeneration-operator",
-      "posted_date": "2026-07-23",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-veolia-in-36c588fd4a3540ee",
       "company": "Veolia",
       "company_id": "veolia",
@@ -7114,6 +6984,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-b342d220d6912a33",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Senior Project Manager",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141336598-senior-project-manager",
+      "posted_date": "2026-08-03",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-ee45c680be7afcce",
       "company": "Veolia",
       "company_id": "veolia",
@@ -7124,6 +7007,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112218213-service-technician-aftermarket-water-treatment",
       "posted_date": "2026-03-02",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-0fc026792a4c1cc1",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Transportation Process Manager - Water Treatment",
+      "location": "Norfolk, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141399958-transportation-process-manager-water-treatment",
+      "posted_date": "2026-08-04",
       "source": "indeed"
     },
     {
@@ -7179,17 +7075,17 @@
       "source": "manual_link"
     },
     {
-      "id": "jsp-certainteed-in-ea249a7f84e5f268",
+      "id": "jsp-certainteed-WV",
       "company": "CertainTeed (Saint-Gobain)",
       "company_id": "certainteed",
-      "title": "Production Manager",
-      "location": "Moundsville, WV",
+      "title": "Voir les offres d'emploi →",
+      "location": "WV",
       "state": "WV",
       "sector": "Construction & Infrastructure",
-      "seniority": "Manager",
-      "url": "https://joinus.saint-gobain.com/description?nPostingTargetId=316890&id=Q2FFK026203F3VBQBLO7V8M1O&LG=EN&languageSelect=EN&source=Indeed&sType=Indeed+Organic",
-      "posted_date": "2026-07-27",
-      "source": "indeed"
+      "seniority": "N/A",
+      "url": "https://www.certainteed.com/about-us/careers/",
+      "posted_date": "",
+      "source": "manual_link"
     },
     {
       "id": "j2w-jobs-1201936101",
