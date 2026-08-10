@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-09T07:15:20.515238+00:00",
-  "total": 580,
+  "last_updated": "2026-08-10T08:02:58.750764+00:00",
+  "total": 578,
   "jobs": [
     {
       "id": "sr-744000140072889",
@@ -315,6 +315,19 @@
       "source": "engie"
     },
     {
+      "id": "engie-68502-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Project Management Senior",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-59240-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -547,19 +560,6 @@
       "url": "https://careers-edf-re.icims.com/jobs/search?ss=1",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "engie-65512-DE",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Solar Technician II - Solidago Solar Site",
-      "location": "Dover, DE",
-      "state": "DE",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II%20-%20Solidago%20Solar%20Site",
-      "posted_date": "",
-      "source": "engie"
     },
     {
       "id": "wd-roquette-/job/Wilmington/Account-Manager_R0025773",
@@ -2941,19 +2941,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Automation-Technician_R2860021",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Automation Technician",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Automation-Technician_R2860021",
-      "posted_date": "2026-08-05",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Swiftwater-PA/BSL-III-Maintenance-Technician_R2864861-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -3838,19 +3825,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-701f83d3875bf568",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Environmental Technician I",
-      "location": "Hatfield, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000136090848-environmental-technician-i",
-      "posted_date": "2026-07-06",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-veolia-in-4a8833fb38a7338b",
       "company": "Veolia",
       "company_id": "veolia",
@@ -3861,6 +3835,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000134922648-environmental-technician-i",
       "posted_date": "2026-06-30",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-d3937875e1ec6142",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Environmental Technician I",
+      "location": "Hatfield, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000129532544-environmental-technician-i-",
+      "posted_date": "2026-06-01",
       "source": "indeed"
     },
     {
@@ -4397,19 +4384,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Cambridge-MA/Global-Periodic-Reporting-Lead_R2855268-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Global Periodic Reporting Lead",
-      "location": "3 Locations",
-      "state": "US",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Senior",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Global-Periodic-Reporting-Lead_R2855268-1",
-      "posted_date": "2026-07-13",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Morristown-NJ/Graphic-Designer_R2854813-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -4420,19 +4394,6 @@
       "seniority": "Mid-level",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Graphic-Designer_R2854813-1",
       "posted_date": "2026-07-29",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Morristown-NJ/Gross-to-Net-Manager_R2860830",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Gross to Net Manager",
-      "location": "3 Locations",
-      "state": "US",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Manager",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Gross-to-Net-Manager_R2860830",
-      "posted_date": "2026-07-23",
       "source": "workday"
     },
     {
@@ -7331,6 +7292,19 @@
       "sector": "Manufacturing & Materials",
       "seniority": "Mid-level",
       "url": "https://jobs.constellium.com/job/Ravenswood-Fabricator-WV-26164-0068/1201935801/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-jobs-1424579833",
+      "company": "Constellium",
+      "company_id": "constellium",
+      "title": "Human Resources Generalist",
+      "location": "Ravenswood, WV",
+      "state": "WV",
+      "sector": "Manufacturing & Materials",
+      "seniority": "Mid-level",
+      "url": "https://jobs.constellium.com/job/Ravenswood-Human-Resources-Generalist-WV-26164-0068/1424579833/",
       "posted_date": "",
       "source": "j2w"
     },
