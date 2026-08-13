@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T07:51:03.090796+00:00",
-  "total": 568,
+  "last_updated": "2026-08-13T07:52:21.382168+00:00",
+  "total": 564,
   "jobs": [
     {
       "id": "sr-744000140072889",
@@ -263,19 +263,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-69136-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Instrument. and Controls, Mgr",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Instrument.%20and%20Controls%2C%20Mgr",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "engie-69719-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -289,7 +276,7 @@
       "source": "engie"
     },
     {
-      "id": "engie-68502-DC",
+      "id": "engie-70572-DC",
       "company": "Engie",
       "company_id": "engie",
       "title": "Project Management Senior",
@@ -298,6 +285,19 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-70562-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Project Management Senior_EGPM1I",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior_EGPM1I",
       "posted_date": "",
       "source": "engie"
     },
@@ -481,19 +481,6 @@
       "seniority": "Senior",
       "url": "https://jobsearch.alstom.com/job/New-Castle-Lead-Design-Engineer-DE/1402136733/",
       "posted_date": "2026-06-08",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-alstom-in-32fda27b80c35449",
-      "company": "Alstom",
-      "company_id": "alstom",
-      "title": "Logistic Manager",
-      "location": "New Castle, DE",
-      "state": "DE",
-      "sector": "Transportation & Rail",
-      "seniority": "Manager",
-      "url": "https://jobsearch.alstom.com/job/New-Castle-Logistic-Manager-DE/1422535133/",
-      "posted_date": "2026-08-03",
       "source": "indeed"
     },
     {
@@ -1134,6 +1121,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-career-1418743033",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Lead Outbound Warehouse Associate",
+      "location": "Upper Marlboro, MD",
+      "state": "MD",
+      "sector": "Industrial Distribution",
+      "seniority": "Senior",
+      "url": "https://career.sonepar.com/job/Upper-Marlboro-Lead-Outbound-Warehouse-Associate-MD-20774/1418743033/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-career-1423116533",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -1338,19 +1338,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Manager",
       "url": "https://career.sonepar.com/job/Upper-Marlboro-Warehouse-Manager-Night-Shift-MD-20774/1419354633/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1418743933",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Warehouse Picker",
-      "location": "Upper Marlboro, MD",
-      "state": "MD",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Upper-Marlboro-Warehouse-Picker-MD-20774/1418743933/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -1755,6 +1742,19 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/916E18A107D344AC9DC3C3252B4B81C6/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-08-04",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-d3e194f5bcbc96e4",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Parts Clerk",
+      "location": "Capitol Heights, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/E848335C4B5C44648D070715300851C8/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-06-09",
       "source": "indeed"
     },
     {
@@ -2434,19 +2434,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-d57b1b89bb859a0c",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "AWS Developer",
-      "location": "Malvern, PA",
-      "state": "PA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/0b75ae74-66f0-4f68-9114-e15c9b2beb85",
-      "posted_date": "2026-08-07",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-capgemini-in-05e8ad491bee2811",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -2486,16 +2473,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-0c4bfae1d58304fe",
+      "id": "jsp-capgemini-in-57b14e3e8b0bf734",
       "company": "Capgemini",
       "company_id": "capgemini",
-      "title": "Consultant",
-      "location": "Pittsburgh, PA",
+      "title": "Equipment Requalification Consultants",
+      "location": "Swiftwater, PA",
       "state": "PA",
       "sector": "Technology & IT",
       "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/2639d2fc-cb4b-4afd-997a-de2b763cfcc5",
-      "posted_date": "2026-07-29",
+      "url": "https://capgemini.talentnet.community/jobs/8d09d7d7-a0f6-4f07-8ab7-518511beb421",
+      "posted_date": "2026-08-12",
       "source": "indeed"
     },
     {
@@ -2509,19 +2496,6 @@
       "seniority": "Mid-level",
       "url": "https://capgemini.talentnet.community/jobs/fd243bd3-78d0-4d9f-bda4-c2e9231777d8",
       "posted_date": "2026-07-17",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-capgemini-in-dd0868c0192450af",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Program Management",
-      "location": "Philadelphia, PA",
-      "state": "PA",
-      "sector": "Technology & IT",
-      "seniority": "Manager",
-      "url": "https://capgemini.talentnet.community/jobs/44942186-0521-4a4f-8a48-8dced0b6befe",
-      "posted_date": "2026-08-11",
       "source": "indeed"
     },
     {
@@ -3916,6 +3890,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-31a80f41e3da174d",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Industry Marketing Manager NORAM",
+      "location": "Trevose, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000143101358-industry-marketing-manager-noram",
+      "posted_date": "2026-08-12",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-403766aa77171633",
       "company": "Veolia",
       "company_id": "veolia",
@@ -4488,19 +4475,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Senior-Medical-Writer---Vaccine_R2862616-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Senior Medical Writer - Vaccine",
-      "location": "2 Locations",
-      "state": "US",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Senior",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Senior-Medical-Writer---Vaccine_R2862616-1",
-      "posted_date": "2026-08-05",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Swiftwater-PA/Vx-RD-Global-Head-Project-Management_R2864519",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -4588,19 +4562,6 @@
       "sector": "Aerospace & Defense",
       "seniority": "Mid-level",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Compliance-Solutions-Specialist--Contract-_JR10431667",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
-      "id": "wd-ag-/job/Herndon-Area-VA/Credit-Specialist_JR10428908",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "Credit Specialist",
-      "location": "Herndon Area, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Mid-level",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Credit-Specialist_JR10428908",
       "posted_date": "",
       "source": "workday"
     },
@@ -4731,6 +4692,19 @@
       "sector": "Aerospace & Defense",
       "seniority": "Director/VP",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Payroll-Director_JR10427373",
+      "posted_date": "",
+      "source": "workday"
+    },
+    {
+      "id": "wd-ag-/job/Herndon-Area-VA/Repair---Warranty-Specialist_JR10434944",
+      "company": "Airbus",
+      "company_id": "airbus",
+      "title": "Repair & Warranty Specialist",
+      "location": "Herndon Area, Va",
+      "state": "VA",
+      "sector": "Aerospace & Defense",
+      "seniority": "Mid-level",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Repair---Warranty-Specialist_JR10434944",
       "posted_date": "",
       "source": "workday"
     },
@@ -4878,7 +4852,7 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-jobs-1422405633",
+      "id": "j2w-jobs-1425887733",
       "company": "CMA CGM",
       "company_id": "cma-cgm",
       "title": "Export Agent",
@@ -4886,7 +4860,7 @@
       "state": "VA",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Springfield-Gardens_-Ny-Export-Agent-NY-11413/1422405633/",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Springfield-Gardens_-Ny-Export-Agent-NY-11413/1425887733/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5112,19 +5086,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-2356e084ba69abc8",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Senior ESM Consultant - ServiceNow SME - GRC & IRM",
-      "location": "Mclean, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Senior",
-      "url": "https://www.capgemini.com/jobs/526666-en_US+sap_btp",
-      "posted_date": "2026-07-29",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-capgemini-in-a7cdc067a06e7853",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -5187,19 +5148,6 @@
       "seniority": "Manager",
       "url": "https://recruiting.ultipro.com/CAP1009CAPGE/JobBoard/5178abe8-537c-41a6-96cc-fce9104c8f2f/OpportunityDetail?opportunityId=7f27b936-2cc5-4945-bfa2-fff53359871e&postingId=e2154ed2-01be-4ce6-b534-6d504b8610d7",
       "posted_date": "2026-07-28",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-capgemini-in-949ad8cda2249ebc",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Sr. ServiceNow Business Analyst",
-      "location": "Mclean, VA",
-      "state": "VA",
-      "sector": "Technology & IT",
-      "seniority": "Senior",
-      "url": "https://recruiting.ultipro.com/CAP1009CAPGE/JobBoard/5178abe8-537c-41a6-96cc-fce9104c8f2f/OpportunityDetail?opportunityId=55dbc22e-fb38-4e4c-926d-f8c800f430d9&postingId=58f66e13-9b0f-474b-bd9c-851ad9dd763b",
-      "posted_date": "2026-07-29",
       "source": "indeed"
     },
     {
@@ -5632,6 +5580,19 @@
       "source": "icims"
     },
     {
+      "id": "ic-careers-framatome-jobs-3257-manager-2c-technical-training-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "Manager, Technical Training",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://careers-framatome.icims.com/jobs/3257/manager%2c-technical-training/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
       "id": "ic-careers-framatome-jobs-3183-nuclear-engineer--28engineer-ii-29-job",
       "company": "Framatome",
       "company_id": "framatome",
@@ -5889,19 +5850,6 @@
       "seniority": "Mid-level",
       "url": "https://recruiting.ultipro.com/KEO1000KCS/JobBoard/1e6b743f-ed4b-4dd4-9c03-44d18e048af1/OpportunityDetail?opportunityId=9f3182d7-619c-4c8e-8ba7-57cb6d8cc4cf&postingId=c423bb99-c6c5-4327-83a3-b3b4db31216f",
       "posted_date": "2025-03-12",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-keolis-in-893d257f62f51194",
-      "company": "Keolis",
-      "company_id": "keolis",
-      "title": "HR Generalist - Virginia",
-      "location": "Woodbridge, VA",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://recruiting.ultipro.com/KEO1000KCS/JobBoard/1e6b743f-ed4b-4dd4-9c03-44d18e048af1/OpportunityDetail?opportunityId=7b40c5e1-95b7-4d31-a6ed-f9508c0ed15f&postingId=ce686386-9b3b-422d-bfd2-0da546be16b4",
-      "posted_date": "2026-07-23",
       "source": "indeed"
     },
     {
@@ -6867,6 +6815,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-b342d220d6912a33",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Mission Critical Sr. Engineering & Commissioning Leader",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Senior",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000143129108-mission-critical-sr-engineering-commissioning-leader",
+      "posted_date": "2026-08-12",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-958507e401e65195",
       "company": "Veolia",
       "company_id": "veolia",
@@ -6915,19 +6876,6 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141548894-regeneration-operator",
-      "posted_date": "2026-08-04",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-veolia-in-b342d220d6912a33",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Senior Commissioning Project Manager (non-IT)",
-      "location": "Richmond, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141548811-senior-commissioning-project-manager-non-it-",
       "posted_date": "2026-08-04",
       "source": "indeed"
     },
