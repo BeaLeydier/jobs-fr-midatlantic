@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T07:00:33.362861+00:00",
+  "last_updated": "2026-08-17T07:16:47.652585+00:00",
   "total": 580,
   "jobs": [
     {
@@ -237,6 +237,19 @@
       "source": "manual_link"
     },
     {
+      "id": "engie-68872-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Contracts Analyst Senior",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Senior",
+      "url": "https://jobs.engie.com/search/?q=Contracts%20Analyst%20Senior",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-68772-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -311,6 +324,19 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior_EGPM1I",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-59240-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Senior Construction Manager",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Senior%20Construction%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -4878,19 +4904,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-ag-/job/Herndon-Area-VA/Senior-Customer-Support-Director_JR10426499-1",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "Senior Customer Support Director",
-      "location": "Herndon Area, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Director/VP",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Senior-Customer-Support-Director_JR10426499-1",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
       "id": "wd-ag-/job/Herndon-Area-VA/Senior-Regulatory-Strategist-and-Safety-Manager_JR10428522",
       "company": "Airbus",
       "company_id": "airbus",
@@ -5602,19 +5615,6 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://careers-framatome.icims.com/jobs/3227/accounts-payable-analyst/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
-      "id": "ic-careers-framatome-jobs-3262-compliance-specialist-job",
-      "company": "Framatome",
-      "company_id": "framatome",
-      "title": "Compliance Specialist",
-      "location": "Lynchburg, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://careers-framatome.icims.com/jobs/3262/compliance-specialist/job",
       "posted_date": "",
       "source": "icims"
     },
