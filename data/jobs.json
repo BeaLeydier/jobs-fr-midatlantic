@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-23T07:01:41.763336+00:00",
-  "total": 589,
+  "last_updated": "2026-08-24T07:19:51.240623+00:00",
+  "total": 590,
   "jobs": [
     {
       "id": "sr-744000140072889",
@@ -198,15 +198,15 @@
       "source": "engie"
     },
     {
-      "id": "engie-69940-DC",
+      "id": "engie-69136-DC",
       "company": "Engie",
       "company_id": "engie",
-      "title": "Georgetown Student Internship",
+      "title": "Instrument. and Controls, Mgr",
       "location": "Washington, DC",
       "state": "DC",
       "sector": "Energy & Environment",
-      "seniority": "Internship",
-      "url": "https://jobs.engie.com/search/?q=Georgetown%20Student%20Internship",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Instrument.%20and%20Controls%2C%20Mgr",
       "posted_date": "",
       "source": "engie"
     },
@@ -233,19 +233,6 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-70562-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Project Management Senior_EGPM1I",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior_EGPM1I",
       "posted_date": "",
       "source": "engie"
     },
@@ -429,19 +416,6 @@
       "seniority": "Senior",
       "url": "https://jobsearch.alstom.com/job/New-Castle-Lead-Design-Engineer-DE/1402136733/",
       "posted_date": "2026-06-08",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-alstom-in-32fda27b80c35449",
-      "company": "Alstom",
-      "company_id": "alstom",
-      "title": "Logistic Manager",
-      "location": "New Castle, DE",
-      "state": "DE",
-      "sector": "Transportation & Rail",
-      "seniority": "Manager",
-      "url": "https://jobsearch.alstom.com/job/New-Castle-Logistic-Manager-DE/1422535133/",
-      "posted_date": "2026-08-03",
       "source": "indeed"
     },
     {
@@ -952,19 +926,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1416540133",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Counter Sales Representative",
-      "location": "Chestertown, MD",
-      "state": "MD",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Chestertown-Counter-Sales-Representative-MD-21620/1416540133/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1422246033",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -974,6 +935,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Upper-Marlboro-Counter-Sales-Representative-MD-20774/1422246033/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1416540133",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Counter Sales Representative",
+      "location": "Chestertown, MD",
+      "state": "MD",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Chestertown-Counter-Sales-Representative-MD-21620/1416540133/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -1134,7 +1108,7 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1423116533",
+      "id": "j2w-career-1423099133",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Lighting Estimator - Upper Marlboro, MD",
@@ -1142,7 +1116,7 @@
       "state": "MD",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Upper-Marlboro-Lighting-Estimator-Upper-Marlboro%2C-MD-MD-20774/1423116533/",
+      "url": "https://career.sonepar.com/job/Upper-Marlboro-Lighting-Estimator-Upper-Marlboro%2C-MD-MD-20774/1423099133/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2343,7 +2317,7 @@
       "source": "workday"
     },
     {
-      "id": "j2w-jobs-1414335433",
+      "id": "j2w-jobs-1427057733",
       "company": "Arkema",
       "company_id": "arkema",
       "title": "Account Specialist",
@@ -2351,7 +2325,7 @@
       "state": "PA",
       "sector": "Industrials & Chemicals",
       "seniority": "Mid-level",
-      "url": "https://jobs.arkema.com/job/Radnor-Account-Specialist-Job-PA/1414335433/",
+      "url": "https://jobs.arkema.com/job/Radnor-Account-Specialist-Job-PA/1427057733/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2720,6 +2694,19 @@
       "source": "manual_link"
     },
     {
+      "id": "engie-69930-PA",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Business Development",
+      "location": "Remote (PA)",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Business%20Development",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "jsp-eurovia-PA",
       "company": "Eurovia (Vinci)",
       "company_id": "eurovia",
@@ -2756,19 +2743,6 @@
       "seniority": "Director/VP",
       "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Managing-Director-Tax/15358",
       "posted_date": "2026-08-20",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-mazars-in-223f92f6e80a3ef6",
-      "company": "Forvis Mazars",
-      "company_id": "mazars",
-      "title": "Retirement Senior Manager",
-      "location": "Fort Washington, PA",
-      "state": "PA",
-      "sector": "Consulting & Professional Services",
-      "seniority": "Manager",
-      "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Retirement-Senior-Manager/15189",
-      "posted_date": "2026-08-05",
       "source": "indeed"
     },
     {
@@ -3120,6 +3094,19 @@
       "seniority": "Mid-level",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/BSL-III-Maintenance-Technician_R2864861-1",
       "posted_date": "2026-07-23",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Documentation-Specialist_R2868089-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Documentation Specialist",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Documentation-Specialist_R2868089-1",
+      "posted_date": "2026-08-24",
       "source": "workday"
     },
     {
@@ -3487,19 +3474,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1419985833",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Counter Sales Representative",
-      "location": "Gettysburg, PA",
-      "state": "PA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Gettysburg-Counter-Sales-Representative-PA-17325/1419985833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1372680633",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -3509,6 +3483,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Mechanicsburg-Counter-Sales-Representative-PA-17055/1372680633/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1419985833",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Counter Sales Representative",
+      "location": "Gettysburg, PA",
+      "state": "PA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Gettysburg-Counter-Sales-Representative-PA-17325/1419985833/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -4423,6 +4410,19 @@
       "source": "workday"
     },
     {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Global-Head--Science-Partnerships-and-Funding--SPF---Vaccines-R-D_R2867529-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Global Head, Science Partnerships and Funding (SPF), Vaccines R&D",
+      "location": "3 Locations",
+      "state": "US",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Global-Head--Science-Partnerships-and-Funding--SPF---Vaccines-R-D_R2867529-1",
+      "posted_date": "2026-08-24",
+      "source": "workday"
+    },
+    {
       "id": "wd-sanofi-/job/Morristown-NJ/Graphic-Designer_R2854813-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -4913,6 +4913,19 @@
       "sector": "Aerospace & Defense",
       "seniority": "Mid-level",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Structure-Repair-Support-Engineer_JR10429457",
+      "posted_date": "",
+      "source": "workday"
+    },
+    {
+      "id": "wd-ag-/job/Dulles-VA/Transportation-Manager_JR10435823",
+      "company": "Airbus",
+      "company_id": "airbus",
+      "title": "Transportation Manager",
+      "location": "Dulles, Va",
+      "state": "VA",
+      "sector": "Aerospace & Defense",
+      "seniority": "Manager",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Dulles-VA/Transportation-Manager_JR10435823",
       "posted_date": "",
       "source": "workday"
     },
@@ -6386,19 +6399,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1427642233",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Driver",
-      "location": "Harrisonburg, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Harrisonburg-Driver-VA-22801/1427642233/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1423100133",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6408,6 +6408,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Richmond-Driver-VA-23230/1423100133/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1427642233",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Driver",
+      "location": "Harrisonburg, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Harrisonburg-Driver-VA-22801/1427642233/",
       "posted_date": "",
       "source": "j2w"
     },
