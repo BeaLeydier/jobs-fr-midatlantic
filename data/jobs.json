@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-29T12:44:41.127007+00:00",
-  "total": 597,
+  "last_updated": "2026-08-30T11:52:51.870453+00:00",
+  "total": 590,
   "jobs": [
     {
       "id": "sr-744000140072889",
@@ -211,20 +211,20 @@
       "source": "engie"
     },
     {
-      "id": "engie-69136-DC",
+      "id": "engie-69719-DC",
       "company": "Engie",
       "company_id": "engie",
-      "title": "Instrument. and Controls, Mgr",
+      "title": "Plant EHS Mgr.",
       "location": "Washington, DC",
       "state": "DC",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Instrument.%20and%20Controls%2C%20Mgr",
+      "url": "https://jobs.engie.com/search/?q=Plant%20EHS%20Mgr.",
       "posted_date": "",
       "source": "engie"
     },
     {
-      "id": "engie-70572-DC",
+      "id": "engie-68502-DC",
       "company": "Engie",
       "company_id": "engie",
       "title": "Project Management Senior",
@@ -259,19 +259,6 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://jobs.engie.com/search/?q=Senior%20Construction%20Manager",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-70568-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Title Analyst",
-      "location": "Remote (DC)",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
       "posted_date": "",
       "source": "engie"
     },
@@ -536,19 +523,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-70568-DE",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Title Analyst",
-      "location": "Remote (DE)",
-      "state": "DE",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "wd-roquette-/job/Wilmington/Account-Manager_R0025773",
       "company": "Roquette",
       "company_id": "roquette",
@@ -757,19 +731,6 @@
       "source": "indeed"
     },
     {
-      "id": "engie-70568-MD",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Title Analyst",
-      "location": "Remote (MD)",
-      "state": "MD",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "jsp-fives-in-b5c403e1132c755f",
       "company": "Fives",
       "company_id": "fives",
@@ -832,6 +793,19 @@
       "seniority": "Mid-level",
       "url": "https://career.fivesgroup.com/career?company=fives&career_ns=job_listing&career_job_req_id=6095&lang=en_US&source=Indeed",
       "posted_date": "2026-08-17",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-fives-in-664fac7157aa72f0",
+      "company": "Fives",
+      "company_id": "fives",
+      "title": "Manufacturing Engineer Technician",
+      "location": "Hagerstown, MD",
+      "state": "MD",
+      "sector": "Industrial Engineering",
+      "seniority": "Mid-level",
+      "url": "https://career.fivesgroup.com/career?company=fives&career_ns=job_listing&career_job_req_id=6147&lang=en_US&source=Indeed",
+      "posted_date": "2026-08-29",
       "source": "indeed"
     },
     {
@@ -2330,7 +2304,7 @@
       "source": "workday"
     },
     {
-      "id": "j2w-jobs-1427057733",
+      "id": "j2w-jobs-1414335433",
       "company": "Arkema",
       "company_id": "arkema",
       "title": "Account Specialist",
@@ -2338,7 +2312,7 @@
       "state": "PA",
       "sector": "Industrials & Chemicals",
       "seniority": "Mid-level",
-      "url": "https://jobs.arkema.com/job/Radnor-Account-Specialist-Job-PA/1427057733/",
+      "url": "https://jobs.arkema.com/job/Radnor-Account-Specialist-Job-PA/1414335433/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2720,19 +2694,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-70568-PA",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Title Analyst",
-      "location": "Remote (PA)",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "jsp-eurovia-PA",
       "company": "Eurovia (Vinci)",
       "company_id": "eurovia",
@@ -2769,19 +2730,6 @@
       "seniority": "Director/VP",
       "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Managing-Director-Tax/15358",
       "posted_date": "2026-08-20",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-mazars-in-223f92f6e80a3ef6",
-      "company": "Forvis Mazars",
-      "company_id": "mazars",
-      "title": "Retirement Senior Manager",
-      "location": "Fort Washington, PA",
-      "state": "PA",
-      "sector": "Consulting & Professional Services",
-      "seniority": "Manager",
-      "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Retirement-Senior-Manager/15189",
-      "posted_date": "2026-08-05",
       "source": "indeed"
     },
     {
@@ -3981,19 +3929,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-d0bd73021e7a4f8b",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Environmental Driver Specialist CDL B",
-      "location": "Hatfield, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000140929513-environmental-driver-specialist-cdl-b-",
-      "posted_date": "2026-07-31",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-veolia-in-c56c40a3468c77a6",
       "company": "Veolia",
       "company_id": "veolia",
@@ -4384,6 +4319,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-veolia-in-6269289da9501601",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Warehouse Associates",
+      "location": "Allentown, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://veolia-1.betterteam.com/warehouse-associates-4?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic",
+      "posted_date": "2026-08-30",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-veolia-in-2e2d3e921f42359c",
       "company": "Veolia",
       "company_id": "veolia",
@@ -4770,19 +4718,6 @@
       "sector": "Aerospace & Defense",
       "seniority": "Mid-level",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Compliance-Solutions-Specialist--Contract-_JR10431667",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
-      "id": "wd-ag-/job/Herndon-Area-VA/Customer-Resolution-Specialist_JR10436397",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "Customer Resolution Specialist",
-      "location": "Herndon Area, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Mid-level",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Customer-Resolution-Specialist_JR10436397",
       "posted_date": "",
       "source": "workday"
     },
@@ -5539,19 +5474,6 @@
       "url": "https://careers-edf-re.icims.com/jobs/search?ss=1",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "engie-70568-VA",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Title Analyst",
-      "location": "Remote (VA)",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
-      "posted_date": "",
-      "source": "engie"
     },
     {
       "id": "jsp-eurovia-VA",
@@ -7658,19 +7580,6 @@
       "url": "https://careers-edf-re.icims.com/jobs/search?ss=1",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "engie-70568-WV",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Title Analyst",
-      "location": "Remote (WV)",
-      "state": "WV",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
-      "posted_date": "",
-      "source": "engie"
     },
     {
       "id": "wd-sanofi-/job/Charleston-WV/Area-Business-Manager--Charleston--WV_R2858470",
