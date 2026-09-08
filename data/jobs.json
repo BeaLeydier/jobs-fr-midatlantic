@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T12:22:16.836398+00:00",
-  "total": 596,
+  "last_updated": "2026-09-08T11:12:42.457902+00:00",
+  "total": 597,
   "jobs": [
     {
       "id": "sr-744000140072889",
@@ -172,6 +172,19 @@
       "source": "manual_link"
     },
     {
+      "id": "engie-68872-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Contracts Analyst Senior",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Senior",
+      "url": "https://jobs.engie.com/search/?q=Contracts%20Analyst%20Senior",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-68772-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -220,6 +233,19 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior_EGPM1I",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-59240-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Senior Construction Manager",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Senior%20Construction%20Manager",
       "posted_date": "",
       "source": "engie"
     },
@@ -456,6 +482,19 @@
       "url": "https://www.dassault-aviation.com/en/group/careers/",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "engie-65512-DE",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Solar Technician II - Solidago Solar Site",
+      "location": "Dover, DE",
+      "state": "DE",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Solar%20Technician%20II%20-%20Solidago%20Solar%20Site",
+      "posted_date": "",
+      "source": "engie"
     },
     {
       "id": "engie-70568-DE",
@@ -1329,19 +1368,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-a8ddfeb04a0ebc82",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "CDL Bus Driver Circulator",
-      "location": "Baltimore, MD",
-      "state": "MD",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/B0DB6EF837434A318B6D6251499D9CA5/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-01-22",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-transdev-in-6946270f523b9540",
       "company": "Transdev",
       "company_id": "transdev",
@@ -1469,19 +1495,6 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/E421AC7864644D838500653363DFD31D/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-05-20",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-transdev-in-5b0cd3b4611ef287",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Lead Technician",
-      "location": "Rockville, MD",
-      "state": "MD",
-      "sector": "Transportation & Logistics",
-      "seniority": "Senior",
-      "url": "https://transdevna.jobs/9F2141289EAA48739372F27383A6EC55/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-01-17",
       "source": "indeed"
     },
     {
@@ -1742,6 +1755,19 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/F05CCE23C03E4F9B938EB05F0455985D/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-06-09",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-49a8bdc5dda105d5",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Road Supervisor - Baltimore MTA - Sisson/Lombard St",
+      "location": "Baltimore, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/004C64D4C2E04709A282839068124078/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-09-07",
       "source": "indeed"
     },
     {
@@ -2213,7 +2239,7 @@
       "source": "workday"
     },
     {
-      "id": "j2w-jobs-1432945033",
+      "id": "j2w-jobs-1427057733",
       "company": "Arkema",
       "company_id": "arkema",
       "title": "Account Specialist",
@@ -2221,7 +2247,7 @@
       "state": "PA",
       "sector": "Industrials & Chemicals",
       "seniority": "Mid-level",
-      "url": "https://jobs.arkema.com/job/Radnor-Account-Specialist-Job-PA/1432945033/",
+      "url": "https://jobs.arkema.com/job/Radnor-Account-Specialist-Job-PA/1427057733/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2626,6 +2652,19 @@
       "seniority": "Director/VP",
       "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Managing-Director-Tax/15434",
       "posted_date": "2026-09-01",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-mazars-in-223f92f6e80a3ef6",
+      "company": "Forvis Mazars",
+      "company_id": "mazars",
+      "title": "Retirement Senior Manager",
+      "location": "Fort Washington, PA",
+      "state": "PA",
+      "sector": "Consulting & Professional Services",
+      "seniority": "Manager",
+      "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Retirement-Senior-Manager/15189",
+      "posted_date": "2026-08-05",
       "source": "indeed"
     },
     {
@@ -3110,19 +3149,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Process-Engineer_R2866990-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Process Engineer",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Process-Engineer_R2866990-1",
-      "posted_date": "2026-08-14",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Swiftwater-PA/Production-Technician_R2868885",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -3146,19 +3172,6 @@
       "seniority": "Manager",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Senior-Laboratory-Manager-for-Ligand-Binding-Assays_R2851823-1",
       "posted_date": "2026-07-30",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Site-Head-Portfolio-Management_R2859306-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Site Head Portfolio Management",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Manager",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Site-Head-Portfolio-Management_R2859306-1",
-      "posted_date": "2026-08-27",
       "source": "workday"
     },
     {
@@ -5034,7 +5047,7 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-jobs-1431944333",
+      "id": "j2w-jobs-1424028833",
       "company": "CMA CGM",
       "company_id": "cma-cgm",
       "title": "Client Solutions Representative, PPS",
@@ -5042,7 +5055,7 @@
       "state": "VA",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Client-Solutions-Representative%2C-PPS-VA-23501/1431944333/",
+      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Client-Solutions-Representative%2C-PPS-VA-23501/1424028833/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5538,6 +5551,19 @@
       "seniority": "Mid-level",
       "url": "https://www.paycomonline.net/v4/ats/web.php/portal/7D3EA2EE793B65EA9FF580B57D7A1F2C/jobs/55576?source=Indeed",
       "posted_date": "2026-05-12",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-fareva-in-fc69b33f21cd4794",
+      "company": "Fareva",
+      "company_id": "fareva",
+      "title": "Operations Finance Analyst",
+      "location": "Henrico, VA",
+      "state": "VA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/8B9C8B7EA8A50F9FC7F49B2CA3E32504/jobs/80295?source=Indeed",
+      "posted_date": "2026-09-07",
       "source": "indeed"
     },
     {
@@ -6425,19 +6451,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1427642233",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Driver",
-      "location": "Harrisonburg, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Harrisonburg-Driver-VA-22801/1427642233/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1423100133",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6451,15 +6464,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1427141333",
+      "id": "j2w-career-1427642233",
       "company": "Sonepar",
       "company_id": "sonepar",
-      "title": "Driver - Blacksburg, VA",
-      "location": "Blacksburg, VA",
+      "title": "Driver",
+      "location": "Harrisonburg, VA",
       "state": "VA",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Blacksburg-Driver-Blacksburg%2C-VA-VA-24060/1427141333/",
+      "url": "https://career.sonepar.com/job/Harrisonburg-Driver-VA-22801/1427642233/",
       "posted_date": "",
       "source": "j2w"
     },
