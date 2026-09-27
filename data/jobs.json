@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-26T11:20:57.689319+00:00",
-  "total": 578,
+  "last_updated": "2026-09-27T11:59:44.246499+00:00",
+  "total": 581,
   "jobs": [
     {
       "id": "sr-744000140072889",
@@ -55,6 +55,19 @@
       "source": "smartrecruiters"
     },
     {
+      "id": "sr-744000151993329",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "Fairmont Gold Executive Lounge Supervisor",
+      "location": "Washington, Dc, Us",
+      "state": "DC",
+      "sector": "Hospitality & Services",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000151993329",
+      "posted_date": "2026-09-26",
+      "source": "smartrecruiters"
+    },
+    {
       "id": "sr-744000146806489",
       "company": "Accor",
       "company_id": "accor",
@@ -91,6 +104,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/AccorHotel/744000150673464",
       "posted_date": "2026-09-21",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "sr-744000151987449",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "Room Attendant",
+      "location": "Washington, Dc, Us",
+      "state": "DC",
+      "sector": "Hospitality & Services",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000151987449",
+      "posted_date": "2026-09-26",
       "source": "smartrecruiters"
     },
     {
@@ -224,7 +250,7 @@
       "source": "engie"
     },
     {
-      "id": "engie-70572-DC",
+      "id": "engie-68502-DC",
       "company": "Engie",
       "company_id": "engie",
       "title": "Project Management Senior",
@@ -3227,6 +3253,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-schneider-electric-in-0997086e37feed1c",
+      "company": "Schneider Electric",
+      "company_id": "schneider-electric",
+      "title": "Geographic Sales Engineer",
+      "location": "Philadelphia, PA",
+      "state": "PA",
+      "sector": "Technology & Energy",
+      "seniority": "Mid-level",
+      "url": "https://careers.se.com/jobs/136193/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "posted_date": "2026-09-25",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-schneider-electric-in-e857891e1e6db770",
       "company": "Schneider Electric",
       "company_id": "schneider-electric",
@@ -6165,19 +6204,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1407546833",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Inside Sales Representative",
-      "location": "Virginia Beach, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Virginia-Beach-Inside-Sales-Representative-VA-23455/1407546833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1411521733",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6187,6 +6213,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Newport-News-Inside-Sales-Representative-VA-23607/1411521733/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1407546833",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Inside Sales Representative",
+      "location": "Virginia Beach, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Virginia-Beach-Inside-Sales-Representative-VA-23455/1407546833/",
       "posted_date": "",
       "source": "j2w"
     },
