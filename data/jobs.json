@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-27T11:59:44.246499+00:00",
-  "total": 581,
+  "last_updated": "2026-09-28T13:44:39.932105+00:00",
+  "total": 556,
   "jobs": [
     {
       "id": "sr-744000140072889",
@@ -172,19 +172,6 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-68872-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Contracts Analyst Senior",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Senior",
-      "url": "https://jobs.engie.com/search/?q=Contracts%20Analyst%20Senior",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "engie-71492-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -250,7 +237,7 @@
       "source": "engie"
     },
     {
-      "id": "engie-68502-DC",
+      "id": "engie-70572-DC",
       "company": "Engie",
       "company_id": "engie",
       "title": "Project Management Senior",
@@ -259,32 +246,6 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-70562-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Project Management Senior_EGPM1I",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior_EGPM1I",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-70568-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Title Analyst",
-      "location": "Remote (DC)",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
       "posted_date": "",
       "source": "engie"
     },
@@ -497,19 +458,6 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-70568-DE",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Title Analyst",
-      "location": "Remote (DE)",
-      "state": "DE",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "wd-roquette-/job/Wilmington/Associate-Scientist_R0027160",
       "company": "Roquette",
       "company_id": "roquette",
@@ -664,19 +612,6 @@
       "url": "https://jobs.keysight.com/jobs/53837/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2026-08-26",
       "source": "indeed"
-    },
-    {
-      "id": "engie-70568-MD",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Title Analyst",
-      "location": "Remote (MD)",
-      "state": "MD",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
-      "posted_date": "",
-      "source": "engie"
     },
     {
       "id": "jsp-fives-in-616e18a2a96e126c",
@@ -1182,19 +1117,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Upper-Marlboro-Tools%2C-Fastener-and-Safety-Specialist-MD-20774/1388521933/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1439495433",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Wire Cutter",
-      "location": "Upper Marlboro, MD",
-      "state": "MD",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Upper-Marlboro-Wire-Cutter-MD-20774/1439495433/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2304,19 +2226,6 @@
       "source": "manual_link"
     },
     {
-      "id": "j2w-jobs-1439822133",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Driver II",
-      "location": "Harrisburg. Pa, Us",
-      "state": "PA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Harrisburg_-Pa-Driver-II-PA-17101/1439822133/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "jsp-capgemini-in-cf54f6d8d728d16c",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -2482,19 +2391,6 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Business%20Development",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-70568-PA",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Title Analyst",
-      "location": "Remote (PA)",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
       "posted_date": "",
       "source": "engie"
     },
@@ -3120,6 +3016,19 @@
       "seniority": "Mid-level",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/QC-Lab-Team-Supervisor_R2870293-1",
       "posted_date": "2026-09-18",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Scientist-Bacteriology_R2871282",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Scientist Bacteriology",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Scientist-Bacteriology_R2871282",
+      "posted_date": "2026-09-28",
       "source": "workday"
     },
     {
@@ -4215,19 +4124,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Winchester-VA/Area-Business-Manager-Vaccines--Winchester--VA_R2864306-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Area Business Manager Vaccines, Winchester, VA",
-      "location": "3 Locations",
-      "state": "US",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Manager",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Winchester-VA/Area-Business-Manager-Vaccines--Winchester--VA_R2864306-1",
-      "posted_date": "2026-07-27",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Washington-DC/Assistant-General-Counsel---Policy--Strategy---Litigation_R2868497-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -4329,19 +4225,6 @@
       "seniority": "Manager",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Philadelphia-PA/Immune-Hematology-Manager-Philadelphia-PA_R2869721",
       "posted_date": "2026-09-01",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Large-Scale-mAbs-Engineering-Project-Head_R2863572",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Large Scale mAbs Engineering Project Head",
-      "location": "2 Locations",
-      "state": "US",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Large-Scale-mAbs-Engineering-Project-Head_R2863572",
-      "posted_date": "2026-07-16",
       "source": "workday"
     },
     {
@@ -4813,19 +4696,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-ag-/job/Dulles-VA/Transportation-Manager_JR10435823",
-      "company": "Airbus",
-      "company_id": "airbus",
-      "title": "Transportation Manager",
-      "location": "Dulles, Va",
-      "state": "VA",
-      "sector": "Aerospace & Defense",
-      "seniority": "Manager",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Dulles-VA/Transportation-Manager_JR10435823",
-      "posted_date": "",
-      "source": "workday"
-    },
-    {
       "id": "jsp-arbiom-VA",
       "company": "Arbiom",
       "company_id": "arbiom",
@@ -4852,225 +4722,17 @@
       "source": "manual_link"
     },
     {
-      "id": "j2w-jobs-1435880533",
+      "id": "j2w-cma-cgm-VA",
       "company": "CMA CGM",
       "company_id": "cma-cgm",
-      "title": "Business Process Analyst",
-      "location": "Norfolk Va, Us",
+      "title": "Voir les offres d'emploi →",
+      "location": "VA",
       "state": "VA",
       "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/",
+      "seniority": "N/A",
+      "url": "https://jobs.cmacgm-group.com/search/?q=&locationsearch=United+States",
       "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1434091933",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Client Solutions Representation, Advanced",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Client-Solutions-Representation%2C-Advanced-VA-23501/1434091933/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1423888833",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Client Solutions Representative, Premium",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Client-Solutions-Representative%2C-Premium-VA-23501/1423888833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1436727833",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Communications & Media Relations Manager",
-      "location": "Arlington, VA",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Manager",
-      "url": "https://jobs.cmacgm-group.com/job/Arlington%2C-VA-Communications-&-Media-Relations-Manager-VA-22201/1436727833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1432084833",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Director, Regional Collections",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Director/VP",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Director%2C-Regional-Collections-VA-23501/1432084833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1440591733",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Domestic Equipment Coordinator",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Domestic-Equipment-Coordinator-VA-23501/1440591733/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1436318333",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Driver III - Newport News, VA",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Norfolk-Va-Driver-III-Newport-News%2C-VA-VA-23501/1436318333/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1415416633",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Entry Writer",
-      "location": "Springfield Gardens. Ny, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Springfield-Gardens_-Ny-Entry-Writer-NY-11413/1415416633/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1439815933",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Equipment Coordinator",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Equipment-Coordinator-VA-23501/1439815933/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1433455333",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Ethics and Privacy Officer",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Ethics-and-Privacy-Officer-VA-23501/1433455333/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1425887733",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Export Agent",
-      "location": "Springfield Gardens. Ny, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Springfield-Gardens_-Ny-Export-Agent-NY-11413/1425887733/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1424466033",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "HRIS Specialist",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-HRIS-Specialist-VA-23501/1424466033/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1426755933",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Manager, Global Mobility & Benefits Compliance",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Manager",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Manager%2C-Global-Mobility-&-Benefits-Compliance-VA-23501/1426755933/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1425406633",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Reporting Analyst",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Reporting-Analyst-VA-23501/1425406633/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1439819833",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Senior Payroll Specialist",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Senior",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Senior-Payroll-Specialist-VA-23501/1439819833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1436210833",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Sr Specialist, HR Crewing",
-      "location": "Arlington, VA",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Senior",
-      "url": "https://jobs.cmacgm-group.com/APL/job/Arlington%2C-VA-Sr-Specialist%2C-HR-Crewing-VA-22201/1436210833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1436359133",
-      "company": "CMA CGM",
-      "company_id": "cma-cgm",
-      "title": "Trade Reporting Analyst",
-      "location": "Norfolk Va, Us",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Trade-Reporting-Analyst-VA-23501/1436359133/",
-      "posted_date": "",
-      "source": "j2w"
+      "source": "manual_link"
     },
     {
       "id": "jsp-capgemini-in-fd082fde8e78ba85",
@@ -5292,19 +4954,6 @@
       "url": "https://en.descours-cabaud-carrieres.com/",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "engie-70568-VA",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Title Analyst",
-      "location": "Remote (VA)",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
-      "posted_date": "",
-      "source": "engie"
     },
     {
       "id": "jsp-eurovia-VA",
@@ -6074,6 +5723,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-career-1441900633",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Account Manager",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Manager",
+      "url": "https://career.sonepar.com/job/Lynchburg-Account-Manager-VA-24501/1441900633/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-career-1395147033",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6152,6 +5814,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-career-1441899933",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Counter Sales Representative",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Lynchburg-Counter-Sales-Representative-VA-24501/1441899933/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-career-1423100133",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6200,6 +5875,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Ashland-Inside-Sales-Representative-VA-23005/1431957033/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1441900733",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Inside Sales Representative",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Lynchburg-Inside-Sales-Representative-VA-24501/1441900733/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -7489,19 +7177,6 @@
       "url": "https://jobs.constellium.com/job/Ravenswood-Software-Engineer-Manufacturing-Systems-WV-26164-0068/1376272033/",
       "posted_date": "",
       "source": "j2w"
-    },
-    {
-      "id": "engie-70568-WV",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Title Analyst",
-      "location": "Remote (WV)",
-      "state": "WV",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
-      "posted_date": "",
-      "source": "engie"
     },
     {
       "id": "wd-sanofi-/job/Charleston-WV/Area-Business-Manager--Charleston--WV_R2858470",
