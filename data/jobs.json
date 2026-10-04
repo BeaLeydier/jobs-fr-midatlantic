@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T11:38:09.852040+00:00",
-  "total": 565,
+  "last_updated": "2026-10-04T12:18:46.468734+00:00",
+  "total": 564,
   "jobs": [
     {
       "id": "sr-744000140072889",
@@ -211,45 +211,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-72160-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Mechanical Distribution Sup",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Mechanical%20Distribution%20Sup",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-72177-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Ops, Maintenance Tech 2",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Ops%2C%20Maintenance%20Tech%202",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-69719-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Plant EHS Mgr.",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Plant%20EHS%20Mgr.",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "engie-70572-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -259,6 +220,19 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-70562-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Project Management Senior_EGPM1I",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior_EGPM1I",
       "posted_date": "",
       "source": "engie"
     },
@@ -313,19 +287,6 @@
       "url": "https://careers.ratpdevusa.com/en/annonces",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "wd-sanofi-/job/Washington-DC/XMLNAME-2027-Summer-Internship-Opportunities-Washington-DC_R2871184",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "2027 Summer Internship Opportunities Washington DC",
-      "location": "Washington, Dc",
-      "state": "DC",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Internship",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Washington-DC/XMLNAME-2027-Summer-Internship-Opportunities-Washington-DC_R2871184",
-      "posted_date": "2026-09-11",
-      "source": "workday"
     },
     {
       "id": "ic-sodexo-DC",
@@ -2341,19 +2302,6 @@
       "url": "https://capgemini.talentnet.community/jobs/e3e2c504-9309-45a8-9aa9-4cc909424c0f",
       "posted_date": "2026-07-16",
       "source": "indeed"
-    },
-    {
-      "id": "ic-danone-PA",
-      "company": "Danone",
-      "company_id": "danone",
-      "title": "Voir les offres d'emploi →",
-      "location": "PA",
-      "state": "PA",
-      "sector": "Food & Beverage",
-      "seniority": "N/A",
-      "url": "https://enusapply-danone.icims.com/jobs/search?ss=1",
-      "posted_date": "",
-      "source": "manual_link"
     },
     {
       "id": "jsp-dassault-aviation-PA",
@@ -4839,6 +4787,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-capgemini-in-79bd7c6d5863ed11",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Lead Business Process Engineer",
+      "location": "Mclean, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Senior",
+      "url": "https://recruiting.ultipro.com/CAP1009CAPGE/JobBoard/5178abe8-537c-41a6-96cc-fce9104c8f2f/OpportunityDetail?opportunityId=8bbc1f30-890b-4121-847c-0a2c6d650568&postingId=b2caa668-796e-4420-ad52-ce6b522fc1d5",
+      "posted_date": "2026-10-03",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-capgemini-in-630851d1f7f92268",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -4995,17 +4956,30 @@
       "source": "indeed"
     },
     {
-      "id": "ic-danone-VA",
+      "id": "ic-enusapply-danone-jobs-28007-process-engineer-job",
       "company": "Danone",
       "company_id": "danone",
-      "title": "Voir les offres d'emploi →",
-      "location": "VA",
+      "title": "Process Engineer",
+      "location": "Mount Crawford, VA",
       "state": "VA",
       "sector": "Food & Beverage",
-      "seniority": "N/A",
-      "url": "https://enusapply-danone.icims.com/jobs/search?ss=1",
+      "seniority": "Mid-level",
+      "url": "https://enusapply-danone.icims.com/jobs/28007/process-engineer/job",
       "posted_date": "",
-      "source": "manual_link"
+      "source": "icims"
+    },
+    {
+      "id": "ic-enusapply-danone-jobs-28142-project-engineer-job",
+      "company": "Danone",
+      "company_id": "danone",
+      "title": "Project Engineer",
+      "location": "Mount Crawford, VA",
+      "state": "VA",
+      "sector": "Food & Beverage",
+      "seniority": "Mid-level",
+      "url": "https://enusapply-danone.icims.com/jobs/28142/project-engineer/job",
+      "posted_date": "",
+      "source": "icims"
     },
     {
       "id": "jsp-descours-cabaud-VA",
@@ -5019,6 +4993,19 @@
       "url": "https://en.descours-cabaud-carrieres.com/",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "engie-72590-VA",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Project Coord Analyst",
+      "location": "Remote (VA)",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Project%20Coord%20Analyst",
+      "posted_date": "",
+      "source": "engie"
     },
     {
       "id": "jsp-eurovia-VA",
@@ -5814,19 +5801,6 @@
       "source": "manual_link"
     },
     {
-      "id": "j2w-career-1441900633",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Account Manager",
-      "location": "Lynchburg, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Lynchburg-Account-Manager-VA-24501/1441900633/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1379085733",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -5836,6 +5810,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Manager",
       "url": "https://career.sonepar.com/job/Richmond-Account-Manager-VA-23230/1379085733/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1441900633",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Account Manager",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Manager",
+      "url": "https://career.sonepar.com/job/Lynchburg-Account-Manager-VA-24501/1441900633/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5853,19 +5840,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1442449533",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Branch Manager",
-      "location": "Fairfax, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Fairfax-Branch-Manager-VA-22031/1442449533/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1433603633",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -5879,6 +5853,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-career-1442449533",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Branch Manager",
+      "location": "Fairfax, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Manager",
+      "url": "https://career.sonepar.com/job/Fairfax-Branch-Manager-VA-22031/1442449533/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-career-1418898333",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -5888,19 +5875,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Manager",
       "url": "https://career.sonepar.com/job/Chesapeake-Branch-Manager-VA-23320/1418898333/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1441899933",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Counter Sales Representative",
-      "location": "Lynchburg, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Lynchburg-Counter-Sales-Representative-VA-24501/1441899933/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5931,6 +5905,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-career-1441899933",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Counter Sales Representative",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Lynchburg-Counter-Sales-Representative-VA-24501/1441899933/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-career-1423100133",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -5940,19 +5927,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Richmond-Driver-VA-23230/1423100133/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1441900733",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Inside Sales Representative",
-      "location": "Lynchburg, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Lynchburg-Inside-Sales-Representative-VA-24501/1441900733/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5970,15 +5944,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1411521733",
+      "id": "j2w-career-1441900733",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Inside Sales Representative",
-      "location": "Newport News, VA",
+      "location": "Lynchburg, VA",
       "state": "VA",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Newport-News-Inside-Sales-Representative-VA-23607/1411521733/",
+      "url": "https://career.sonepar.com/job/Lynchburg-Inside-Sales-Representative-VA-24501/1441900733/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5992,6 +5966,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Virginia-Beach-Inside-Sales-Representative-VA-23455/1407546833/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1411521733",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Inside Sales Representative",
+      "location": "Newport News, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Newport-News-Inside-Sales-Representative-VA-23607/1411521733/",
       "posted_date": "",
       "source": "j2w"
     },
