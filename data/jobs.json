@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T12:18:46.468734+00:00",
+  "last_updated": "2026-10-05T14:29:22.916054+00:00",
   "total": 564,
   "jobs": [
     {
@@ -198,15 +198,41 @@
       "source": "engie"
     },
     {
-      "id": "engie-69136-DC",
+      "id": "engie-72160-DC",
       "company": "Engie",
       "company_id": "engie",
-      "title": "Instrument. and Controls, Mgr",
+      "title": "Mechanical Distribution Sup",
       "location": "Washington, DC",
       "state": "DC",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Instrument.%20and%20Controls%2C%20Mgr",
+      "url": "https://jobs.engie.com/search/?q=Mechanical%20Distribution%20Sup",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-72177-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Ops, Maintenance Tech 2",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Ops%2C%20Maintenance%20Tech%202",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-69719-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Plant EHS Mgr.",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Plant%20EHS%20Mgr.",
       "posted_date": "",
       "source": "engie"
     },
@@ -883,19 +909,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Manager",
       "url": "https://career.sonepar.com/job/Upper-Marlboro-Data-Center-OEM-Business-Development-Manager-MD-20774/1293711401/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1443433433",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Dematic Order Picker",
-      "location": "Upper Marlboro, MD",
-      "state": "MD",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Upper-Marlboro-Dematic-Order-Picker-MD-20774/1443433433/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2330,19 +2343,6 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-69930-PA",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Business Development",
-      "location": "Remote (PA)",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Business%20Development",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "jsp-eurovia-PA",
       "company": "Eurovia (Vinci)",
       "company_id": "eurovia",
@@ -2382,19 +2382,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-mazars-in-223f92f6e80a3ef6",
-      "company": "Forvis Mazars",
-      "company_id": "mazars",
-      "title": "Retirement Senior Manager",
-      "location": "Fort Washington, PA",
-      "state": "PA",
-      "sector": "Consulting & Professional Services",
-      "seniority": "Manager",
-      "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Retirement-Senior-Manager/15189",
-      "posted_date": "2026-08-05",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-mazars-in-005d752c817e6981",
       "company": "Forvis Mazars",
       "company_id": "mazars",
@@ -2421,6 +2408,32 @@
       "source": "indeed"
     },
     {
+      "id": "ic-careers-framatome-jobs-3386-co-op-univ-co-op-technical-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "Co-Op-Univ/co-op technical",
+      "location": "Cranberry Township, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Internship",
+      "url": "https://careers-framatome.icims.com/jobs/3386/co-op-univ-co-op-technical/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
+      "id": "ic-careers-framatome-jobs-3342-intern---univ-co-op-technical--28co-op-electrical-mechanical-engineer-29-job",
+      "company": "Framatome",
+      "company_id": "framatome",
+      "title": "Co-Op-Univ/co-op technical (Co-Op Electrical/Mechanical Engineer)",
+      "location": "Cranberry Township, PA",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Internship",
+      "url": "https://careers-framatome.icims.com/jobs/3342/intern---univ-co-op-technical-%28co-op-electrical-mechanical-engineer%29/job",
+      "posted_date": "",
+      "source": "icims"
+    },
+    {
       "id": "ic-careers-framatome-jobs-3408-early-careers-computer-science-engineer-i--28cranberry-township-29-job",
       "company": "Framatome",
       "company_id": "framatome",
@@ -2430,32 +2443,6 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://careers-framatome.icims.com/jobs/3408/early-careers-computer-science-engineer-i-%28cranberry-township%29/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
-      "id": "ic-careers-framatome-jobs-3386-intern---univ-co-op-technical-job",
-      "company": "Framatome",
-      "company_id": "framatome",
-      "title": "Intern - Univ/Co-Op Technical",
-      "location": "Cranberry Township, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Internship",
-      "url": "https://careers-framatome.icims.com/jobs/3386/intern---univ-co-op-technical/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
-      "id": "ic-careers-framatome-jobs-3342-intern---univ-co-op-technical--28co-op-electrical-mechanical-engineer-29-job",
-      "company": "Framatome",
-      "company_id": "framatome",
-      "title": "Intern - Univ/Co-Op Technical (Co-Op Electrical/Mechanical Engineer)",
-      "location": "Cranberry Township, PA",
-      "state": "PA",
-      "sector": "Energy & Environment",
-      "seniority": "Internship",
-      "url": "https://careers-framatome.icims.com/jobs/3342/intern---univ-co-op-technical-%28co-op-electrical-mechanical-engineer%29/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -2967,6 +2954,19 @@
       "source": "workday"
     },
     {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Production-Technician_R2869842-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Production Technician",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Mid-level",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Production-Technician_R2869842-1",
+      "posted_date": "2026-10-05",
+      "source": "workday"
+    },
+    {
       "id": "wd-sanofi-/job/Swiftwater-PA/QC-Lab-Team-Supervisor_R2870293-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -3029,6 +3029,19 @@
       "seniority": "Manager",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Senior-Laboratory-Manager-for-Ligand-Binding-Assays_R2851823-1",
       "posted_date": "2026-07-30",
+      "source": "workday"
+    },
+    {
+      "id": "wd-sanofi-/job/Swiftwater-PA/Senior-Production-Technician_R2871614-1",
+      "company": "Sanofi",
+      "company_id": "sanofi",
+      "title": "Senior Production Technician",
+      "location": "Swiftwater, Pa",
+      "state": "PA",
+      "sector": "Pharmaceuticals & Healthcare",
+      "seniority": "Senior",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Senior-Production-Technician_R2871614-1",
+      "posted_date": "2026-10-05",
       "source": "workday"
     },
     {
@@ -4995,19 +5008,6 @@
       "source": "manual_link"
     },
     {
-      "id": "engie-72590-VA",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Project Coord Analyst",
-      "location": "Remote (VA)",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Project%20Coord%20Analyst",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "jsp-eurovia-VA",
       "company": "Eurovia (Vinci)",
       "company_id": "eurovia",
@@ -5801,19 +5801,6 @@
       "source": "manual_link"
     },
     {
-      "id": "j2w-career-1379085733",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Account Manager",
-      "location": "Richmond, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Richmond-Account-Manager-VA-23230/1379085733/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1441900633",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -5827,6 +5814,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-career-1379085733",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Account Manager",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Manager",
+      "url": "https://career.sonepar.com/job/Richmond-Account-Manager-VA-23230/1379085733/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-career-1395147033",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -5836,6 +5836,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Manager",
       "url": "https://career.sonepar.com/job/Chesapeake-Area-Sales-Manager-Virginia-Beach%2C-VA-VA-23320/1395147033/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1418898333",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Branch Manager",
+      "location": "Chesapeake, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Manager",
+      "url": "https://career.sonepar.com/job/Chesapeake-Branch-Manager-VA-23320/1418898333/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5866,28 +5879,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1418898333",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Branch Manager",
-      "location": "Chesapeake, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Chesapeake-Branch-Manager-VA-23320/1418898333/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1439182933",
+      "id": "j2w-career-1441899933",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Counter Sales Representative",
-      "location": "Norfolk, NE",
+      "location": "Lynchburg, VA",
       "state": "VA",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Norfolk-Counter-Sales-Representative-NE-68701/1439182933/",
+      "url": "https://career.sonepar.com/job/Lynchburg-Counter-Sales-Representative-VA-24501/1441899933/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5905,15 +5905,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1441899933",
+      "id": "j2w-career-1439182933",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Counter Sales Representative",
-      "location": "Lynchburg, VA",
+      "location": "Norfolk, NE",
       "state": "VA",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Lynchburg-Counter-Sales-Representative-VA-24501/1441899933/",
+      "url": "https://career.sonepar.com/job/Norfolk-Counter-Sales-Representative-NE-68701/1439182933/",
       "posted_date": "",
       "source": "j2w"
     },
