@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-10T12:27:20.366389+00:00",
-  "total": 540,
+  "last_updated": "2026-10-11T12:43:01.877364+00:00",
+  "total": 553,
   "jobs": [
     {
       "id": "sr-744000140072889",
@@ -276,6 +276,19 @@
       "source": "engie"
     },
     {
+      "id": "engie-73005-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Project Coord Analyst II_ENPC1H",
+      "location": "Remote (DC)",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Project%20Coord%20Analyst%20II_ENPC1H",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-70572-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -285,6 +298,19 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-70568-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Title Analyst",
+      "location": "Remote (DC)",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
       "posted_date": "",
       "source": "engie"
     },
@@ -445,6 +471,32 @@
       "source": "manual_link"
     },
     {
+      "id": "engie-73005-DE",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Project Coord Analyst II_ENPC1H",
+      "location": "Remote (DE)",
+      "state": "DE",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Project%20Coord%20Analyst%20II_ENPC1H",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-70568-DE",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Title Analyst",
+      "location": "Remote (DE)",
+      "state": "DE",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "wd-roquette-/job/Wilmington/Associate-Scientist_R0027160",
       "company": "Roquette",
       "company_id": "roquette",
@@ -599,6 +651,32 @@
       "url": "https://jobs.keysight.com/jobs/53837/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2026-08-27",
       "source": "indeed"
+    },
+    {
+      "id": "engie-73005-MD",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Project Coord Analyst II_ENPC1H",
+      "location": "Remote (MD)",
+      "state": "MD",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Project%20Coord%20Analyst%20II_ENPC1H",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-70568-MD",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Title Analyst",
+      "location": "Remote (MD)",
+      "state": "MD",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
+      "posted_date": "",
+      "source": "engie"
     },
     {
       "id": "jsp-fives-in-6de4c33c24fbb20d",
@@ -2278,6 +2356,45 @@
       "source": "manual_link"
     },
     {
+      "id": "engie-69930-PA",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Business Development",
+      "location": "Remote (PA)",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Business%20Development",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-73005-PA",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Project Coord Analyst II_ENPC1H",
+      "location": "Remote (PA)",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Project%20Coord%20Analyst%20II_ENPC1H",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-70568-PA",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Title Analyst",
+      "location": "Remote (PA)",
+      "state": "PA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "jsp-eurovia-PA",
       "company": "Eurovia (Vinci)",
       "company_id": "eurovia",
@@ -3432,19 +3549,6 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/45BE85F729334E848E60A4AE1DB922B8/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-07-02",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-transdev-in-7791016c439efc08",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Non CDL Driver",
-      "location": "Allentown, PA",
-      "state": "PA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/9B682AE23EA1428D8B419E0342C74E92/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-03-01",
       "source": "indeed"
     },
     {
@@ -4683,6 +4787,32 @@
       "source": "engie"
     },
     {
+      "id": "engie-73005-VA",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Project Coord Analyst II_ENPC1H",
+      "location": "Remote (VA)",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Project%20Coord%20Analyst%20II_ENPC1H",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-70568-VA",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Title Analyst",
+      "location": "Remote (VA)",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "jsp-eurovia-VA",
       "company": "Eurovia (Vinci)",
       "company_id": "eurovia",
@@ -5684,19 +5814,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1433603633",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Branch Manager",
-      "location": "Alexandria, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Alexandria-Branch-Manager-VA-22312/1433603633/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1418898333",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -5723,15 +5840,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1441062633",
+      "id": "j2w-career-1433603633",
       "company": "Sonepar",
       "company_id": "sonepar",
-      "title": "Counter Sales Representative",
-      "location": "Winchester, VA",
+      "title": "Branch Manager",
+      "location": "Alexandria, VA",
       "state": "VA",
       "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Winchester-Counter-Sales-Representative-VA-22601/1441062633/",
+      "seniority": "Manager",
+      "url": "https://career.sonepar.com/job/Alexandria-Branch-Manager-VA-22312/1433603633/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5745,6 +5862,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Lynchburg-Counter-Sales-Representative-VA-24501/1441899933/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1441062633",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Counter Sales Representative",
+      "location": "Winchester, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Winchester-Counter-Sales-Representative-VA-22601/1441062633/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5788,15 +5918,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1407546833",
+      "id": "j2w-career-1411521733",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Inside Sales Representative",
-      "location": "Virginia Beach, VA",
+      "location": "Newport News, VA",
       "state": "VA",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Virginia-Beach-Inside-Sales-Representative-VA-23455/1407546833/",
+      "url": "https://career.sonepar.com/job/Newport-News-Inside-Sales-Representative-VA-23607/1411521733/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5814,15 +5944,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1411521733",
+      "id": "j2w-career-1407546833",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Inside Sales Representative",
-      "location": "Newport News, VA",
+      "location": "Virginia Beach, VA",
       "state": "VA",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Newport-News-Inside-Sales-Representative-VA-23607/1411521733/",
+      "url": "https://career.sonepar.com/job/Virginia-Beach-Inside-Sales-Representative-VA-23455/1407546833/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -5918,19 +6048,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-a30fad5b8e5aa820",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Bus Driver - Fairfax Connector",
-      "location": "Lorton, VA",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/385BD216F1524D5790E2E7348AEF2675/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-03-05",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-transdev-in-b8e2c73e5a0a1bc5",
       "company": "Transdev",
       "company_id": "transdev",
@@ -5940,6 +6057,19 @@
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/839E97591931453C949E4B78AF1F0632/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-03-05",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-a30fad5b8e5aa820",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Bus Driver - Fairfax Connector",
+      "location": "Lorton, VA",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/385BD216F1524D5790E2E7348AEF2675/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-03-05",
       "source": "indeed"
     },
@@ -5996,7 +6126,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-cfafd515d641093f",
+      "id": "jsp-transdev-in-dc6727e06e5c604a",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Diesel Mechanic",
@@ -6004,8 +6134,21 @@
       "state": "VA",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/3BD0C765604247B487D5801718E450B8/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-10-03",
+      "url": "https://transdevna.jobs/06547117373B4CAEA3D87F07680451B7/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-09-30",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-cfdecce143f91015",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Diesel Mechanic",
+      "location": "Williamsburg, VA",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/84A036EF659A40B6910BADCBC3470B75/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-08-19",
       "source": "indeed"
     },
     {
@@ -6982,6 +7125,32 @@
       "url": "https://jobs.constellium.com/job/Ravenswood-Software-Engineer-Manufacturing-Systems-WV-26164-0068/1376272033/",
       "posted_date": "",
       "source": "j2w"
+    },
+    {
+      "id": "engie-73005-WV",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Project Coord Analyst II_ENPC1H",
+      "location": "Remote (WV)",
+      "state": "WV",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Project%20Coord%20Analyst%20II_ENPC1H",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-70568-WV",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Title Analyst",
+      "location": "Remote (WV)",
+      "state": "WV",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Title%20Analyst",
+      "posted_date": "",
+      "source": "engie"
     },
     {
       "id": "ic-sodexo-WV",
