@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-18T10:57:31.118467+00:00",
-  "total": 575,
+  "last_updated": "2026-10-19T12:59:32.622158+00:00",
+  "total": 572,
   "jobs": [
     {
       "id": "sr-744000140072889",
@@ -250,15 +250,15 @@
       "source": "engie"
     },
     {
-      "id": "engie-69136-DC",
+      "id": "engie-72160-DC",
       "company": "Engie",
       "company_id": "engie",
-      "title": "Instrument. and Controls, Mgr",
+      "title": "Mechanical Distribution Sup",
       "location": "Washington, DC",
       "state": "DC",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Instrument.%20and%20Controls%2C%20Mgr",
+      "url": "https://jobs.engie.com/search/?q=Mechanical%20Distribution%20Sup",
       "posted_date": "",
       "source": "engie"
     },
@@ -276,15 +276,15 @@
       "source": "engie"
     },
     {
-      "id": "engie-69719-DC",
+      "id": "engie-72590-DC",
       "company": "Engie",
       "company_id": "engie",
-      "title": "Plant EHS Mgr.",
+      "title": "Project Coord Analyst",
       "location": "Washington, DC",
       "state": "DC",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Plant%20EHS%20Mgr.",
+      "url": "https://jobs.engie.com/search/?q=Project%20Coord%20Analyst",
       "posted_date": "",
       "source": "engie"
     },
@@ -1134,19 +1134,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1446682933",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Wire Cutter",
-      "location": "Upper Marlboro, MD",
-      "state": "MD",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Upper-Marlboro-Wire-Cutter-MD-20774/1446682933/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "jsp-technip-energies-MD",
       "company": "Technip Energies",
       "company_id": "technip-energies",
@@ -1173,7 +1160,7 @@
       "source": "manual_link"
     },
     {
-      "id": "jsp-transdev-in-3718f6878c3017b3",
+      "id": "jsp-transdev-in-aa78a793597f87bc",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Assistant Maintenance Manager",
@@ -1181,7 +1168,7 @@
       "state": "MD",
       "sector": "Transportation & Logistics",
       "seniority": "Manager",
-      "url": "https://transdevna.jobs/5AD7AE48FF7D4E8983BFA04D1BBD2209/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "url": "https://transdevna.jobs/D16AA605239947A4A1A24AE364308DB4/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-09-11",
       "source": "indeed"
     },
@@ -1524,16 +1511,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-aa5c5fe8768d791d",
+      "id": "jsp-transdev-in-e34db97e37111b4d",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Parts Clerk",
-      "location": "Capitol Heights, MD",
+      "location": "Bel Air, MD",
       "state": "MD",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/9FF3EB5EDCAC432E947955367BA1CE1A/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-09-22",
+      "url": "https://transdevna.jobs/41CBDB8C89B44317B547598869D91531/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-09-11",
       "source": "indeed"
     },
     {
@@ -2326,19 +2313,6 @@
       "sector": "Industrials & Chemicals",
       "seniority": "Mid-level",
       "url": "https://jobs.arkema.com/job/Radnor-Customer-Service-Representative-Job-PA/1433572333/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1438197233",
-      "company": "Arkema",
-      "company_id": "arkema",
-      "title": "International Account Specialist",
-      "location": "Radnor, Pa, United States",
-      "state": "PA",
-      "sector": "Industrials & Chemicals",
-      "seniority": "Mid-level",
-      "url": "https://jobs.arkema.com/job/Radnor-International-Account-Specialist-Job-PA/1438197233/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -3903,6 +3877,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-transdev-in-7791016c439efc08",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Non CDL Driver",
+      "location": "Allentown, PA",
+      "state": "PA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/9B682AE23EA1428D8B419E0342C74E92/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-03-01",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-transdev-in-7a1923810223265b",
       "company": "Transdev",
       "company_id": "transdev",
@@ -4072,7 +4059,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-4248c19adae76cb0",
+      "id": "jsp-veolia-in-0a4d1193f8cfb0ee",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Environmental Specialist I",
@@ -4080,8 +4067,8 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000149952273-environmental-specialist-i",
-      "posted_date": "2026-09-16",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000149407138-environmental-specialist-i",
+      "posted_date": "2026-09-14",
       "source": "indeed"
     },
     {
@@ -6074,15 +6061,15 @@
       "source": "manual_link"
     },
     {
-      "id": "j2w-career-1379085733",
+      "id": "j2w-career-1441900633",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Account Manager",
-      "location": "Richmond, VA",
+      "location": "Lynchburg, VA",
       "state": "VA",
       "sector": "Industrial Distribution",
       "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Richmond-Account-Manager-VA-23230/1379085733/",
+      "url": "https://career.sonepar.com/job/Lynchburg-Account-Manager-VA-24501/1441900633/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6100,15 +6087,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1441900633",
+      "id": "j2w-career-1379085733",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Account Manager",
-      "location": "Lynchburg, VA",
+      "location": "Richmond, VA",
       "state": "VA",
       "sector": "Industrial Distribution",
       "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Lynchburg-Account-Manager-VA-24501/1441900633/",
+      "url": "https://career.sonepar.com/job/Richmond-Account-Manager-VA-23230/1379085733/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6122,19 +6109,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Manager",
       "url": "https://career.sonepar.com/job/Chesapeake-Area-Sales-Manager-Virginia-Beach%2C-VA-VA-23320/1395147033/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1418898333",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Branch Manager",
-      "location": "Chesapeake, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Chesapeake-Branch-Manager-VA-23320/1418898333/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6165,15 +6139,28 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1441062633",
+      "id": "j2w-career-1418898333",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Branch Manager",
+      "location": "Chesapeake, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Manager",
+      "url": "https://career.sonepar.com/job/Chesapeake-Branch-Manager-VA-23320/1418898333/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1439182933",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Counter Sales Representative",
-      "location": "Winchester, VA",
+      "location": "Norfolk, NE",
       "state": "VA",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Winchester-Counter-Sales-Representative-VA-22601/1441062633/",
+      "url": "https://career.sonepar.com/job/Norfolk-Counter-Sales-Representative-NE-68701/1439182933/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6191,15 +6178,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1439182933",
+      "id": "j2w-career-1441062633",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Counter Sales Representative",
-      "location": "Norfolk, NE",
+      "location": "Winchester, VA",
       "state": "VA",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Norfolk-Counter-Sales-Representative-NE-68701/1439182933/",
+      "url": "https://career.sonepar.com/job/Winchester-Counter-Sales-Representative-VA-22601/1441062633/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6230,19 +6217,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1407546833",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Inside Sales Representative",
-      "location": "Virginia Beach, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Virginia-Beach-Inside-Sales-Representative-VA-23455/1407546833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1441900733",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6256,15 +6230,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1411521733",
+      "id": "j2w-career-1407546833",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Inside Sales Representative",
-      "location": "Newport News, VA",
+      "location": "Virginia Beach, VA",
       "state": "VA",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Newport-News-Inside-Sales-Representative-VA-23607/1411521733/",
+      "url": "https://career.sonepar.com/job/Virginia-Beach-Inside-Sales-Representative-VA-23455/1407546833/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6291,19 +6265,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Virginia-Beach-Tools%2C-Fastener-and-Safety-Specialist-Virginia-Beach%2C-VA-VA-23455/1399429433/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1444944633",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Warehouse Associate",
-      "location": "Richmond, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Richmond-Warehouse-Associate-VA-23230/1444944633/",
       "posted_date": "",
       "source": "j2w"
     },
