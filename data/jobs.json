@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T10:51:45.374042+00:00",
-  "total": 563,
+  "last_updated": "2026-10-25T11:18:29.608663+00:00",
+  "total": 562,
   "jobs": [
     {
       "id": "sr-744000140072889",
@@ -224,28 +224,15 @@
       "source": "engie"
     },
     {
-      "id": "engie-71492-DC",
+      "id": "engie-73185-DC",
       "company": "Engie",
       "company_id": "engie",
-      "title": "Health and Safety Advisor",
+      "title": "Electrical Distribution Sup",
       "location": "Washington, DC",
       "state": "DC",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Health%20and%20Safety%20Advisor",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-69136-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Instrument. and Controls, Mgr",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Instrument.%20and%20Controls%2C%20Mgr",
+      "url": "https://jobs.engie.com/search/?q=Electrical%20Distribution%20Sup",
       "posted_date": "",
       "source": "engie"
     },
@@ -328,7 +315,7 @@
       "source": "engie"
     },
     {
-      "id": "engie-73363-DC",
+      "id": "engie-73360-DC",
       "company": "Engie",
       "company_id": "engie",
       "title": "Project Management Manager",
@@ -337,32 +324,6 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://jobs.engie.com/search/?q=Project%20Management%20Manager",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-68502-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Project Management Senior",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-70562-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Project Management Senior_EGPM1I",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Project%20Management%20Senior_EGPM1I",
       "posted_date": "",
       "source": "engie"
     },
@@ -1498,7 +1459,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-a0ce795b533e7c20",
+      "id": "jsp-transdev-in-7c87404b72e1048f",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Lot Attendant - MTA Baltimore Sisson/Lombard",
@@ -1506,7 +1467,7 @@
       "state": "MD",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/0B38FF9A486D44EDBF7ED87FFC40A7F2/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "url": "https://transdevna.jobs/51373E33B5FA45299D79D267A402548F/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-08-20",
       "source": "indeed"
     },
@@ -2627,6 +2588,19 @@
       "url": "https://jobs.ourcareerpages.com/",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "jsp-mazars-in-50c4ba5dc46d9a85",
+      "company": "Forvis Mazars",
+      "company_id": "mazars",
+      "title": "Compensation Senior Manager",
+      "location": "Fort Washington, PA",
+      "state": "PA",
+      "sector": "Consulting & Professional Services",
+      "seniority": "Manager",
+      "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Compensation-Senior-Manager/15628",
+      "posted_date": "2026-10-13",
+      "source": "indeed"
     },
     {
       "id": "jsp-mazars-in-77faff3883acee52",
@@ -3877,6 +3851,19 @@
       "source": "workday"
     },
     {
+      "id": "jsp-transdev-in-022bbf2c4ab8c85c",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "CDL Bus Operator",
+      "location": "Philadelphia, PA",
+      "state": "PA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/C7B678B085C54796A0052093B213E35D/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-07-15",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-transdev-in-180c68f6185a686f",
       "company": "Transdev",
       "company_id": "transdev",
@@ -3955,7 +3942,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-c31071f9a1440b36",
+      "id": "jsp-transdev-in-b568a3ecfc0d4927",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Operations Manager",
@@ -3963,7 +3950,7 @@
       "state": "PA",
       "sector": "Transportation & Logistics",
       "seniority": "Manager",
-      "url": "https://transdevna.jobs/EA34EA8278EB455B9A963E668AD6D588/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "url": "https://transdevna.jobs/1D290C5C9DC0401690E4FAD80CFB435D/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-09-21",
       "source": "indeed"
     },
@@ -4124,16 +4111,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-11ee898bf061f34e",
+      "id": "jsp-veolia-in-0eea422000ff4fd8",
       "company": "Veolia",
       "company_id": "veolia",
-      "title": "Equipment Operator",
+      "title": "Equipment Operators",
       "location": "Allentown, PA",
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000156851078-equipment-operator",
-      "posted_date": "2026-10-21",
+      "url": "https://veolia-1.betterteam.com/equipment-operators?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic",
+      "posted_date": "2026-10-16",
       "source": "indeed"
     },
     {
@@ -4228,7 +4215,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-5db54c9e0d9f6a9b",
+      "id": "jsp-veolia-in-9423d1b414de7c76",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Senior Corporate Counsel",
@@ -4236,8 +4223,8 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Senior",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000155337958-senior-corporate-counsel-",
-      "posted_date": "2026-10-13",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156638273-senior-corporate-counsel",
+      "posted_date": "2026-09-17",
       "source": "indeed"
     },
     {
@@ -4254,7 +4241,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-a211781da31e6bd8",
+      "id": "jsp-veolia-in-0ef0a6b24ade5ede",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Warehouse Associate",
@@ -4262,8 +4249,8 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://veolia-1.betterteam.com/warehouse-associate-30?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic",
-      "posted_date": "2026-10-18",
+      "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000148480155-warehouse-associate",
+      "posted_date": "2026-09-09",
       "source": "indeed"
     },
     {
@@ -4824,6 +4811,19 @@
       "url": "https://arbiom.com/",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "j2w-jobs-1449457533",
+      "company": "Arkema",
+      "company_id": "arkema",
+      "title": "Material Handler II",
+      "location": "Chatham, Va, United States",
+      "state": "VA",
+      "sector": "Industrials & Chemicals",
+      "seniority": "Mid-level",
+      "url": "https://jobs.arkema.com/job/Chatham-Material-Handler-II-Job-VA/1449457533/",
+      "posted_date": "",
+      "source": "j2w"
     },
     {
       "id": "jsp-atos-VA",
@@ -6022,19 +6022,6 @@
       "source": "manual_link"
     },
     {
-      "id": "j2w-career-1379085733",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Account Manager",
-      "location": "Richmond, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Richmond-Account-Manager-VA-23230/1379085733/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1441900633",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6044,6 +6031,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Manager",
       "url": "https://career.sonepar.com/job/Lynchburg-Account-Manager-VA-24501/1441900633/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1379085733",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Account Manager",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Manager",
+      "url": "https://career.sonepar.com/job/Richmond-Account-Manager-VA-23230/1379085733/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6074,15 +6074,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1418898333",
+      "id": "j2w-career-1442449533",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Branch Manager",
-      "location": "Chesapeake, VA",
+      "location": "Fairfax, VA",
       "state": "VA",
       "sector": "Industrial Distribution",
       "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Chesapeake-Branch-Manager-VA-23320/1418898333/",
+      "url": "https://career.sonepar.com/job/Fairfax-Branch-Manager-VA-22031/1442449533/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6100,15 +6100,28 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1442449533",
+      "id": "j2w-career-1418898333",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Branch Manager",
-      "location": "Fairfax, VA",
+      "location": "Chesapeake, VA",
       "state": "VA",
       "sector": "Industrial Distribution",
       "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Fairfax-Branch-Manager-VA-22031/1442449533/",
+      "url": "https://career.sonepar.com/job/Chesapeake-Branch-Manager-VA-23320/1418898333/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1441899933",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Counter Sales Representative",
+      "location": "Lynchburg, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Lynchburg-Counter-Sales-Representative-VA-24501/1441899933/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6139,19 +6152,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1441899933",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Counter Sales Representative",
-      "location": "Lynchburg, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Lynchburg-Counter-Sales-Representative-VA-24501/1441899933/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1423100133",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6165,19 +6165,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1431957033",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Inside Sales Representative",
-      "location": "Ashland, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Ashland-Inside-Sales-Representative-VA-23005/1431957033/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1441900733",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6187,6 +6174,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Lynchburg-Inside-Sales-Representative-VA-24501/1441900733/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1431957033",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Inside Sales Representative",
+      "location": "Ashland, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Ashland-Inside-Sales-Representative-VA-23005/1431957033/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6447,19 +6447,6 @@
       "sector": "Transportation & Logistics",
       "seniority": "Director/VP",
       "url": "https://transdevna.jobs/D11A5EDD91CA4FA198EEB77FDAE56998/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-10-05",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-transdev-in-9e9fdc541d49a480",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Director of Maintenance",
-      "location": "Fairfax, VA",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Director/VP",
-      "url": "https://transdevna.jobs/A18A711D4F5F4AF9969C9DD43ED56135/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-10-05",
       "source": "indeed"
     },
