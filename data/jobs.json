@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T13:17:40.225476+00:00",
+  "last_updated": "2026-11-09T16:04:42.380540+00:00",
   "total": 570,
   "jobs": [
     {
@@ -276,6 +276,19 @@
       "source": "engie"
     },
     {
+      "id": "engie-73185-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Electrical Distribution Sup",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Electrical%20Distribution%20Sup",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-72921-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -302,6 +315,19 @@
       "source": "engie"
     },
     {
+      "id": "engie-69136-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Instrument. and Controls, Mgr",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Instrument.%20and%20Controls%2C%20Mgr",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-73916-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -311,58 +337,6 @@
       "sector": "Energy & Environment",
       "seniority": "Internship",
       "url": "https://jobs.engie.com/search/?q=Intern%20-%20Georgetown%20University",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-73919-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Intern_PTIN5C",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Intern_PTIN5C",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-72160-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Mechanical Distribution Sup",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Mechanical%20Distribution%20Sup",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-72177-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Ops, Maintenance Tech 2",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Ops%2C%20Maintenance%20Tech%202",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-69719-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Plant EHS Mgr.",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Plant%20EHS%20Mgr.",
       "posted_date": "",
       "source": "engie"
     },
@@ -402,6 +376,19 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://jobs.engie.com/search/?q=Project%20Management%20Advisor",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-74543-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Project Management II_EGPM1H",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Project%20Management%20II_EGPM1H",
       "posted_date": "",
       "source": "engie"
     },
@@ -1238,19 +1225,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1454449533",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Strategic Supply Chain Specialist",
-      "location": "Hagerstown, MD",
-      "state": "MD",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Hagerstown-Strategic-Supply-Chain-Specialist-MD-21740/1454449533/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1388521933",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -1342,16 +1316,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-dc1adbf8caa4a8ee",
+      "id": "jsp-transdev-in-db0d55c61093e97b",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Automotive Technician",
-      "location": "Rockville, MD",
+      "location": "Elkton, MD",
       "state": "MD",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/8D59D07256AF475F824D83A05ED76A31/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-09-22",
+      "url": "https://transdevna.jobs/74050E56ED0D4C7A8279AB874020C15A/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-07-29",
       "source": "indeed"
     },
     {
@@ -1706,7 +1680,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-37446f6faea04ed3",
+      "id": "jsp-transdev-in-b95b798a3edf5642",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Technician I - MTA Lombard/Sisson",
@@ -1714,7 +1688,7 @@
       "state": "MD",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/683439330EDD48A1AAAF71D75FC8CBF4/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "url": "https://transdevna.jobs/6C0CD0218171422EA22AEA335CF76932/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-09-23",
       "source": "indeed"
     },
@@ -2083,16 +2057,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-addev-materials-in-a3f4a73d8fe8b55d",
+      "id": "jsp-addev-materials-in-1a098b6aa1ed27b2",
       "company": "Addev Materials",
       "company_id": "addev-materials",
-      "title": "Machine Operator",
+      "title": "Machine Operator - 1st Shift!",
       "location": "Glenshaw, PA",
       "state": "PA",
       "sector": "Manufacturing & Materials",
       "seniority": "Mid-level",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a78879e9f4435c7019f80055ca71bc7&source=Indeed+Free",
-      "posted_date": "2026-07-20",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7887b2a0f424b101a0ffebbfc56180&source=Indeed+Free",
+      "posted_date": "2026-10-05",
       "source": "indeed"
     },
     {
@@ -2395,6 +2369,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-capgemini-in-13f586107087e866",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "AI Delivery Lead",
+      "location": "Philadelphia, PA",
+      "state": "PA",
+      "sector": "Technology & IT",
+      "seniority": "Senior",
+      "url": "https://capgemini.talentnet.community/jobs/11fa1b4a-3251-4a3b-8bf0-ab79c922cbcd",
+      "posted_date": "2026-10-22",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-capgemini-in-2fa526a0de5d2b62",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -2434,6 +2421,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-capgemini-in-4fb909bf8906b9bc",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Data Scientist",
+      "location": "Conshohocken, PA",
+      "state": "PA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://capgemini.talentnet.community/jobs/e8427b7d-f2d2-4420-9a87-dda130de0970",
+      "posted_date": "2026-10-14",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-capgemini-in-4c8162fa928ad217",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -2470,6 +2470,19 @@
       "seniority": "Manager",
       "url": "https://capgemini.talentnet.community/jobs/3b929877-acad-43d4-b641-dd02eab2ae88",
       "posted_date": "2026-11-06",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-369731954be1da5b",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "SFMC Developer",
+      "location": "Malvern, PA",
+      "state": "PA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://capgemini.talentnet.community/jobs/63e28011-e852-443f-a9a9-4c00c2031b27",
+      "posted_date": "2026-05-14",
       "source": "indeed"
     },
     {
@@ -2588,19 +2601,6 @@
       "url": "https://jobs.ourcareerpages.com/",
       "posted_date": "",
       "source": "manual_link"
-    },
-    {
-      "id": "jsp-mazars-in-50c4ba5dc46d9a85",
-      "company": "Forvis Mazars",
-      "company_id": "mazars",
-      "title": "Compensation Senior Manager",
-      "location": "Fort Washington, PA",
-      "state": "PA",
-      "sector": "Consulting & Professional Services",
-      "seniority": "Manager",
-      "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Compensation-Senior-Manager/15628",
-      "posted_date": "2026-10-13",
-      "source": "indeed"
     },
     {
       "id": "jsp-mazars-in-77faff3883acee52",
@@ -3136,19 +3136,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Swiftwater-PA/XMLNAME-2027-Summer-Co-op-Utility-Engineering-Swiftwater-PA_R2865282",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "2027 Summer Co op Utility Engineering Swiftwater PA",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Co-op-Utility-Engineering-Swiftwater-PA_R2865282",
-      "posted_date": "2026-11-02",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Swiftwater-PA/XMLNAME-2027-Summer-Co-Op-Opportunities--Swiftwater---PA_R2871172-1",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -3172,19 +3159,6 @@
       "seniority": "Internship",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Co-op-HSE-Health-Safety-Environment-Swiftwater-PA_R2866225",
       "posted_date": "2026-10-22",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Pharmacovigilance-Scientist-Swiftwater-PA_R2865514",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "2027 Summer Intern Pharmacovigilance Scientist Swiftwater PA",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Internship",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Pharmacovigilance-Scientist-Swiftwater-PA_R2865514",
-      "posted_date": "2026-11-03",
       "source": "workday"
     },
     {
@@ -3968,7 +3942,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-c31071f9a1440b36",
+      "id": "jsp-transdev-in-b568a3ecfc0d4927",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Operations Manager",
@@ -3976,7 +3950,7 @@
       "state": "PA",
       "sector": "Transportation & Logistics",
       "seniority": "Manager",
-      "url": "https://transdevna.jobs/EA34EA8278EB455B9A963E668AD6D588/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "url": "https://transdevna.jobs/1D290C5C9DC0401690E4FAD80CFB435D/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-09-21",
       "source": "indeed"
     },
@@ -4250,20 +4224,7 @@
       "sector": "Pharmaceuticals & Healthcare",
       "seniority": "Manager",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Philadelphia-PA/Community-Relations---Education-Manager--CoRe----Philadelphia-and-New-Jersey_R2876680-1",
-      "posted_date": "2026-10-30",
-      "source": "workday"
-    },
-    {
-      "id": "wd-sanofi-/job/Morristown-NJ/HFUE-Associate-Director_R2855041-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "HFUE Associate Director",
-      "location": "3 Locations",
-      "state": "US",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Director/VP",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/HFUE-Associate-Director_R2855041-1",
-      "posted_date": "2026-11-06",
+      "posted_date": "2026-11-09",
       "source": "workday"
     },
     {
@@ -4800,6 +4761,19 @@
       "source": "manual_link"
     },
     {
+      "id": "jsp-capgemini-in-596812fbd74130a6",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": ".NET & SQL Developer",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Mid-level",
+      "url": "https://capgemini.talentnet.community/jobs/70b06542-6c0d-41ef-a424-871175bde169",
+      "posted_date": "2026-10-10",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-capgemini-in-3d633677e93260cf",
       "company": "Capgemini",
       "company_id": "capgemini",
@@ -4823,6 +4797,32 @@
       "seniority": "Manager",
       "url": "https://apply.workable.com/j/A81A669B58",
       "posted_date": "2026-06-04",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-b7ae85f410c6e175",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Senior Salesforce CG Cloud Developer",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Senior",
+      "url": "https://capgemini.talentnet.community/jobs/5bb02209-dc9a-4627-9a60-488564d0cf94",
+      "posted_date": "2026-09-30",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-capgemini-in-f957b7fdccb30c4b",
+      "company": "Capgemini",
+      "company_id": "capgemini",
+      "title": "Senior Scrum Master",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Technology & IT",
+      "seniority": "Senior",
+      "url": "https://capgemini.talentnet.community/jobs/5f2e7888-29ab-43f3-b442-dd9443be5ec2",
+      "posted_date": "2026-05-13",
       "source": "indeed"
     },
     {
@@ -6074,6 +6074,19 @@
       "source": "manual_link"
     },
     {
+      "id": "j2w-career-1379085733",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Account Manager",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Manager",
+      "url": "https://career.sonepar.com/job/Richmond-Account-Manager-VA-23230/1379085733/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-career-1441900633",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6100,15 +6113,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1379085733",
+      "id": "j2w-career-1433603633",
       "company": "Sonepar",
       "company_id": "sonepar",
-      "title": "Account Manager",
-      "location": "Richmond, VA",
+      "title": "Branch Manager",
+      "location": "Alexandria, VA",
       "state": "VA",
       "sector": "Industrial Distribution",
       "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Richmond-Account-Manager-VA-23230/1379085733/",
+      "url": "https://career.sonepar.com/job/Alexandria-Branch-Manager-VA-22312/1433603633/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6139,15 +6152,15 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1433603633",
+      "id": "j2w-career-1439182933",
       "company": "Sonepar",
       "company_id": "sonepar",
-      "title": "Branch Manager",
-      "location": "Alexandria, VA",
+      "title": "Counter Sales Representative",
+      "location": "Norfolk, NE",
       "state": "VA",
       "sector": "Industrial Distribution",
-      "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Alexandria-Branch-Manager-VA-22312/1433603633/",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Norfolk-Counter-Sales-Representative-NE-68701/1439182933/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6161,19 +6174,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Winchester-Counter-Sales-Representative-VA-22601/1441062633/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1439182933",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Counter Sales Representative",
-      "location": "Norfolk, NE",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Norfolk-Counter-Sales-Representative-NE-68701/1439182933/",
       "posted_date": "",
       "source": "j2w"
     },
