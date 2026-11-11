@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T14:51:03.923554+00:00",
-  "total": 574,
+  "last_updated": "2026-11-11T14:06:47.134240+00:00",
+  "total": 569,
   "jobs": [
     {
       "id": "sr-744000159225009",
@@ -315,6 +315,19 @@
       "source": "engie"
     },
     {
+      "id": "engie-69136-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Instrument. and Controls, Mgr",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Instrument.%20and%20Controls%2C%20Mgr",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-73916-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -363,6 +376,19 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Ops%2C%20Maintenance%20Tech%202",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-69719-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Plant EHS Mgr.",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Plant%20EHS%20Mgr.",
       "posted_date": "",
       "source": "engie"
     },
@@ -991,6 +1017,19 @@
       "source": "j2w"
     },
     {
+      "id": "j2w-career-1456207533",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Commodity Product Manager",
+      "location": "Upper Marlboro, MD",
+      "state": "MD",
+      "sector": "Industrial Distribution",
+      "seniority": "Manager",
+      "url": "https://career.sonepar.com/job/Upper-Marlboro-Commodity-Product-Manager-MD-20774/1456207533/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
       "id": "j2w-career-1450891133",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -1095,19 +1134,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1451882933",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Inventory Control Coordinator - 3PL",
-      "location": "Upper Marlboro, MD",
-      "state": "MD",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Upper-Marlboro-Inventory-Control-Coordinator-3PL-MD-20774/1451882933/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1446133933",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -1186,19 +1212,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1431658333",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Regional Safety Manager",
-      "location": "Upper Marlboro, MD",
-      "state": "MD",
-      "sector": "Industrial Distribution",
-      "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Upper-Marlboro-Regional-Safety-Manager-MD-20774/1431658333/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1450509233",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -1234,32 +1247,6 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Upper-Marlboro-Tools%2C-Fastener-and-Safety-Specialist-MD-20774/1388521933/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1454371533",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Warehouse Picker",
-      "location": "Upper Marlboro, MD",
-      "state": "MD",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Upper-Marlboro-Warehouse-Picker-MD-20774/1454371533/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-career-1452484033",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Wire Cutter",
-      "location": "Upper Marlboro, MD",
-      "state": "MD",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Upper-Marlboro-Wire-Cutter-MD-20774/1452484033/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -1339,6 +1326,19 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/4BAC041591334EAB9D89FC4973E318C3/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-09-18",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-36ae5adc249c8b06",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "CDL Operator - Anne Arundel",
+      "location": "Glen Burnie, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/D9EDF74A49BD479E9287E626D59717AC/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-11-03",
       "source": "indeed"
     },
     {
@@ -1940,7 +1940,7 @@
       "source": "smartrecruiters"
     },
     {
-      "id": "sr-744000151854179",
+      "id": "sr-744000160905509",
       "company": "Accor",
       "company_id": "accor",
       "title": "Overnight Steward",
@@ -1948,21 +1948,8 @@
       "state": "PA",
       "sector": "Hospitality & Services",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000151854179",
-      "posted_date": "2026-09-25",
-      "source": "smartrecruiters"
-    },
-    {
-      "id": "sr-744000144146121",
-      "company": "Accor",
-      "company_id": "accor",
-      "title": "Overnight Supervisor",
-      "location": "Pittsburgh, Pa, Us",
-      "state": "PA",
-      "sector": "Hospitality & Services",
-      "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000144146121",
-      "posted_date": "2026-08-18",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000160905509",
+      "posted_date": "2026-11-10",
       "source": "smartrecruiters"
     },
     {
@@ -2018,6 +2005,19 @@
       "source": "smartrecruiters"
     },
     {
+      "id": "sr-744000160931290",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "Security and Loss Prevention Officer",
+      "location": "Pittsburgh, Pa, Us",
+      "state": "PA",
+      "sector": "Hospitality & Services",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000160931290",
+      "posted_date": "2026-11-10",
+      "source": "smartrecruiters"
+    },
+    {
       "id": "sr-744000157159551",
       "company": "Accor",
       "company_id": "accor",
@@ -2057,16 +2057,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-addev-materials-in-a3f4a73d8fe8b55d",
+      "id": "jsp-addev-materials-in-1a098b6aa1ed27b2",
       "company": "Addev Materials",
       "company_id": "addev-materials",
-      "title": "Machine Operator",
+      "title": "Machine Operator - 1st Shift!",
       "location": "Glenshaw, PA",
       "state": "PA",
       "sector": "Manufacturing & Materials",
       "seniority": "Mid-level",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a78879e9f4435c7019f80055ca71bc7&source=Indeed+Free",
-      "posted_date": "2026-07-20",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7887b2a0f424b101a0ffebbfc56180&source=Indeed+Free",
+      "posted_date": "2026-10-05",
       "source": "indeed"
     },
     {
@@ -2222,19 +2222,6 @@
       "sector": "Industrials & Chemicals",
       "seniority": "Manager",
       "url": "https://jobs.arkema.com/job/Radnor-Business-Development-Manager-Job-PA/1441142633/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1432547033",
-      "company": "Arkema",
-      "company_id": "arkema",
-      "title": "Chemical Engineer",
-      "location": "Birdsboro, Pa, United States",
-      "state": "PA",
-      "sector": "Industrials & Chemicals",
-      "seniority": "Mid-level",
-      "url": "https://jobs.arkema.com/job/Birdsboro-Chemical-Engineer-Job-PA/1432547033/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -2512,19 +2499,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-d3c4007f11daaf34",
-      "company": "Capgemini",
-      "company_id": "capgemini",
-      "title": "Techno - functional Architect O2C - D1",
-      "location": "Philadelphia, PA",
-      "state": "PA",
-      "sector": "Technology & IT",
-      "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/ea13b0d5-9c46-4447-bd57-9fd3b014bc24",
-      "posted_date": "2026-10-27",
-      "source": "indeed"
-    },
-    {
       "id": "ic-danone-PA",
       "company": "Danone",
       "company_id": "danone",
@@ -2601,6 +2575,19 @@
       "url": "https://jobs.ourcareerpages.com/",
       "posted_date": "",
       "source": "manual_link"
+    },
+    {
+      "id": "jsp-mazars-in-ed2ae669a94de9e6",
+      "company": "Forvis Mazars",
+      "company_id": "mazars",
+      "title": "Client Acquisition Enablement & Technology Senior Manager",
+      "location": "Fort Washington, PA",
+      "state": "PA",
+      "sector": "Consulting & Professional Services",
+      "seniority": "Manager",
+      "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Client-Acquisition-Enablement-Technology-Senior-Manager/15793",
+      "posted_date": "2026-11-10",
+      "source": "indeed"
     },
     {
       "id": "jsp-mazars-in-77faff3883acee52",
@@ -3227,19 +3214,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Swiftwater-PA/B57-Prep-Tank-Technician_R2875734",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "B57 Prep-Tank Technician",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Mid-level",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/B57-Prep-Tank-Technician_R2875734",
-      "posted_date": "2026-11-02",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Swiftwater-PA/B87-Formulation-and-Filling-Manager_R2871428",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -3422,19 +3396,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Senior-Production-Technician_R2873654-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Senior Production Technician",
-      "location": "Swiftwater, Pa",
-      "state": "PA",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Senior",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Senior-Production-Technician_R2873654-1",
-      "posted_date": "2026-10-14",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Philadelphia-PA/Strategic-Account-Manager---Philadelphia_R2874412",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -3604,14 +3565,27 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-schneider-electric-in-b6c9030614288370",
+      "company": "Schneider Electric",
+      "company_id": "schneider-electric",
+      "title": "Senior Project Manager",
+      "location": "Lancaster, PA",
+      "state": "PA",
+      "sector": "Technology & Energy",
+      "seniority": "Manager",
+      "url": "https://careers.se.com/jobs/141033/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "posted_date": "2026-11-11",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-schneider-electric-in-6826919410914f8d",
       "company": "Schneider Electric",
       "company_id": "schneider-electric",
-      "title": "Systems Field Service Representative",
+      "title": "Sr. Field Service Representative",
       "location": "Philadelphia, PA",
       "state": "PA",
       "sector": "Technology & Energy",
-      "seniority": "Mid-level",
+      "seniority": "Senior",
       "url": "https://careers.se.com/jobs/116854/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2026-05-13",
       "source": "indeed"
@@ -3717,6 +3691,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Quakertown-Counter-Sales-Representative-Quakertown%2C-PA-PA-18951/1437317033/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1456172533",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Cross Dock Supervisor",
+      "location": "York, PA",
+      "state": "PA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/York-Cross-Dock-Supervisor-PA-17402/1456172533/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -4280,19 +4267,6 @@
       "source": "workday"
     },
     {
-      "id": "wd-sanofi-/job/Swiftwater-PA/Large-Scale-mAbs-Automation-Lead_R2872442-1",
-      "company": "Sanofi",
-      "company_id": "sanofi",
-      "title": "Large Scale mAbs Automation Lead",
-      "location": "2 Locations",
-      "state": "US",
-      "sector": "Pharmaceuticals & Healthcare",
-      "seniority": "Senior",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Large-Scale-mAbs-Automation-Lead_R2872442-1",
-      "posted_date": "2026-10-22",
-      "source": "workday"
-    },
-    {
       "id": "wd-sanofi-/job/Cambridge-MA/MSL-or-Sr-MSL-Respiratory-Non-Alliance----PA--NJ--DE_R2876489",
       "company": "Sanofi",
       "company_id": "sanofi",
@@ -4744,6 +4718,19 @@
       "sector": "Aerospace & Defense",
       "seniority": "Manager",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Supplier-Development-Manager---Customer-Services_JR10453414",
+      "posted_date": "",
+      "source": "workday"
+    },
+    {
+      "id": "wd-ag-/job/Herndon-Area-VA/Supply-Chain-Analyst_JR10446342",
+      "company": "Airbus",
+      "company_id": "airbus",
+      "title": "Supply Chain Specialist",
+      "location": "Herndon Area, Va",
+      "state": "VA",
+      "sector": "Aerospace & Defense",
+      "seniority": "Mid-level",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Supply-Chain-Analyst_JR10446342",
       "posted_date": "",
       "source": "workday"
     },
@@ -5515,19 +5502,6 @@
       "source": "icims"
     },
     {
-      "id": "ic-careers-framatome-jobs-3382-project-manager-job",
-      "company": "Framatome",
-      "company_id": "framatome",
-      "title": "Project Manager",
-      "location": "Lynchburg, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://careers-framatome.icims.com/jobs/3382/project-manager/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
       "id": "ic-careers-framatome-jobs-3506-relap-safety-analysis-engineer-iii-job",
       "company": "Framatome",
       "company_id": "framatome",
@@ -5745,19 +5719,6 @@
       "sector": "Technology & Security",
       "seniority": "Internship",
       "url": "https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job",
-      "posted_date": "",
-      "source": "icims"
-    },
-    {
-      "id": "ic-uscareers-idemia-jobs-8676-marketing--26-events-internship---summer-2027-job",
-      "company": "IDEMIA",
-      "company_id": "idemia",
-      "title": "Marketing & Events Internship - Summer 2027",
-      "location": "Reston, VA",
-      "state": "VA",
-      "sector": "Technology & Security",
-      "seniority": "Internship",
-      "url": "https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---summer-2027/job",
       "posted_date": "",
       "source": "icims"
     },
@@ -6152,19 +6113,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1447758833",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Account Manager",
-      "location": "Chesapeake, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Chesapeake-Account-Manager-VA-23320/1447758833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1441900633",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6174,6 +6122,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Manager",
       "url": "https://career.sonepar.com/job/Lynchburg-Account-Manager-VA-24501/1441900633/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1447758833",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Account Manager",
+      "location": "Chesapeake, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Manager",
+      "url": "https://career.sonepar.com/job/Chesapeake-Account-Manager-VA-23320/1447758833/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6230,19 +6191,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1441062633",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Counter Sales Representative",
-      "location": "Winchester, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Winchester-Counter-Sales-Representative-VA-22601/1441062633/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1441899933",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6252,6 +6200,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Lynchburg-Counter-Sales-Representative-VA-24501/1441899933/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1441062633",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Counter Sales Representative",
+      "location": "Winchester, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Winchester-Counter-Sales-Representative-VA-22601/1441062633/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6282,19 +6243,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1431957033",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Inside Sales Representative",
-      "location": "Ashland, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Ashland-Inside-Sales-Representative-VA-23005/1431957033/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1441900733",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -6304,6 +6252,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Lynchburg-Inside-Sales-Representative-VA-24501/1441900733/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1431957033",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Inside Sales Representative",
+      "location": "Ashland, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Ashland-Inside-Sales-Representative-VA-23005/1431957033/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -6581,19 +6542,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-ce850d7c80905223",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Director of Finance and Performance",
-      "location": "Fairfax, VA",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Director/VP",
-      "url": "https://transdevna.jobs/D11A5EDD91CA4FA198EEB77FDAE56998/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-10-05",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-transdev-in-9e9fdc541d49a480",
       "company": "Transdev",
       "company_id": "transdev",
@@ -6630,19 +6578,6 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/7D7FC094568446DFB541CD17CDA44756/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-05-01",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-transdev-in-f807327174e5b897",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Field Supervisor - Fairfax",
-      "location": "Herndon, VA",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/EC09465B88494CCDA3689CF6D0877733/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-09-25",
       "source": "indeed"
     },
     {
@@ -6805,12 +6740,12 @@
       "id": "jsp-veolia-in-1ba5ac706322f574",
       "company": "Veolia",
       "company_id": "veolia",
-      "title": "Associate EI&C Engineer",
+      "title": "Associate Electrical, Instrumentation & Controls Engineer - Water Technologies",
       "location": "Glen Allen, VA",
       "state": "VA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158079689-associate-ei-c-engineer",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160928698-associate-electrical-instrumentation-controls-engineer-water-technologies",
       "posted_date": "2026-09-22",
       "source": "indeed"
     },
@@ -6838,6 +6773,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157223286-electrical-instrumentation-engineer",
       "posted_date": "2026-10-22",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-954cec609b026854",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Electrical & Instrumentation Engineer - Water Technologies",
+      "location": "Glen Allen, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160926289-electrical-instrumentation-engineer-water-technologies",
+      "posted_date": "2026-09-22",
       "source": "indeed"
     },
     {
@@ -6932,16 +6880,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-1daf20deea9fe3cf",
+      "id": "jsp-veolia-in-af1862020d2ab439",
       "company": "Veolia",
       "company_id": "veolia",
-      "title": "Project Engineer - Mechanical",
-      "location": "North Chesterfield, VA",
+      "title": "Project Engineer, Mechanical",
+      "location": "Sterling, VA",
       "state": "VA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158046598-project-engineer-mechanical-",
-      "posted_date": "2026-10-27",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161017153-project-engineer-mechanical-",
+      "posted_date": "2026-11-11",
       "source": "indeed"
     },
     {
@@ -6971,19 +6919,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-94cac61bcce1c5b9",
-      "company": "Veolia",
-      "company_id": "veolia",
-      "title": "Senior Electrical, Instrumentation & Controls Engineer",
-      "location": "Glen Allen, VA",
-      "state": "VA",
-      "sector": "Energy & Environment",
-      "seniority": "Senior",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158078554-senior-electrical-instrumentation-controls-engineer",
-      "posted_date": "2026-09-18",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-veolia-in-cbc396de8e7fd6d3",
       "company": "Veolia",
       "company_id": "veolia",
@@ -6994,6 +6929,19 @@
       "seniority": "Senior",
       "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151664118-senior-lead-engineer",
       "posted_date": "2026-09-24",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-veolia-in-94cac61bcce1c5b9",
+      "company": "Veolia",
+      "company_id": "veolia",
+      "title": "Sr Electrical, Instrumentation & Controls Engineer - Water Technologies",
+      "location": "Glen Allen, VA",
+      "state": "VA",
+      "sector": "Energy & Environment",
+      "seniority": "Senior",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160923209-sr-electrical-instrumentation-controls-engineer-water-technologies",
+      "posted_date": "2026-09-18",
       "source": "indeed"
     },
     {
@@ -7292,19 +7240,6 @@
       "sector": "Manufacturing & Materials",
       "seniority": "Mid-level",
       "url": "https://jobs.constellium.com/job/Ravenswood-Mechanical-Engineer-Hot-Line-WV-26164-0068/1393482833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
-      "id": "j2w-jobs-1432455733",
-      "company": "Constellium",
-      "company_id": "constellium",
-      "title": "Metal & Inventory Manager",
-      "location": "Ravenswood, WV",
-      "state": "WV",
-      "sector": "Manufacturing & Materials",
-      "seniority": "Manager",
-      "url": "https://jobs.constellium.com/job/Ravenswood-Metal-&-Inventory-Manager-WV-26164-0068/1432455733/",
       "posted_date": "",
       "source": "j2w"
     },
