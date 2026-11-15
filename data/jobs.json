@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T13:29:33.813136+00:00",
+  "last_updated": "2026-11-15T13:56:39.627481+00:00",
   "total": 549,
   "jobs": [
     {
@@ -169,6 +169,19 @@
       "seniority": "Mid-level",
       "url": "https://jobs.smartrecruiters.com/AccorHotel/744000150673464",
       "posted_date": "2026-09-21",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "sr-744000161639379",
+      "company": "Accor",
+      "company_id": "accor",
+      "title": "Lobby Lounge Server",
+      "location": "Washington, Dc, Us",
+      "state": "DC",
+      "sector": "Hospitality & Services",
+      "seniority": "Mid-level",
+      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000161639379",
+      "posted_date": "2026-11-14",
       "source": "smartrecruiters"
     },
     {
@@ -2044,16 +2057,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-addev-materials-in-a7aef886ff08aebc",
+      "id": "jsp-addev-materials-in-1a098b6aa1ed27b2",
       "company": "Addev Materials",
       "company_id": "addev-materials",
-      "title": "Machine Operator",
+      "title": "Machine Operator - 1st Shift!",
       "location": "Glenshaw, PA",
       "state": "PA",
       "sector": "Manufacturing & Materials",
       "seniority": "Mid-level",
-      "url": "https://www.indeed.com/viewjob?jk=a7aef886ff08aebc",
-      "posted_date": "2026-10-21",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7887b2a0f424b101a0ffebbfc56180&source=Indeed+Free",
+      "posted_date": "2026-10-05",
       "source": "indeed"
     },
     {
@@ -2847,19 +2860,6 @@
       "seniority": "Mid-level",
       "url": "https://apply-jobs.apploi.com/job/1210147?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed",
       "posted_date": "2026-10-16",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-snf-in-9718061f6a14fc55",
-      "company": "SNF",
-      "company_id": "snf",
-      "title": "Project Engineer",
-      "location": "Lock Haven, PA",
-      "state": "PA",
-      "sector": "Industrials & Chemicals",
-      "seniority": "Mid-level",
-      "url": "https://uscareers.snf.com/careers-home/jobs/2307?lang=en-us",
-      "posted_date": "2026-10-14",
       "source": "indeed"
     },
     {
@@ -3773,15 +3773,15 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-6866f0b9c5675183",
+      "id": "jsp-veolia-in-9c07900d01a5038b",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Field Service Representative (Resident)",
-      "location": "Harrisburg, PA",
+      "location": "Middletown, PA",
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000159505029-field-service-representative-resident-",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000159505568-field-service-representative-resident-",
       "posted_date": "2026-11-03",
       "source": "indeed"
     },
@@ -3799,16 +3799,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-31cb80a17fdbf794",
+      "id": "jsp-veolia-in-01acfa9509d94b9c",
       "company": "Veolia",
       "company_id": "veolia",
-      "title": "I&C Field Service Representative -Specialty Ops",
-      "location": "Trevose, PA",
+      "title": "I&C Field Service Representative - Specialty Ops",
+      "location": "Philadelphia, PA",
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151720038--i-c-field-service-representative-specialty-ops",
-      "posted_date": "2026-07-01",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151719868-i-c-field-service-representative-specialty-ops",
+      "posted_date": "2026-06-30",
       "source": "indeed"
     },
     {
@@ -3851,7 +3851,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-5db54c9e0d9f6a9b",
+      "id": "jsp-veolia-in-9423d1b414de7c76",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Senior Corporate Counsel",
@@ -3859,8 +3859,8 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Senior",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000155337958-senior-corporate-counsel-",
-      "posted_date": "2026-10-13",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156638273-senior-corporate-counsel",
+      "posted_date": "2026-09-17",
       "source": "indeed"
     },
     {
