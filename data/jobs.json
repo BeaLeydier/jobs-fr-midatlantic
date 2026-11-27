@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-26T16:49:48.011413+00:00",
-  "total": 458,
+  "last_updated": "2026-11-27T16:36:38.032096+00:00",
+  "total": 462,
   "jobs": [
     {
       "id": "sr-744000159225009",
@@ -276,6 +276,19 @@
       "source": "engie"
     },
     {
+      "id": "engie-73185-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Electrical Distribution Sup",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Electrical%20Distribution%20Sup",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-72921-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -328,6 +341,32 @@
       "source": "engie"
     },
     {
+      "id": "engie-72160-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Mechanical Distribution Sup",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Mechanical%20Distribution%20Sup",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-72177-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Ops, Maintenance Tech 2",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Ops%2C%20Maintenance%20Tech%202",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
       "id": "engie-72590-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -363,6 +402,19 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://jobs.engie.com/search/?q=Project%20Management%20II_EGPM1H",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-75379-DC",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Project Management Manager_EGPM1M",
+      "location": "Washington, DC",
+      "state": "DC",
+      "sector": "Energy & Environment",
+      "seniority": "Manager",
+      "url": "https://jobs.engie.com/search/?q=Project%20Management%20Manager_EGPM1M",
       "posted_date": "",
       "source": "engie"
     },
@@ -640,19 +692,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-74233-MD",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Project Development Advisor_ENPD1J",
-      "location": "Remote (MD)",
-      "state": "MD",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Project%20Development%20Advisor_ENPD1J",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "jsp-fives-in-6de4c33c24fbb20d",
       "company": "Fives",
       "company_id": "fives",
@@ -739,7 +778,7 @@
       "state": "MD",
       "sector": "Aerospace & Defense",
       "seniority": "Executive",
-      "url": "https://safran.profils.org/offre-de-emploi/emploi-sau-president-ceo_193206.aspx",
+      "url": "https://safran.profils.org/job/job-sau-president-ceo_193206.aspx",
       "posted_date": "",
       "source": "profilsorg"
     },
@@ -1017,7 +1056,7 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1450509233",
+      "id": "j2w-career-1450509833",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Sales, Operations & Supply Chain Rotational Program",
@@ -1025,7 +1064,7 @@
       "state": "MD",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Upper-Marlboro-Sales%2C-Operations-&-Supply-Chain-Rotational-Program-MD-20774/1450509233/",
+      "url": "https://career.sonepar.com/job/Upper-Marlboro-Sales%2C-Operations-&-Supply-Chain-Rotational-Program-MD-20774/1450509833/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -1095,16 +1134,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-dc1adbf8caa4a8ee",
+      "id": "jsp-transdev-in-db0d55c61093e97b",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Automotive Technician",
-      "location": "Rockville, MD",
+      "location": "Elkton, MD",
       "state": "MD",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/8D59D07256AF475F824D83A05ED76A31/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-09-22",
+      "url": "https://transdevna.jobs/74050E56ED0D4C7A8279AB874020C15A/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-07-29",
       "source": "indeed"
     },
     {
@@ -1121,6 +1160,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-transdev-in-ad3e9f6f981d9556",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "CDL Bus Driver - BWI Airport",
+      "location": "Baltimore, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/572CA88C308E463098CCFEFA20C6834B/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-03-05",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-transdev-in-a8ddfeb04a0ebc82",
       "company": "Transdev",
       "company_id": "transdev",
@@ -1131,19 +1183,6 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/B0DB6EF837434A318B6D6251499D9CA5/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-03-05",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-transdev-in-87b7881e21be3de4",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "CDL Driver",
-      "location": "Rockville, MD",
-      "state": "MD",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/F320C5FDFAFB448782E23FA55A4591CD/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-10-06",
       "source": "indeed"
     },
     {
@@ -1329,15 +1368,28 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-3a8c68eed2305c58",
+      "id": "jsp-transdev-in-b66e876b590680e5",
       "company": "Transdev",
       "company_id": "transdev",
-      "title": "Part Time Service Bus Lane Technician",
+      "title": "Part Time CDL Driver",
       "location": "Silver Spring, MD",
       "state": "MD",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/EE1093B272DB47D88090B9221A1E191A/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "url": "https://transdevna.jobs/7AD4DAB3FC654D01B43D4CD2F3008966/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-07-21",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-ae479ae9aa52beee",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Part Time Service Bus Lane Technician",
+      "location": "Rockville, MD",
+      "state": "MD",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/8B06A550246D4D8DACB74547A9563B14/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-07-21",
       "source": "indeed"
     },
@@ -1381,16 +1433,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-f12cf56f6055c838",
+      "id": "jsp-transdev-in-3aef9aa8009950ce",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Safety Manager",
-      "location": "Glen Burnie, MD",
+      "location": "Baltimore, MD",
       "state": "MD",
       "sector": "Transportation & Logistics",
       "seniority": "Manager",
-      "url": "https://transdevna.jobs/A0AA0189499C49ECB7F9F59DAA85F1BF/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-11-19",
+      "url": "https://transdevna.jobs/5F2FD029C95540B49067739340B9485D/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-08-18",
       "source": "indeed"
     },
     {
@@ -1459,7 +1511,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-37446f6faea04ed3",
+      "id": "jsp-transdev-in-b95b798a3edf5642",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Technician I - MTA Lombard/Sisson",
@@ -1467,7 +1519,7 @@
       "state": "MD",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/683439330EDD48A1AAAF71D75FC8CBF4/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "url": "https://transdevna.jobs/6C0CD0218171422EA22AEA335CF76932/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-09-23",
       "source": "indeed"
     },
@@ -1485,7 +1537,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-5254cbca9306df99",
+      "id": "jsp-transdev-in-f1b974406ae54408",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Utility Worker - Baltimore MTA",
@@ -1493,7 +1545,7 @@
       "state": "MD",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/BDF2CDA4585C451D88394F3B18EE9BF6/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "url": "https://transdevna.jobs/8F0E540C35E047CCAA218D9DB74B22B7/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-09-23",
       "source": "indeed"
     },
@@ -2746,7 +2798,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-schneider-electric-in-7ce6503532856208",
+      "id": "jsp-schneider-electric-in-dee638443bc5d5e2",
       "company": "Schneider Electric",
       "company_id": "schneider-electric",
       "title": "Field Service Representative - Power Distribution/Electrical",
@@ -2754,7 +2806,7 @@
       "state": "PA",
       "sector": "Technology & Energy",
       "seniority": "Mid-level",
-      "url": "https://careers.se.com/jobs/126967/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://careers.se.com/jobs/126968/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2026-07-16",
       "source": "indeed"
     },
@@ -3292,15 +3344,15 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-212a2596b7e5f713",
+      "id": "jsp-veolia-in-9c07900d01a5038b",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Field Service Representative (Resident)",
-      "location": "Lancaster, PA",
+      "location": "Middletown, PA",
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000159505646-field-service-representative-resident-",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000159505568-field-service-representative-resident-",
       "posted_date": "2026-11-03",
       "source": "indeed"
     },
@@ -3370,7 +3422,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-veolia-in-5db54c9e0d9f6a9b",
+      "id": "jsp-veolia-in-9423d1b414de7c76",
       "company": "Veolia",
       "company_id": "veolia",
       "title": "Senior Corporate Counsel",
@@ -3378,8 +3430,8 @@
       "state": "PA",
       "sector": "Energy & Environment",
       "seniority": "Senior",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000155337958-senior-corporate-counsel-",
-      "posted_date": "2026-10-13",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156638273-senior-corporate-counsel",
+      "posted_date": "2026-09-17",
       "source": "indeed"
     },
     {
@@ -4670,16 +4722,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-schneider-electric-in-06b2a6cbbde8049d",
+      "id": "jsp-schneider-electric-in-492f0fda77e8fb64",
       "company": "Schneider Electric",
       "company_id": "schneider-electric",
       "title": "Field Service Representative",
-      "location": "Boydton, VA",
+      "location": "Richmond, VA",
       "state": "VA",
       "sector": "Technology & Energy",
       "seniority": "Mid-level",
-      "url": "https://careers.se.com/jobs/138522/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "posted_date": "2026-11-07",
+      "url": "https://careers.se.com/jobs/124358/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "posted_date": "2026-06-23",
       "source": "indeed"
     },
     {
@@ -4696,16 +4748,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-schneider-electric-in-9eeeba69403e5e31",
+      "id": "jsp-schneider-electric-in-fd882aa9a962909b",
       "company": "Schneider Electric",
       "company_id": "schneider-electric",
       "title": "Field Service Representative - Power Distribution/Electrical",
-      "location": "Arlington, VA",
+      "location": "Winchester, VA",
       "state": "VA",
       "sector": "Technology & Energy",
       "seniority": "Mid-level",
-      "url": "https://careers.se.com/jobs/143312/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "posted_date": "2026-11-21",
+      "url": "https://careers.se.com/jobs/132226/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "posted_date": "2026-10-23",
       "source": "indeed"
     },
     {
@@ -4787,19 +4839,6 @@
       "source": "manual_link"
     },
     {
-      "id": "j2w-career-1447758833",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Account Manager",
-      "location": "Chesapeake, VA",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Manager",
-      "url": "https://career.sonepar.com/job/Chesapeake-Account-Manager-VA-23320/1447758833/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1441900633",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -4809,6 +4848,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Manager",
       "url": "https://career.sonepar.com/job/Lynchburg-Account-Manager-VA-24501/1441900633/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1447758833",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Account Manager",
+      "location": "Chesapeake, VA",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Manager",
+      "url": "https://career.sonepar.com/job/Chesapeake-Account-Manager-VA-23320/1447758833/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -4839,19 +4891,6 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1439182933",
-      "company": "Sonepar",
-      "company_id": "sonepar",
-      "title": "Counter Sales Representative",
-      "location": "Norfolk, NE",
-      "state": "VA",
-      "sector": "Industrial Distribution",
-      "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Norfolk-Counter-Sales-Representative-NE-68701/1439182933/",
-      "posted_date": "",
-      "source": "j2w"
-    },
-    {
       "id": "j2w-career-1441062633",
       "company": "Sonepar",
       "company_id": "sonepar",
@@ -4861,6 +4900,19 @@
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
       "url": "https://career.sonepar.com/job/Winchester-Counter-Sales-Representative-VA-22601/1441062633/",
+      "posted_date": "",
+      "source": "j2w"
+    },
+    {
+      "id": "j2w-career-1439182933",
+      "company": "Sonepar",
+      "company_id": "sonepar",
+      "title": "Counter Sales Representative",
+      "location": "Norfolk, NE",
+      "state": "VA",
+      "sector": "Industrial Distribution",
+      "seniority": "Mid-level",
+      "url": "https://career.sonepar.com/job/Norfolk-Counter-Sales-Representative-NE-68701/1439182933/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -4982,19 +5034,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-2673f1ec019a3346",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Bus Driver - Fairfax Connector",
-      "location": "Herndon, VA",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/D55560032472413581309FC4C69AEACD/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-03-05",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-transdev-in-b8e2c73e5a0a1bc5",
       "company": "Transdev",
       "company_id": "transdev",
@@ -5004,6 +5043,19 @@
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/839E97591931453C949E4B78AF1F0632/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-03-05",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-a30fad5b8e5aa820",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Bus Driver - Fairfax Connector",
+      "location": "Lorton, VA",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/385BD216F1524D5790E2E7348AEF2675/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-03-05",
       "source": "indeed"
     },
@@ -5021,19 +5073,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-cfafd515d641093f",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Diesel Mechanic",
-      "location": "Lorton, VA",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/3BD0C765604247B487D5801718E450B8/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-10-03",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-transdev-in-bfb77155525e4868",
       "company": "Transdev",
       "company_id": "transdev",
@@ -5044,6 +5083,19 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/EE2DBA76083D4D2796BD4EC3A74BAA46/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-09-30",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-cfdecce143f91015",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Diesel Mechanic",
+      "location": "Williamsburg, VA",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/84A036EF659A40B6910BADCBC3470B75/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-08-19",
       "source": "indeed"
     },
     {
@@ -5151,15 +5203,15 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-9feae98f8169f3c8",
+      "id": "jsp-transdev-in-a2dca7ad31fc07a7",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Field Supervisor - Fairfax",
-      "location": "Fairfax, VA",
+      "location": "Lorton, VA",
       "state": "VA",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/BC63BDAE444741CA9F9CCE49A92B4541/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "url": "https://transdevna.jobs/9CE865F39C2E48F9978FFA067120C1F2/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-11-11",
       "source": "indeed"
     },
