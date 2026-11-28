@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T16:36:38.032096+00:00",
+  "last_updated": "2026-11-28T15:28:30.998219+00:00",
   "total": 462,
   "jobs": [
     {
@@ -276,19 +276,6 @@
       "source": "engie"
     },
     {
-      "id": "engie-73185-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Electrical Distribution Sup",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Electrical%20Distribution%20Sup",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
       "id": "engie-72921-DC",
       "company": "Engie",
       "company_id": "engie",
@@ -298,19 +285,6 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=GU%20Electrician%2C%20High%20Voltage",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-69136-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Instrument. and Controls, Mgr",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Mid-level",
-      "url": "https://jobs.engie.com/search/?q=Instrument.%20and%20Controls%2C%20Mgr",
       "posted_date": "",
       "source": "engie"
     },
@@ -402,19 +376,6 @@
       "sector": "Energy & Environment",
       "seniority": "Manager",
       "url": "https://jobs.engie.com/search/?q=Project%20Management%20II_EGPM1H",
-      "posted_date": "",
-      "source": "engie"
-    },
-    {
-      "id": "engie-75379-DC",
-      "company": "Engie",
-      "company_id": "engie",
-      "title": "Project Management Manager_EGPM1M",
-      "location": "Washington, DC",
-      "state": "DC",
-      "sector": "Energy & Environment",
-      "seniority": "Manager",
-      "url": "https://jobs.engie.com/search/?q=Project%20Management%20Manager_EGPM1M",
       "posted_date": "",
       "source": "engie"
     },
@@ -688,6 +649,19 @@
       "sector": "Energy & Environment",
       "seniority": "Mid-level",
       "url": "https://jobs.engie.com/search/?q=Project%20Coord%20Analyst%20II_ENPC1H",
+      "posted_date": "",
+      "source": "engie"
+    },
+    {
+      "id": "engie-74233-MD",
+      "company": "Engie",
+      "company_id": "engie",
+      "title": "Project Development Advisor_ENPD1J",
+      "location": "Remote (MD)",
+      "state": "MD",
+      "sector": "Energy & Environment",
+      "seniority": "Mid-level",
+      "url": "https://jobs.engie.com/search/?q=Project%20Development%20Advisor_ENPD1J",
       "posted_date": "",
       "source": "engie"
     },
@@ -1056,7 +1030,7 @@
       "source": "j2w"
     },
     {
-      "id": "j2w-career-1450509833",
+      "id": "j2w-career-1450509233",
       "company": "Sonepar",
       "company_id": "sonepar",
       "title": "Sales, Operations & Supply Chain Rotational Program",
@@ -1064,7 +1038,7 @@
       "state": "MD",
       "sector": "Industrial Distribution",
       "seniority": "Mid-level",
-      "url": "https://career.sonepar.com/job/Upper-Marlboro-Sales%2C-Operations-&-Supply-Chain-Rotational-Program-MD-20774/1450509833/",
+      "url": "https://career.sonepar.com/job/Upper-Marlboro-Sales%2C-Operations-&-Supply-Chain-Rotational-Program-MD-20774/1450509233/",
       "posted_date": "",
       "source": "j2w"
     },
@@ -1810,19 +1784,6 @@
       "source": "smartrecruiters"
     },
     {
-      "id": "sr-744000154521319",
-      "company": "Accor",
-      "company_id": "accor",
-      "title": "Payroll & Staff Accountant / HR Coordinator",
-      "location": "Philadelphia, Pa, Us",
-      "state": "PA",
-      "sector": "Hospitality & Services",
-      "seniority": "Lead/Principal",
-      "url": "https://jobs.smartrecruiters.com/AccorHotel/744000154521319",
-      "posted_date": "2026-10-08",
-      "source": "smartrecruiters"
-    },
-    {
       "id": "sr-744000152235189",
       "company": "Accor",
       "company_id": "accor",
@@ -2122,15 +2083,15 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-capgemini-in-2f23e09fc384c23f",
+      "id": "jsp-capgemini-in-0a6f088468a192e9",
       "company": "Capgemini",
       "company_id": "capgemini",
       "title": "Business Analyst - B2",
-      "location": "Exton, PA",
+      "location": "Malvern, PA",
       "state": "PA",
       "sector": "Technology & IT",
       "seniority": "Mid-level",
-      "url": "https://capgemini.talentnet.community/jobs/1d11b9fc-d325-434e-b15c-a88c9ebaffd8",
+      "url": "https://capgemini.talentnet.community/jobs/5111c441-9bea-45c3-89fd-19613c7e8a4e",
       "posted_date": "2026-11-17",
       "source": "indeed"
     },
@@ -2288,6 +2249,32 @@
       "seniority": "Mid-level",
       "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Business-Development-Executive-Pittsburgh/15905",
       "posted_date": "2026-11-25",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-mazars-in-ed2ae669a94de9e6",
+      "company": "Forvis Mazars",
+      "company_id": "mazars",
+      "title": "Client Acquisition Enablement & Technology Senior Manager",
+      "location": "Pittsburgh, PA",
+      "state": "PA",
+      "sector": "Consulting & Professional Services",
+      "seniority": "Manager",
+      "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Client-Acquisition-Enablement-Technology-Senior-Manager/15793",
+      "posted_date": "2026-11-10",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-mazars-in-50c4ba5dc46d9a85",
+      "company": "Forvis Mazars",
+      "company_id": "mazars",
+      "title": "Compensation Senior Manager",
+      "location": "Fort Washington, PA",
+      "state": "PA",
+      "sector": "Consulting & Professional Services",
+      "seniority": "Manager",
+      "url": "https://forvis.avature.net/experiencedcareers/JobDetail/Compensation-Senior-Manager/15628",
+      "posted_date": "2026-10-13",
       "source": "indeed"
     },
     {
@@ -2798,7 +2785,7 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-schneider-electric-in-dee638443bc5d5e2",
+      "id": "jsp-schneider-electric-in-7ce6503532856208",
       "company": "Schneider Electric",
       "company_id": "schneider-electric",
       "title": "Field Service Representative - Power Distribution/Electrical",
@@ -2806,7 +2793,7 @@
       "state": "PA",
       "sector": "Technology & Energy",
       "seniority": "Mid-level",
-      "url": "https://careers.se.com/jobs/126968/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://careers.se.com/jobs/126967/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "posted_date": "2026-07-16",
       "source": "indeed"
     },
@@ -3188,19 +3175,6 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-7791016c439efc08",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Non CDL Driver",
-      "location": "Allentown, PA",
-      "state": "PA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/9B682AE23EA1428D8B419E0342C74E92/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-03-01",
-      "source": "indeed"
-    },
-    {
       "id": "jsp-transdev-in-7a1923810223265b",
       "company": "Transdev",
       "company_id": "transdev",
@@ -3224,6 +3198,19 @@
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/25059D19F35D4091A76D6632491766C3/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-09-30",
+      "source": "indeed"
+    },
+    {
+      "id": "jsp-transdev-in-a2296d3432e661d1",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Non-CDL Driver",
+      "location": "Canonsburg, PA",
+      "state": "PA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/65602422F09C427088B8DC6AADDF3753/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-11-23",
       "source": "indeed"
     },
     {
@@ -5034,6 +5021,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-transdev-in-2673f1ec019a3346",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Bus Driver - Fairfax Connector",
+      "location": "Herndon, VA",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/D55560032472413581309FC4C69AEACD/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-03-05",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-transdev-in-b8e2c73e5a0a1bc5",
       "company": "Transdev",
       "company_id": "transdev",
@@ -5043,19 +5043,6 @@
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
       "url": "https://transdevna.jobs/839E97591931453C949E4B78AF1F0632/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-03-05",
-      "source": "indeed"
-    },
-    {
-      "id": "jsp-transdev-in-a30fad5b8e5aa820",
-      "company": "Transdev",
-      "company_id": "transdev",
-      "title": "Bus Driver - Fairfax Connector",
-      "location": "Lorton, VA",
-      "state": "VA",
-      "sector": "Transportation & Logistics",
-      "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/385BD216F1524D5790E2E7348AEF2675/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-03-05",
       "source": "indeed"
     },
@@ -5073,6 +5060,19 @@
       "source": "indeed"
     },
     {
+      "id": "jsp-transdev-in-cfafd515d641093f",
+      "company": "Transdev",
+      "company_id": "transdev",
+      "title": "Diesel Mechanic",
+      "location": "Lorton, VA",
+      "state": "VA",
+      "sector": "Transportation & Logistics",
+      "seniority": "Mid-level",
+      "url": "https://transdevna.jobs/3BD0C765604247B487D5801718E450B8/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-10-03",
+      "source": "indeed"
+    },
+    {
       "id": "jsp-transdev-in-bfb77155525e4868",
       "company": "Transdev",
       "company_id": "transdev",
@@ -5086,16 +5086,16 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-cfdecce143f91015",
+      "id": "jsp-transdev-in-4440c494d6bc8841",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Diesel Mechanic",
-      "location": "Williamsburg, VA",
+      "location": "Arlington, VA",
       "state": "VA",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/84A036EF659A40B6910BADCBC3470B75/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
-      "posted_date": "2026-08-19",
+      "url": "https://transdevna.jobs/136D85FE52AF4D178D71959C0E9E7D2B/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "posted_date": "2026-09-22",
       "source": "indeed"
     },
     {
@@ -5203,15 +5203,15 @@
       "source": "indeed"
     },
     {
-      "id": "jsp-transdev-in-a2dca7ad31fc07a7",
+      "id": "jsp-transdev-in-9feae98f8169f3c8",
       "company": "Transdev",
       "company_id": "transdev",
       "title": "Field Supervisor - Fairfax",
-      "location": "Lorton, VA",
+      "location": "Fairfax, VA",
       "state": "VA",
       "sector": "Transportation & Logistics",
       "seniority": "Mid-level",
-      "url": "https://transdevna.jobs/9CE865F39C2E48F9978FFA067120C1F2/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
+      "url": "https://transdevna.jobs/BC63BDAE444741CA9F9CCE49A92B4541/job?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed",
       "posted_date": "2026-11-11",
       "source": "indeed"
     },
